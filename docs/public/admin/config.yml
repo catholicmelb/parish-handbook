@@ -6,19 +6,6 @@ media_folder: "docs/public/media"
 public_folder: "/media"
 publish_mode: editorial_workflow
 collections:
-  - label: "Settings"
-    name: "settings"
-    files:
-      - file: "docs/settings/navigation.yml"
-        label: "Navigation"
-        name: "navigation"
-        fields:
-          - label: "Navigation"
-            name: "nav_items"
-            widget: "list"
-            fields:
-              - { label: "Label", name: "label", widget: "string" }
-              - { label: "Path", name: "path", widget: "string" }
   - label: "Post"
     name: "posts"
     folder: "docs/post"
@@ -27,3 +14,16 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Meta description", name: "description", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
+  - label: "Settings"
+    name: "settings"
+    files:
+      - file: "docs/settings/navigation.js"
+        label: "Navigation"
+        name: "navigation"
+        fields:
+          - label: "Navigation"
+            name: "sidebar"
+            widget: "list"
+            fields:
+              - { label: "Label", name: "label", widget: "string" }
+              - { label: "Link", name: "link", widget: "string" }
