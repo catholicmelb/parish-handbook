@@ -1,4 +1,5 @@
 import CMS from 'netlify-cms-app';
+import posts from '@/cms/collections/posts';
 
 CMS.init({
   config: {
@@ -15,23 +16,6 @@ CMS.init({
         name: "post",
         label: "Post",
         folder: "docs/post"
-        fields: [
-          {
-            label: "Title",
-            name: "title",
-            widget: "string",
-          },
-          {
-            label: "Meta Description",
-            name: "description",
-            widget: "string",
-          },
-          {
-            label: "Body",
-            name: "body",
-            widget: "markdown",
-          },
-        ],
       },
   },
 });
