@@ -37,11 +37,6 @@ const Admin = () => {
     );
     CMS.registerPreviewTemplate("blog", Preview);
   }, []);
-
-  return (
-    <>
-    </>
-  );
 };
 
 export default Admin;
