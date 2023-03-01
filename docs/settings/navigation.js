@@ -1,6 +1,8 @@
 function sidebarGuide() {
   return [
-    { text: 'Foreword', link: '/foreword.md' },
-    { text: 'Test', link: '/test.md' },
+    sidebar_items: [
+      { text: 'Foreword', link: '/foreword.md' },
+      { text: 'Test', link: '/test.md' },
+    ]
   ],
 }
