@@ -17,12 +17,13 @@ collections:
   - label: "Settings"
     name: "settings"
     files:
-      - file: "docs/.vitepress/config.js"
+      - file: "docs/settings/navigation.yml"
         label: "Navigation"
-        name: "themeConfig"
+        name: "navigation"
         fields:
           - label: "Navigation"
-            name: "sidebar"
+            name: "nav_items"
             widget: "list"
             fields:
-              - { text: "Label" }
+              - { label: "Label", name: "label", widget: "string" }
+              - { label: "Path", name: "path", widget: "string" }
