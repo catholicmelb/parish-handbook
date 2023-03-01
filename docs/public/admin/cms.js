@@ -1,4 +1,4 @@
-import CMS from '@/netlify-cms-app';
+import CMS from 'netlify-cms-app';
 import posts from '@/cms/collections/posts';
 
 CMS.init({
