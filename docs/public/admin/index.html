@@ -6,51 +6,6 @@
   <title>Content Manager</title>
 </head>
 <body>
-  <!-- Add these scripts to the bottom of the body -->
-  <script src="https://unpkg.com/react@^16/umd/react.production.min.js"></script>
-  <script src="https://unpkg.com/react-dom@^16/umd/react-dom.production.min.js"></script>
-  <script src="https://unpkg.com/netlify-cms-app/dist/netlify-cms-app.js"></script>
-  
-  <!-- Initialize the CMS -->
-  <script>
-    const isDev = process.env.NODE_ENV === 'development'
-
-    const devBackend = { name: 'git-gateway' }
-    const prodBackend = { name: 'github', repo: 'leightonhughes/Vitepress-with-Decap-CMS', branch: 'main' }
-
-    NetlifyCmsApp.init({
-      config: {
-        load_config_file: false,
-        backend: isDev ? devBackend : prodBackend,
-        media_folder: '/docs/public/media',
-        public_folder: '/media',
-        collections: [
-          {
-            label: "Post",
-            name: "posts",
-            folder: "docs/post",
-            create: true,
-            fields: [
-              {
-                label: 'Title',
-                name: 'title',
-                widget: 'string'
-              },
-              {
-                label: 'Meta description',
-                name: 'description',
-                widget: 'string'
-              },
-              {
-                label: 'Body',
-                name: 'body',
-                widget: 'markdown'
-              }
-            ]
-          }
-        ]
-      }
-    });
-  </script>
+  <script src="/docs/public/admin/cms.js"></script>
 </body>
 </html>
