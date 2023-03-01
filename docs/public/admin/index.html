@@ -25,9 +25,10 @@
         public_folder: '/media',
         collections: [
           {
-            name: "post",
             label: "Post",
-            folder: "docs/post"
+            name: "posts",
+            folder: "docs/post",
+            create: true,
             fields: [
               {
                 label: 'Title',
@@ -43,7 +44,7 @@
                 label: 'Body',
                 name: 'body',
                 widget: 'markdown'
-              },
+              }
             ]
           }
         ]
