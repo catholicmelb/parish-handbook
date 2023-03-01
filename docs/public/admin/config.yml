@@ -17,9 +17,9 @@ collections:
   - label: "Settings"
     name: "settings"
     files:
-      - file: "docs/settings/navigation.yml"
-        label: "Sidebar"
+      - label: "Sidebar"
         name: "sidebar"
+        file: "docs/settings/sidebar.yml"
         fields:
           - label: "Sidebar"
             name: "sidebar_items"

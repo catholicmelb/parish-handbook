@@ -1,4 +1,4 @@
 /.ddev
 /node_modules
-/docs/.vitepress
+/docs/.vitepress/cache
 /docs/.DS_Store
