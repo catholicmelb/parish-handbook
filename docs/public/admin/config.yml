@@ -19,7 +19,7 @@ collections:
     files:
       - label: "Sidebar"
         name: "sidebar"
-        file: "docs/settings/navigation.js"
+        file: "docs/settings/navigation.json"
         fields:
           - label: "Sidebar"
             name: "sidebar_items"
