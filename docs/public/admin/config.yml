@@ -19,7 +19,7 @@ collections:
     files:
       - label: "Sidebar"
         name: "sidebar"
-        file: "docs/settings/navigation.yml"
+        file: "docs/settings/sidebar.yml"
         fields:
           - label: "Sidebar"
             name: "sidebar_items"

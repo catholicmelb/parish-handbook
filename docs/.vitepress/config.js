@@ -10,15 +10,15 @@ export default defineConfig({
     editLinks: true,
     editLinkText: 'Edit this page on GitHub',
     lastUpdated: 'Last Updated',
-    // sidebar: {
-    //   '/post/': sidebarGuide(),
-    // }
+    sidebar: {
+      '/post/': sidebarGuide(),
+    }
   }
 })
 
-// function sidebarGuide() {
-//   return [
-//     { text: 'Foreword', link: '/foreword.md' },
-//     { text: 'Test', link: '/test.md' },
-//   ],
-// }
+function sidebarGuide() {
+  return [
+    { text: 'Foreword', link: '/foreword.md' },
+    { text: 'Test', link: '/test.md' },
+  ],
+}
