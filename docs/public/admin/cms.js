@@ -7,10 +7,8 @@ const Preview = (props) => {
   const title = entry.getIn(["data", "title"]) || "";
 
   return (
-    <>
-      <h1>{props.widgetFor("title")}</h1>
+      {props.widgetFor("title")}
       {props.widgetFor("body")}
-    </>
   );
 };
 
