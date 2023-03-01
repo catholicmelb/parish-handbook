@@ -5,7 +5,6 @@
     "docs:preview": "vitepress preview docs"
   },
   "devDependencies": {
-    "netlify-cms-app": "^2.15.72",
     "vitepress": "^1.0.0-alpha.49",
     "vue": "^3.2.47"
   }

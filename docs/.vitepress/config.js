@@ -10,5 +10,13 @@ export default defineConfig({
     editLinks: true,
     editLinkText: 'Edit this page on GitHub',
     lastUpdated: 'Last Updated',
+    sidebar: {
+      { 
+        items: [
+          { text: 'Foreword', link: '/foreword.md' },
+          { text: 'Test', link: '/test.md' },
+        ]
+      }
+    }
   }
 })
