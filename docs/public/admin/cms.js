@@ -6,10 +6,10 @@ const Preview = (props) => {
   const entry = props.entry;
   const title = entry.getIn(["data", "title"]) || "";
 
-  return (
-      {props.widgetFor("title")}
-      {props.widgetFor("body")}
-  );
+  // return (
+  //     {props.widgetFor("title")}
+  //     {props.widgetFor("body")}
+  // );
 };
 
 const Admin = () => {
