@@ -1,3 +1,7 @@
-nav_items: 
-  - {label: 'Home', path: '/'}
-  - {label: 'Posts', path: '/posts/'}
+nav_items:
+  - label: Home
+    path: /
+  - label: Posts
+    path: /posts/
+  - label: About
+    path: /about/
