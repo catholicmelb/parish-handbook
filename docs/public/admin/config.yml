@@ -17,9 +17,9 @@ collections:
   - label: "Settings"
     name: "settings"
     files:
-      - label: "Navigation Menu" 
-        name: "nav"
-        file: "_data/nav.yml"
+      - label: "Sidebar" 
+        name: "sidebar"
+        file: "_data/sidebar.yml"
         fields:
           - label: "Nav Items"
             label_singular: "Nav Item"
