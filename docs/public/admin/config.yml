@@ -18,11 +18,11 @@ collections:
     name: "settings"
     files:
       - file: "docs/settings/navigation.yml"
-        label: "Navigation"
-        name: "navigation"
+        label: "Sidebar"
+        name: "sidebar"
         fields:
-          - label: "Navigation"
-            name: "nav_items"
+          - label: "Sidebar"
+            name: "sidebar_items"
             widget: "list"
             fields:
               - { label: "Label", name: "label", widget: "string" }
