@@ -19,10 +19,10 @@ collections:
     files:
       - file: "docs/.vitepress/config.js"
         label: "Navigation"
-        name: "navigation"
+        name: "themeConfig"
         fields:
           - label: "Navigation"
-            name: "themeConfig.sidebar"
+            name: "sidebar"
             widget: "list"
             fields:
               - { text: "Label" }
