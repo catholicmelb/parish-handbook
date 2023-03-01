@@ -1,0 +1,4 @@
+sidebar_items: 
+  - {text: 'Home', link: '/'}
+  - {text: 'Products', link: '/products/'}
+  - {text: 'News', link: '/news/'}
