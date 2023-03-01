@@ -16,6 +16,7 @@ CMS.init({
         name: "post",
         label: "Post",
         folder: "docs/post"
-      },
-  },
+      }
+    ]
+  }
 });
