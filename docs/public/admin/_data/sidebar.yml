@@ -1,0 +1,5 @@
+sidebarItems:
+  - text: 'A Page'
+    url: /a-page/
+  - text: 'External Link'
+    url: '/https://google.com'

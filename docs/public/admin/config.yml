@@ -1,0 +1,30 @@
+backend:
+  name: github
+  repo: leightonhughes/Vitepress-with-Decap-CMS
+  branch: main
+media_folder: "docs/public/media"
+public_folder: "/media"
+publish_mode: editorial_workflow
+collections:
+  - label: "Post"
+    name: "posts"
+    folder: "docs/post"
+    create: true
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Meta description", name: "description", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
+  - label: "Settings"
+    name: "settings"
+    files:
+      - label: "Navigation Menu" 
+        name: "nav"
+        file: "_data/nav.yml"
+        fields:
+          - label: "Nav Items"
+            label_singular: "Nav Item"
+            name: sidebarItems
+            widget: list
+            fields:
+              - { label: "Text", name: text, widget: string }
+              - { label: URL, name: url, widget: string }
