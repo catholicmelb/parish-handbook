@@ -13,14 +13,15 @@
   
   <!-- Initialize the CMS -->
   <script>
+    const isDev = process.env.NODE_ENV === 'development'
+
+    const devBackend = { name: 'git-gateway' }
+    const prodBackend = { name: 'github', repo: 'leightonhughes/Vitepress-with-Decap-CMS', branch: 'main' }
+
     NetlifyCmsApp.init({
       config: {
         load_config_file: false,
-        backend: {
-          name: 'github',
-          branch: 'main',
-          repo: 'leightonhughes/Vitepress-with-Decap-CMS'
-        },
+        backend: isDev ? devBackend : prodBackend,
         media_folder: '/docs/public/media',
         public_folder: '/media',
         collections: [
