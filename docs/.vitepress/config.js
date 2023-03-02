@@ -13,7 +13,25 @@ export default defineConfig({
     fr: {
       label: 'French',
       lang: 'fr', // optional, will be added  as `lang` attribute on `html` tag
-      link: '/fr' // default /fr/ -- shows on navbar translations menu, can be external
+      link: '/fr', // default /fr/ -- shows on navbar translations menu, can be external
+      themeConfig: {
+        nav: [
+          { text: 'Maison', link: '/fr' },
+          { text: 'Journal des modifications', link: '/fr/changelog' }
+        ],
+        sidebar: [
+          { text: 'Avant-propos', link: '/fr/foreword/index.html' },
+          {
+            text: 'Contenu',
+            collapsed: false,
+            collapsible: true,
+            // Retrieves all markdown files, 
+            // but does not retrieve any other files in this folder.
+            // Ignores any files with '_partial' in their name.
+            items: SidebarBuilder.get.filesAndOrder('./docs/fr/contents', ['_partial'])
+          },
+        ]
+      }
     }
   },
   themeConfig: {
