@@ -6,9 +6,9 @@ media_folder: "docs/public/media"
 public_folder: "/media"
 publish_mode: editorial_workflow
 collections:
-  - label: "Post"
-    name: "posts"
-    folder: "docs/post"
+  - label: "Contents"
+    name: "contents"
+    folder: "docs/contents"
     summary: '{{title}} • Order: {{order}} • Published Date: {{day}}/{{month}}/{{year}}'
     create: true
     fields:

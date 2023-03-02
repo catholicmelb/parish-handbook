@@ -22,18 +22,4 @@ export default defineConfig({
       },
     ]
   }
-    // sidebar: [
-    //   { 
-    //     items: [
-    //       { text: 'Foreword', link: '/foreword.md' },
-    //     ],
-    //   },
-    //   { 
-    //     text: 'Contents',
-    //     items: [
-    //       { text: '1. Overview', link: '/1-overview.md' },
-    //       { text: '2. Principles of Parish Administration', link: '/2-principles-of-parish-administration.md' },
-    //     ],
-    //   },
-    // ]
 })
