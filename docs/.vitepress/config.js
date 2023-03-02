@@ -13,7 +13,7 @@ export default defineConfig({
     lastUpdated: 'Last Updated',
     sidebar: [
       {
-        text: 'Introduction',
+        text: 'Contents',
         collapsible: true,
         // Retrieves all markdown files, 
         // but does not retrieve any other files in this folder.
