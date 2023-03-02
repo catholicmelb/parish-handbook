@@ -1,3 +1,9 @@
+---
+title: Foreword
+date: 2023-03-02T09:10:19.017Z
+order: "1"
+description: Test
+---
 # Foreword
 
 As members of the community of the Church, we are called to live the gospel in our own lives and share the message of Christ with the wider community. To do this, we need to make good use of all the gifts God has given. Among these are the material resources at our disposal. For each parish, the responsibility for the good management of the community’s resources lies with the Parish Priest or Administrator, with the assistance of the Parish Finance Committee.
