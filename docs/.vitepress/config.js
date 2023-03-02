@@ -13,7 +13,7 @@ export default defineConfig({
     fr: {
       label: 'French',
       lang: 'fr', // optional, will be added  as `lang` attribute on `html` tag
-      link: '/fr/guide' // default /fr/ -- shows on navbar translations menu, can be external
+      link: '/fr' // default /fr/ -- shows on navbar translations menu, can be external
     }
   },
   themeConfig: {

@@ -1,17 +1,17 @@
 ---
-title: 1. Overview
+title: 1. Aperçu
 date: 2023-03-02T05:24:47.847Z
 order: "1"
 description: ""
 ---
-# 1. Overview
+# 1. Aperçu
 
-## 1.1 Aim
+## 1.1 Objectif
 
-The aim of this Handbook is to provide all parishes throughout the Archdiocese of Melbourne with guidelines on parish administration and management, including the administration of parish goods. These guidelines should be viewed as a minimum for each parish to follow.
+Le but de ce manuel est de fournir à toutes les paroisses de l'archidiocèse de Melbourne des directives sur l'administration et la gestion des paroisses, y compris l'administration des biens paroissiaux. Ces lignes directrices doivent être considérées comme un minimum à suivre pour chaque paroisse.
 
-They should be read in conjunction with the Parish Finance Committee Statutes of the Archdiocese of Melbourne and the Code of Canon Law
+Ils doivent être lus conjointement avec les statuts du comité des finances paroissiales de l'archidiocèse de Melbourne et le code de droit canonique
 
-## 1.2 Church & Civil Law
+## 1.2 Église et droit civil
 
-The Church operates in two spheres. The first, the church sphere, and the second the Commonwealth and State governmental sphere. Each sphere has its particular legislation. In the church sphere, it is the canons of The Code of Canon law. In the Commonwealth and State government spheres, it is civil law.  At times the requirements of these laws can be the same; however, on other occasions, there are significant differences between the two.
+L'Église opère dans deux domaines. La première, la sphère de l'église, et la seconde la sphère gouvernementale du Commonwealth et de l'État. Chaque domaine a sa législation particulière. Dans le domaine ecclésiastique, ce sont les canons du Code de droit canonique. Dans les sphères du gouvernement du Commonwealth et des États, c'est le droit civil. Parfois, les exigences de ces lois peuvent être les mêmes; cependant, à d'autres occasions, il existe des différences significatives entre les deux.
