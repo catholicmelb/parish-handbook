@@ -3,7 +3,7 @@ import SidebarBuilder from "@stuyk/vitepress-sidebar-builder";
 
 export default defineConfig({
   base: '/',
-  title: 'Vitepress with Decap CMS',
+  title: 'Parish Handbook Demo',
   lastUpdated: true,
   themeConfig: {
     repo: 'leightonhughes/VitePress-with-Decap-CMS',
