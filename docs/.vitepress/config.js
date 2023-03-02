@@ -11,18 +11,17 @@ export default defineConfig({
     editLinks: true,
     editLinkText: 'Edit this page on GitHub',
     lastUpdated: 'Last Updated',
-    sidebar: {
-      '/getting-started/': [
-          {
-              text: 'Introduction',
-              collapsible: true,
-              // Retrieves all markdown files, 
-              // but does not retrieve any other files in this folder.
-              // Ignores any files with '_partial' in their name.
-              items: SidebarBuilder.get.filesAndOrder('./docs/post', ['_partial'])
-          },
-      ]
-    }
+    sidebar: [
+      {
+        text: 'Introduction',
+        collapsible: true,
+        // Retrieves all markdown files, 
+        // but does not retrieve any other files in this folder.
+        // Ignores any files with '_partial' in their name.
+        items: SidebarBuilder.get.filesAndOrder('./docs/post', ['_partial'])
+      },
+    ]
+  }
     // sidebar: [
     //   { 
     //     items: [
@@ -37,5 +36,4 @@ export default defineConfig({
     //     ],
     //   },
     // ]
-  }
 })
