@@ -5,6 +5,17 @@ export default defineConfig({
   base: '/',
   title: 'Parish Handbook Demo',
   lastUpdated: true,
+  locales: {
+    root: {
+      label: 'English',
+      lang: 'en'
+    },
+    fr: {
+      label: 'French',
+      lang: 'fr', // optional, will be added  as `lang` attribute on `html` tag
+      link: '/fr/guide' // default /fr/ -- shows on navbar translations menu, can be external
+    }
+  },
   themeConfig: {
     repo: 'leightonhughes/VitePress-with-Decap-CMS',
     docsDir: 'docs',
@@ -16,7 +27,7 @@ export default defineConfig({
       { text: 'Changelog', link: '/changelog' },
     ],
     sidebar: [
-      { text: 'Foreword', link: '/foreword/index' },
+      { text: 'Foreword', link: '/foreword/index.html' },
       {
         text: 'Contents',
         collapsed: false,
