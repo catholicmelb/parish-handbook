@@ -18,7 +18,7 @@ export default defineConfig({
         // Retrieves all markdown files, 
         // but does not retrieve any other files in this folder.
         // Ignores any files with '_partial' in their name.
-        items: SidebarBuilder.get.filesAndOrder('./docs/post', ['_partial'])
+        items: SidebarBuilder.get.filesAndOrder('./docs/contents', ['_partial'])
       },
     ]
   }
