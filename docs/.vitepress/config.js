@@ -11,9 +11,14 @@ export default defineConfig({
     editLinks: true,
     editLinkText: 'Edit this page on GitHub',
     lastUpdated: 'Last Updated',
+    nav: [
+      { text: 'Home', link: '/' },
+      { text: 'Changelog', link: '/changelog' },
+    ],
     sidebar: [
       {
         text: 'Contents',
+        collapsed: false,
         collapsible: true,
         // Retrieves all markdown files, 
         // but does not retrieve any other files in this folder.

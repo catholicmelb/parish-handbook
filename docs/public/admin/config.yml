@@ -6,6 +6,17 @@ media_folder: "docs/public/media"
 public_folder: "/media"
 publish_mode: editorial_workflow
 collections:
+  - label: "Pages"
+    name: "pages"
+    folder: "docs/pages"
+    summary: '{{title}} • Order: {{order}} • Published Date: {{day}}/{{month}}/{{year}}'
+    create: true
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: "Order", name: "order", widget: "string" }
+      - { label: "Meta description", name: "description", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
   - label: "Contents"
     name: "contents"
     folder: "docs/contents"
