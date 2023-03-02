@@ -9,7 +9,7 @@ collections:
   - label: "Post"
     name: "posts"
     folder: "docs/post"
-    summary: '{{title}} / Order: {{order}} / Published: {{day}}/{{month}}/{{year}}'
+    summary: '{{title}} • Order: {{order}} • Published Date: {{day}}/{{month}}/{{year}}'
     create: true
     fields:
       - { label: "Title", name: "title", widget: "string" }
