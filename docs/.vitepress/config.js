@@ -27,7 +27,7 @@ export default defineConfig({
       },
       {
         text: 'Appendix',
-        collapsed: false,
+        collapsed: true,
         collapsible: true,
         items: SidebarBuilder.get.filesAndOrder('./docs/appendix', ['_partial'])
       },
