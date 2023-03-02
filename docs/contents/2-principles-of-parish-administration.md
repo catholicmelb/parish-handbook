@@ -43,18 +43,18 @@ The Church holds and administers temporal goods to serve the mission that the Lo
 The canonical norms, therefore, structure the Church’s administration of property to facilitate the Church’s mission, to protect the rights of various Christian communities to the proper use of property entrusted to them and to promote the welfare of those persons and groups who should benefit from the wise use of the goods, which are made available to the Church
 
 Canon law states four broad purposes for Church property:
-• pursuit of divine worship;
-• support for clerics and other ministers;
-• performance of the apostolic works proper to the Church; and
-• works of charity, especially concern for the needy (c.1254, §2).
+- pursuit of divine worship;
+- support for clerics and other ministers;
+- performance of the apostolic works proper to the Church; and
+- works of charity, especially concern for the needy (c.1254, §2).
 
 Canon Law distinguishes two types of acts of administration in relation to parishes:
-• acts of ordinary administration, and
-• acts of extraordinary administration.
+- acts of ordinary administration, and
+- acts of extraordinary administration.
 
 In addition, there are specific Canon Law requirements in relation to:
-• the alienation (transfer of ownership) of property, and
-• the leasing out of parish goods.
+- the alienation (transfer of ownership) of property, and
+- the leasing out of parish goods.
 
 ### 2.2.2 Ordinary Administration
 
