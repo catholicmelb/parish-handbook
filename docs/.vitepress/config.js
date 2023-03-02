@@ -16,15 +16,7 @@ export default defineConfig({
       { text: 'Changelog', link: '/changelog' },
     ],
     sidebar: [
-      {
-        // text: 'Contents',
-        // collapsed: false,
-        // collapsible: true,
-        // Retrieves all markdown files, 
-        // but does not retrieve any other files in this folder.
-        // Ignores any files with '_partial' in their name.
-        items: SidebarBuilder.get.filesAndOrder('./docs/forward', ['_partial'])
-      },
+      { text: 'Foreword', link: '/foreword.md' },
       {
         text: 'Contents',
         collapsed: false,

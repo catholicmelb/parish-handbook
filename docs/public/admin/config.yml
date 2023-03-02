@@ -6,6 +6,17 @@ media_folder: "docs/public/media"
 public_folder: "/media"
 publish_mode: editorial_workflow
 collections:
+  - label: "Foreword"
+    name: "foreword"
+    folder: "docs/foreword"
+    summary: '{{title}}'
+    create: true
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: "Order in sidebar", name: "order", widget: "string" }
+      - { label: "Meta description", name: "description", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
   - label: "Contents"
     name: "contents"
     folder: "docs/contents"
