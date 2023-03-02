@@ -1,5 +1,5 @@
 ---
-title: 2. Principles of parish administration
+title: Principles of parish administration
 date: 2023-03-02T05:06:06.504Z
 order: "2"
 ---
