@@ -19,11 +19,17 @@ export default defineConfig({
       {
         text: 'Contents',
         collapsed: false,
-        // collapsible: true,
+        collapsible: true,
         // Retrieves all markdown files, 
         // but does not retrieve any other files in this folder.
         // Ignores any files with '_partial' in their name.
         items: SidebarBuilder.get.filesAndOrder('./docs/contents', ['_partial'])
+      },
+      {
+        text: 'Appendix',
+        collapsed: false,
+        collapsible: true,
+        items: SidebarBuilder.get.filesAndOrder('./docs/appendix', ['_partial'])
       },
     ]
   }
