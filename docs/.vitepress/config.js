@@ -16,7 +16,7 @@ export default defineConfig({
       { text: 'Changelog', link: '/changelog' },
     ],
     sidebar: [
-      { text: 'Foreword', link: '/foreword.md' },
+      { text: 'Foreword', link: '/foreword/index' },
       {
         text: 'Contents',
         collapsed: false,
