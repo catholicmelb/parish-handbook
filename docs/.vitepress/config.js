@@ -10,6 +10,29 @@ export default defineConfig({
       label: 'English',
       lang: 'en'
     },
+    vi: {
+      label: 'Vietnamese',
+      lang: 'vi', // optional, will be added  as `lang` attribute on `html` tag
+      link: '/vi', // default /fr/ -- shows on navbar translations menu, can be external
+      themeConfig: {
+        nav: [
+          { text: 'Trang chủ', link: '/vi' },
+          { text: 'Nhật ký thay đổi', link: '/vi/changelog' }
+        ],
+        sidebar: [
+          { text: 'Lời tựa', link: '/vi/foreword/index.html' },
+          {
+            text: 'nội dung',
+            collapsed: false,
+            collapsible: true,
+            // Retrieves all markdown files, 
+            // but does not retrieve any other files in this folder.
+            // Ignores any files with '_partial' in their name.
+            items: SidebarBuilder.get.filesAndOrder('./docs/vi/contents', ['_partial'])
+          },
+        ]
+      }
+    },
     fr: {
       label: 'French',
       lang: 'fr', // optional, will be added  as `lang` attribute on `html` tag
