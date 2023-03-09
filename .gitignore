@@ -1,7 +1,5 @@
+.DS_Store
 /.ddev
 /node_modules
 /docs/.vitepress/cache
-/docs/.DS_Store
-/docs/public/.DS_Store
 /docs/.vitepress/dist
-/docs/.vitepress/.DS_Store
