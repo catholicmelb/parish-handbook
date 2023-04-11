@@ -63,11 +63,11 @@ export default defineConfig({
     editLinks: true,
     editLinkText: 'Edit this page on GitHub',
     lastUpdated: 'Last Updated',
-    algolia: {
-      appId: '...',
-      apiKey: '...',
-      indexName: '...'
-    },
+    // algolia: {
+    //   appId: '...',
+    //   apiKey: '...',
+    //   indexName: '...'
+    // },
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Changelog', link: '/changelog' },
