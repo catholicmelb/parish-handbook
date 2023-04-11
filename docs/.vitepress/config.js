@@ -5,6 +5,13 @@ export default defineConfig({
   base: '/',
   title: 'Parish Handbook Demo',
   lastUpdated: true,
+  head: [
+    [
+      'script',
+      { src: 'https://identity.netlify.com/v1/netlify-identity-widget.js' }
+    ]
+    // would render: <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  ],
   // locales: {
   //   root: {
   //     label: 'English',
@@ -72,9 +79,9 @@ export default defineConfig({
       { text: 'Home', link: '/' },
       { text: 'Changelog', link: '/changelog' },
     ],
-    head: [
-      ['script', {src: 'https://identity.netlify.com/v1/netlify-identity-widget.js'}],
-    ],
+    // head: [
+    //   ['script', {src: 'https://identity.netlify.com/v1/netlify-identity-widget.js'}],
+    // ],
     sidebar: [
       { text: 'Foreword', link: '/foreword/index.html' },
       {
