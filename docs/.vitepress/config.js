@@ -72,6 +72,9 @@ export default defineConfig({
       { text: 'Home', link: '/' },
       { text: 'Changelog', link: '/changelog' },
     ],
+    head: [
+      ['script', {src: 'https://identity.netlify.com/v1/netlify-identity-widget.js'}],
+    ],
     sidebar: [
       { text: 'Foreword', link: '/foreword/index.html' },
       {
