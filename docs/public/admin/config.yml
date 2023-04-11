@@ -1,5 +1,5 @@
 backend:
-  name: github
+  name: git-gateway
   repo: leightonhughes/Vitepress-with-Decap-CMS
   branch: main
 media_folder: "docs/public/media"
