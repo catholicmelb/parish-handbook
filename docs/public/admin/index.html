@@ -8,16 +8,32 @@
   </head>
 
   <body>
+    <script>
+      if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", user => {
+          if (!user) {
+            window.netlifyIdentity.on("login", () => {
+              document.location.href = "/admin/";
+              <div data-netlify-identity-menu></div>
+            });
+          }
+        });
+      }
+    </script>
+
+
     <!-- Add a menu:
     Log in / Sign up - when the user is not logged in
     Username / Log out - when the user is logged in
-    -->
     <div data-netlify-identity-menu></div>
+    -->
+
 
     <!-- Add a simpler button:
       Simple button that will open the modal.
+      <div data-netlify-identity-button>Login with Netlify Identity</div>
     -->
-    <div data-netlify-identity-button>Login with Netlify Identity</div>
+    
 
     <!-- Include the script that builds the page and powers Decap CMS -->
     <script src="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js"></script>
