@@ -3,14 +3,13 @@ import SidebarBuilder from "@stuyk/vitepress-sidebar-builder";
 
 export default defineConfig({
   base: '/',
-  title: 'Parish Handbook Demo',
+  title: 'Parish Handbook',
   lastUpdated: true,
   head: [
     [
       'script',
       { src: 'https://identity.netlify.com/v1/netlify-identity-widget.js' }
     ]
-    // would render: <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   ],
   // locales: {
   //   root: {
@@ -70,6 +69,7 @@ export default defineConfig({
     editLinks: true,
     editLinkText: 'Edit this page on GitHub',
     lastUpdated: 'Last Updated',
+    // logo: '/shield.svg',
     // algolia: {
     //   appId: '...',
     //   apiKey: '...',
@@ -79,11 +79,8 @@ export default defineConfig({
       { text: 'Home', link: '/' },
       { text: 'Changelog', link: '/changelog' },
     ],
-    // head: [
-    //   ['script', {src: 'https://identity.netlify.com/v1/netlify-identity-widget.js'}],
-    // ],
     sidebar: [
-      { text: 'Foreword', link: '/foreword/index.html' },
+      { text: 'Foreword', link: '/' },
       {
         text: 'Contents',
         collapsed: false,

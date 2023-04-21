@@ -9,3 +9,9 @@ h1, h2, h3, h4, h5, h6 {
     font-family: "Recoleta";
     font-weight: 500 !important;
 }
+
+.title {
+    font-family: "Recoleta";
+    font-weight: 500 !important;
+    font-size: 18px !important;
+}
