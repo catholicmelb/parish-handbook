@@ -5,6 +5,11 @@
     --vp-c-text-1:#1f2937;
 }
 
+.dark {
+    --vp-c-text-1: var(--vp-c-text-dark-1);
+    --vp-c-brand: var(--vp-c-text-dark-1);
+}
+
 h1, h2, h3, h4, h5, h6 {
     font-family: "Recoleta";
     font-weight: 500 !important;
