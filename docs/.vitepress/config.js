@@ -80,7 +80,9 @@ export default defineConfig({
       { text: 'Changelog', link: '/changelog' },
     ],
     sidebar: [
-      { text: 'Foreword', link: '/' },
+      {
+        items: SidebarBuilder.get.filesAndOrder('./docs/foreword', ['not-ready'])
+      },
       {
         text: 'Contents',
         collapsed: false,
