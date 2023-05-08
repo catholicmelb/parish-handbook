@@ -32,18 +32,7 @@ This text is ***really important***.
 >
 > > The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
 
-## Blockquotes with Other Elements
-
-> #### The quarterly results look great!
->
-> * Revenue was off the chart.
-> * Profits were higher than ever.
->
->   *Everything* is going according to **plan**.
-
 ## Lists
-
-### Ordered Lists
 
 1. First item
 2. Second item
@@ -53,34 +42,22 @@ This text is ***really important***.
    2. Indented item
 4. Fourth item
 
-### Unordered Lists
-
 * First item
 * Second item
 * Third item
 * Fourth item
 
-#﻿# Images
-
-1. Open the file containing the Linux mascot.
-2. Marvel at its beauty.
+## Images
 
    ![Instagram image](/media/codsazbbjeb.jpg "Instagram image")
-3. Close the file.
 
 ## Footnotes
 
-Here's a simple footnote, [^1] and here's a longer one.[^bignote]
+Here's a simple footnote [^1] and here's a longer one. [^bignote]
 
 [^1]: This is the first footnote.
 
 [^bignote]: Here's one with multiple paragraphs and code.
-
-## T﻿ask lists
-
-\[x] Write the press release
-\[ ] Update the website
-\[ ] Contact the media
 
 ## Table
 
