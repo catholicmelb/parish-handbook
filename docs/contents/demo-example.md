@@ -59,6 +59,9 @@ Here's a simple footnote [^1] and here's a longer one. [^bignote]
 
 [^bignote]: Here's one with multiple paragraphs and code.
 
+some text[^ this is a footnote]
+*[abbr]: this is an abbreviation
+
 ## Table
 
 |     |     |
