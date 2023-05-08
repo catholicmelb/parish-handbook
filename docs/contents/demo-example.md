@@ -4,20 +4,6 @@ date: 2023-05-07T23:34:04.218Z
 order: "0"
 description: Demo example
 ---
-## Headings
-
-# H﻿eading 1
-
-## H﻿eading 2
-
-### H﻿eading 3
-
-#### H﻿eading 4
-
-##### H﻿eading 5
-
-###### H﻿eading 6
-
 ## Bold
 
 I just love **bold text**.
@@ -74,55 +60,30 @@ This text is ***really important***.
 * Third item
 * Fourth item
 
-## Code Blocks
-
-1. Open the file.
-2. Find the following code block on line 21:
-
-   ```
-   <html>
-     <head>
-       <title>Test</title>
-     </head>
-   ```
-3. Update the title to match the name of your website.
-
-\#﻿# Images
+#﻿# Images
 
 1. Open the file containing the Linux mascot.
 2. Marvel at its beauty.
 
-   ![Tux, the Linux mascot](/media/codsazbbjeb.jpg)
+   ![Instagram image](/media/codsazbbjeb.jpg "Instagram image")
 3. Close the file.
-
-## Horizontal Rules
-
-- - -
-
-## URLs and Email Addresses
-
-<https://www.markdownguide.org>
-
-[fake@example.com](mailto:fake@example.com)
-
-## Formatting Links
-
-I love supporting the **[EFF](https://eff.org)**.
-This is the *[Markdown Guide](https://www.markdownguide.org)*.
-See the section on [`code`](#code).
 
 ## Footnotes
 
-Here's a simple footnote,[^1] and here's a longer one.[^bignote]
+Here's a simple footnote, [^1] and here's a longer one.[^bignote]
 
 [^1]: This is the first footnote.
 
 [^bignote]: Here's one with multiple paragraphs and code.
 
-```
-Indent paragraphs to include them in the footnote.
+## T﻿ask lists
 
-`{ my code }`
+\[x] Write the press release
+\[ ] Update the website
+\[ ] Contact the media
 
-Add as many paragraphs as you like.
-```
+## Table
+
+|     |     |
+| --- | --- |
+|     |     |
