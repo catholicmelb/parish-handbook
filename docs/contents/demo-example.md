@@ -48,6 +48,7 @@ This text is ***really important***.
 1. First item
 2. Second item
 3. Third item
+
    1. Indented item
    2. Indented item
 4. Fourth item
@@ -59,7 +60,7 @@ This text is ***really important***.
 * Third item
 * Fourth item
 
-\#﻿# Images
+#﻿# Images
 
 1. Open the file containing the Linux mascot.
 2. Marvel at its beauty.
@@ -69,7 +70,7 @@ This text is ***really important***.
 
 ## Footnotes
 
-Here's a simple footnote,[^1] and here's a longer one.[^bignote]
+Here's a simple footnote, [^1] and here's a longer one.[^bignote]
 
 [^1]: This is the first footnote.
 
@@ -83,6 +84,6 @@ Here's a simple footnote,[^1] and here's a longer one.[^bignote]
 
 ## Table
 
-|   |   |
-|---|---|
-|   |   |
+|     |     |
+| --- | --- |
+|     |     |
