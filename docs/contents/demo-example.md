@@ -4,20 +4,6 @@ date: 2023-05-07T23:34:04.218Z
 order: "0"
 description: Demo example
 ---
-## Headings
-
-# H﻿eading 1
-
-## H﻿eading 2
-
-### H﻿eading 3
-
-#### H﻿eading 4
-
-##### H﻿eading 5
-
-###### H﻿eading 6
-
 ## Bold
 
 I just love **bold text**.
@@ -92,7 +78,7 @@ This text is ***really important***.
 1. Open the file containing the Linux mascot.
 2. Marvel at its beauty.
 
-   ![Tux, the Linux mascot](/media/codsazbbjeb.jpg)
+   ![Instagram image](/media/codsazbbjeb.jpg "Instagram image")
 3. Close the file.
 
 ## Horizontal Rules
