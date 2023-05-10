@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Content Manager</title>
     <script type="text/javascript" src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-    
+
     <!-- Fix: https://answers.netlify.com/t/netlify-cms-markdown-editor-wonkness/79815 -->
     <style>
       div[data-slate-editor] {
@@ -42,6 +42,9 @@
         }
       });
 
+      import { RegisterFile } from '../components/editorComponents/RegisterFile.js';
+      CMS.registerEditorComponent(RegisterFile);
+      
       CMS.registerPreviewTemplate("posts", PostPreview);
       CMS.registerPreviewStyle('./preview.css');
     </script>
