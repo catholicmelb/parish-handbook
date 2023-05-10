@@ -4,9 +4,9 @@ date: 2023-03-02T05:06:06.504Z
 order: "2"
 description: Parish handbook, Chapter 3 (draft)
 ---
-* # [3 Parish operations](<>)
+# 3 Parish operations
 
-## [3.1 Transaction and investment accounts](<>)
+## 3.1 Transaction and investment accounts
 
 ### 3.1.1 Establishing accounts
 
@@ -34,7 +34,7 @@ Accounts for the following activities may be kept separately from the church acc
 * commercial property rental, church/hall building hire
 * commercial operations such as retirement villages, early learning centres.
 
-### [3.1.2 Account signatories](<>)
+### 3.1.2 Account signatories
 
 All parish accounts, except for the presbytery account, are to each have a minimum of three (3) signatories and transactions must be approved by any two signatories. Presbytery account transactions may be signed by the parish priest solely.
 
@@ -48,7 +48,7 @@ The parish priest is permitted to renew term investments and to authorise redemp
 
 It is recommended signatories be appointed by the parish priest after informing the parish finance committee.
 
-### [](<>)[3.1.3 Recording transactions](<>)
+### 3.1.3 Recording transactions
 
 For recording and reporting purposes, income and expenditure through *all parish operating and investment accounts*(excluding presbytery account income and expenditure) must be fully recorded and reported in the parish’s accounting package. This is to ensure all financial resources available to the parish are clearly identified and proper governance applied.
 
@@ -56,7 +56,7 @@ The Archdiocese has published a standard chart of accounts to be used by all par
 
 While the detailed income and expenditure of the presbytery account is not included in the parish’s financial reports, the GST incurred on presbytery expenditures is generally eligible to be included in the parish’s BAS return. Note that GST incurred on a priest’s personal expenditures relating to entertainment, recreation, holidays and meals is not eligible to be claimed as an input tax credit. GST incurred on pastoral related expenditures, vehicle running costs, subscriptions, formation and training, and similar costs is eligible for claiming as an input tax credit. GST refunded by the ATO to the parish relating to presbytery expenditures should be transferred back to the presbytery account. The same tax invoice retention requirements that apply to claiming GST by the parish also apply to substantiating GST claimed on presbytery expenses. The parish priest should ensure these documents are retained and made available to the parish in the event of an ATO GST audit.
 
-### [3.3.2 Presbytery expenditure](<>)
+### 3.3.2 Presbytery expenditure
 
 Payments from the presbytery account include:
 
