@@ -4,9 +4,9 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Content Manager</title>
-    <script type="text/javascript" src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+    <script type="text/javascript" src="https:identity.netlify.com/v1/netlify-identity-widget.js"></script>
 
-    <!-- Fix: https://answers.netlify.com/t/netlify-cms-markdown-editor-wonkness/79815 -->
+    <!-- Fix: https:answers.netlify.com/t/netlify-cms-markdown-editor-wonkness/79815 -->
     <style>
       div[data-slate-editor] {
           -webkit-user-modify: read-write!important;
@@ -30,7 +30,7 @@
     
 
     <!-- Include the script that builds the page and powers Decap CMS -->
-    <script src="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js"></script>
+    <script src="https:unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js"></script>
 
     <script>
       var PostPreview = createClass({
@@ -60,10 +60,39 @@
         },
         toPreview: function(obj) {
           return (
-            '<img src="http://img.youtube.com/vi/' + obj.id + '/maxresdefault.jpg" alt="Youtube Video"/>'
+            '<img src="http:img.youtube.com/vi/' + obj.id + '/maxresdefault.jpg" alt="Youtube Video"/>'
           );
         }
       });
+
+      CMS.registerEditorComponent({
+        id: 'file',
+        label: 'File',
+        fields: [
+          {
+            label: 'File',
+            name: 'file',
+            widget: 'file'
+          },
+          {
+            label: 'Label',
+            name: 'label'
+          }
+        ],
+        // Pattern to identify a block as being an instance of this component
+        pattern: /^{{\\_(.*)\\_-\/images\/uploads\/(.*)-}}$/,
+        // Function to extract data elements from the regexp match
+        fromBlock: match =>
+          match && {
+            file: match[2],
+            label: match[1]
+          },
+        // Function to create a text block from an instance of this component
+        toBlock: data => `{{_${data.label || ''}_-${data.file || ''}-}}`,
+        toPreview: function (obj) {
+          return ''
+        }
+      })
     </script>
   </body>
 </html>
