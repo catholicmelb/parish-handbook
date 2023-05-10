@@ -12,8 +12,6 @@ description: Demo example
 
 #### Heading 4 (unnumbered subheads beneath Heading 3)
 
-## Body text
-
 Normal (for standard paragraphs)
 
 **Bold/Strong**
