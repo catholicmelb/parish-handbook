@@ -4,7 +4,7 @@ date: 2023-05-07T23:34:04.218Z
 order: "0"
 description: Demo example
 ---
-# Heading 1 (e.g. 3 Parish operations) test
+# Heading 1 (e.g. 3 Parish operations)
 
 ## Heading 2 (e.g. 3.1 Transaction and investment accounts)
 
