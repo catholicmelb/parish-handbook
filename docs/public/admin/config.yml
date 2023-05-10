@@ -27,7 +27,7 @@ collections:
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: "Order in sidebar", name: "order", widget: "string" }
       - { label: "Meta description", name: "description", widget: "string" }
-      - { label: "Body", name: "body", widget: "markdown", buttons: ["bold"], editor_components: ['code'] }
+      - { label: "Body", name: "body", widget: "markdown", editor_components: ['code-block'] }
   - label: "Appendix"
     name: "appendix"
     folder: "docs/appendix"
