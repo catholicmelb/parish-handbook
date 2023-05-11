@@ -10,7 +10,7 @@ As members of the community of the Church, we are called to live the gospel in o
 
 The release of this new handbook coincides with ongoing renewal in the Church concerning the need for the highest standards in financial accountability and management of risks.
 
-This handbook contains administrative and finance related policies and guidance for the \[Arch]diocese of \[Melbourne].  They are designed to assist parishes in the various aspects of parish administration and provide confidence to parishioners, committee members and clergy alike that parish goods are well administered.
+This handbook contains administrative and finance related policies and guidance for the Archdiocese of Melbourne.  They are designed to assist parishes in the various aspects of parish administration and provide confidence to parishioners, committee members and clergy alike that parish goods are well administered.
 
 The statutes, policies and guidelines should be followed throughout the Archdiocese to promote the proper administration of parish resources. I trust that the handbook will be a valuable tool for priests and parishes in administering goods that have been entrusted to them.
 
