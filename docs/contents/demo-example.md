@@ -22,8 +22,6 @@ Normal (for standard paragraphs)
 
 [Hyperlink](google.com.au)
 
-{{< youtube  >}}
-
 ## Lists
 
 * List Bullet (occurs in paragraphs and tables)
