@@ -22,8 +22,6 @@ Normal (for standard paragraphs)
 
 [Hyperlink](google.com.au)
 
-youtube bcMOP4yoJZw
-
 ## Lists
 
 * List Bullet (occurs in paragraphs and tables)
