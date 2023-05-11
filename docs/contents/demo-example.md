@@ -22,8 +22,6 @@ Normal (for standard paragraphs)
 
 [Download file](/media/prayers-of-intercession.pdf)
 
-[Test](/media/prayers-of-intercession.pdf)
-
 ## Lists
 
 * List Bullet (occurs in paragraphs and tables)
@@ -68,6 +66,8 @@ some text[^ this is a footnote]
 
 ## Table
 
-| Column One | Column Two |
-| ---------- | ---------- |
-| Row 1      | Row 2      |
+| Items  | PDFs                                                |
+| ------ | --------------------------------------------------- |
+| Item 1 | [Download file](/media/prayers-of-intercession.pdf) |
+| Item 2 | [Download file](/media/prayers-of-intercession.pdf) |
+| Item 3 | [Download file](/media/prayers-of-intercession.pdf) |
