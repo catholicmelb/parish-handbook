@@ -12,9 +12,9 @@ description: Demo example
 
 #### Heading 4 (unnumbered subheads beneath Heading 3)
 
-[Normal (for standard paragraphs)](https://melbournecathlic.org)
+Normal (for standard paragraphs)
 
-**[Bold/Strong](https://melbournecatholic.org)**
+**Bold/Strong**
 
 *Italics/Emphasis*
 
