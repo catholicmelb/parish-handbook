@@ -19,5 +19,5 @@ I would like to emphasise the essential role of the Parish Finance Committee. Su
 I commend this handbook as an excellent resource to assist in the leadership and administration of the parish.
 
 <img src="/media/coat-of-arms.jpg" alt="Coat of Arms" width="25%">
-
+<br><br>
 #### Archbishop Peter A Comensoli
