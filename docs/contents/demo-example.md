@@ -20,11 +20,9 @@ description: Demo example
 
 ***Bold and Italic.***
 
-[File Link](/media/prayers-of-intercession.pdf)
+[Hyperlink](https://melbournecatholic.org)
 
-[Test PDF](/media/prayers-of-intercession.pdf)
-
-[testetset](https://melbournecatholic.org)
+[Download file](/media/prayers-of-intercession.pdf)
 
 ## Lists
 
