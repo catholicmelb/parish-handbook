@@ -12,7 +12,7 @@ description: Demo example
 
 #### Heading 4 (unnumbered subheads beneath Heading 3)
 
-Normal (for standard paragraphs)
+[Normal (for standard paragraphs)](https://melbournecathlic.org)
 
 **[Bold/Strong](https://melbournecatholic.org)**
 
