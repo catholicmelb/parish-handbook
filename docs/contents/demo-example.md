@@ -14,7 +14,7 @@ description: Demo example
 
 Normal (for standard paragraphs)
 
-**Bold/Strong**
+**[Bold/Strong](https://melbournecatholic.org)**
 
 *Italics/Emphasis*
 
