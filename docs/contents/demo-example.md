@@ -20,7 +20,7 @@ Normal (for standard paragraphs)
 
 ***Bold and Italic.***
 
-[Hyperlink](google.com.au)
+[Test PDF](/media/prayers-of-intercession.pdf)
 
 ## Lists
 
