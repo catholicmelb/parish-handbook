@@ -50,14 +50,14 @@
             label: "Youtube Video ID",
             widget: "string"
         }],
-        pattern: /{{< youtube\s+(?<id>[A-Za-z0-9\-]+)\s+>}}/,
+        pattern: /{{< youtube >}}/,
         fromBlock: function(match) {
             return {
                 id: match[1],
             };
         },
         toBlock: function(obj) {
-            return `{{< youtube ${obj.id} >}}`;
+            return `${obj.id}`;
         },
         toPreview: function(obj) {
             return `<img src="https://i3.ytimg.com/vi/${obj.id}/hqdefault.jpg" alt="Youtube Video"/>`;
