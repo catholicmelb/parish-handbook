@@ -61,10 +61,10 @@
         toBlock: ({ file, linkText, title }) =>
           `[${linkText || 'Download file'}](${file || ''}${title ? ` "${title.replace(/"/g, '\\"')}"` : ''})`,
         
-        toPreview: ({ file, linkText, title }, getAsset, fields) => {
-          const fileField = fields?.find(f => f.get('widget') === 'file');
-          const src = getAsset(file, fileField);
-          return `test`
+        toPreview: function(obj) {
+          return (
+            '<img src="http://img.youtube.com/vi/' + obj.id + '/maxresdefault.jpg" alt="Youtube Video"/>'
+          );
         },
         
         fields: [
