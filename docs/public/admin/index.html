@@ -42,57 +42,31 @@
         }
       });
 
-      CMS.registerPreviewTemplate("posts", PostPreview);
-      CMS.registerPreviewStyle('./preview.css');
-
       CMS.registerEditorComponent({
         id: "youtube",
         label: "Youtube",
-        fields: [{name: 'id', label: 'Youtube Video ID'}],
-        pattern: /^{{<\s?youtube (\S+)\s?>}}/,
+        fields: [{
+            name: "id",
+            label: "Youtube Video ID",
+            widget: "string"
+        }],
+        pattern: /{{< youtube\s+(?<id>[A-Za-z0-9\-]+)\s+>}}/,
         fromBlock: function(match) {
-          return {
-            id: match[1]
-          };
+            return {
+                id: match[1],
+            };
         },
         toBlock: function(obj) {
-          return '{{< youtube ' + obj.id + ' >}}';
+            return `{{< youtube ${obj.id} >}}`;
         },
         toPreview: function(obj) {
-          return (
-            '<img src="http:img.youtube.com/vi/' + obj.id + '/maxresdefault.jpg" alt="Youtube Video"/>'
-          );
-        }
+            return `<img src="https://i3.ytimg.com/vi/${obj.id}/hqdefault.jpg" alt="Youtube Video"/>`;
+        },
       });
 
-      CMS.registerEditorComponent({
-        id: 'file',
-        label: 'File',
-        fields: [
-          {
-            label: 'File',
-            name: 'file',
-            widget: 'file'
-          },
-          {
-            label: 'Label',
-            name: 'label'
-          }
-        ],
-        // Pattern to identify a block as being an instance of this component
-        pattern: /^{{\\_(.*)\\_-\/images\/uploads\/(.*)-}}$/,
-        // Function to extract data elements from the regexp match
-        fromBlock: match =>
-          match && {
-            file: match[2],
-            label: match[1]
-          },
-        // Function to create a text block from an instance of this component
-        toBlock: data => `{{_${data.label || ''}_-${data.file || ''}-}}`,
-        toPreview: function (obj) {
-          return ''
-        }
-      })
+
+      CMS.registerPreviewTemplate("posts", PostPreview);
+      CMS.registerPreviewStyle('./preview.css');
     </script>
   </body>
 </html>
