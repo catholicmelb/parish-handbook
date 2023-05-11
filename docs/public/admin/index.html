@@ -49,24 +49,6 @@
         label: 'Link',
         id: 'link',
 
-        pattern: /^\[(.+)\]\(([A-Za-z0-9\:\/\. ]+)( \"(.+)\")?\)$/,
-
-        fromBlock: match =>
-          match && {
-            file: match[2],
-            linkText: match[1],
-            title: match[4],
-          },
-
-        toBlock: ({ file, linkText, title }) =>
-          `[${linkText || 'Download file'}](${file || ''}${title ? ` "${title.replace(/"/g, '\\"')}"` : ''})`,
-        
-        toPreview: function(obj) {
-          return (
-            '<img src="http://img.youtube.com/vi/' + obj.id + '/maxresdefault.jpg" alt="Youtube Video"/>'
-          );
-        },
-        
         fields: [
           {
             label: 'Link text',
@@ -81,6 +63,24 @@
             },
           },
         ],
+
+        pattern: /media (\S+)\s/,
+
+        fromBlock: match =>
+          match && {
+            file: match[2],
+            linkText: match[1],
+            title: match[4],
+          },
+
+        toBlock: ({ file, linkText, title }) =>
+          `[${linkText || 'Download file'}](${file || ''}${title ? ` "${title.replace(/"/g, '\\"')}"` : ''})`,
+        
+        toPreview: function(obj) {
+          return (
+            'testing return'
+          );
+        },
       });
     </script>
   </body>
