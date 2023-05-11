@@ -18,9 +18,9 @@ Normal (for standard paragraphs)
 
 *Italics/Emphasis*
 
-***Bold and Italic.***
+[Hyperlink](https://melbournecatholic.org)
 
-[File Link](/media/prayers-of-intercession.pdf)
+[Download file](/media/prayers-of-intercession.pdf)
 
 ## Lists
 
