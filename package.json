@@ -10,7 +10,6 @@
     "vue": "^3.2.47"
   },
   "dependencies": {
-    "@stuyk/vitepress-sidebar-builder": "^1.0.2",
-    "netlify-cms-editor-component-media-file-link": "^0.1.1"
+    "@stuyk/vitepress-sidebar-builder": "^1.0.2"
   }
 }
