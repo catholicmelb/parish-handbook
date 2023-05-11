@@ -92,7 +92,7 @@
         toPreview: ({ file, linkText, title }, getAsset, fields) => {
           const fileField = fields?.find(f => f.get('widget') === 'file');
           const src = getAsset(file, fileField);
-          return <a href={src || ''} title={title || ''}>{linkText}</a>
+          return `test`
         },
         
         fields: [
