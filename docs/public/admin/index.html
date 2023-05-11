@@ -72,6 +72,46 @@
           );
         }
       });
+
+
+
+      CMS.registerEditorComponent({
+        id: 'file',
+        label: 'File',
+        fields: [
+          {
+            label: 'File',
+            name: 'file',
+            widget: 'file'
+          },
+          {
+            label: 'Label',
+            name: 'label',
+            default: 'Click here to view file',
+            widget: 'string',
+          }
+        ],
+        // Pattern to identify a block as being an instance of this component
+        pattern: /\[(.*)\]\(undefined\ "File"\)/,
+        // Function to extract data elements from the regexp match
+        fromBlock: function(match) {
+          return {
+            title: match[1],
+            src: match[2],
+          };
+        },
+        // Function to create a text block from an instance of this component
+        toBlock: function(obj) {
+          return `[${obj.title}](${obj.src} "File")`;
+        },
+        toPreview: function (obj) {
+          return (
+            <File src={obj.src}>{obj.title}</File>
+          );
+        }
+      })
+
+
     </script>
   </body>
 </html>
