@@ -46,8 +46,8 @@
       CMS.registerPreviewStyle('./preview.css');
 
       CMS.registerEditorComponent({
-        label: 'File',
-        id: 'file',
+        label: 'Link',
+        id: 'link',
 
         pattern: /^\[(.+)\]\(([A-Za-z0-9\:\/\. ]+)( \"(.+)\")?\)$/,
 
@@ -69,20 +69,16 @@
         
         fields: [
           {
-            label: 'File',
+            label: 'Link text',
+            name: 'linkText',
+          },
+          {
+            label: 'URL/File',
             name: 'file',
             widget: 'file',
             media_library: {
               allow_multiple: false,
             },
-          },
-          {
-            label: 'Link text',
-            name: 'linkText',
-          },
-          {
-            label: 'Title (optional)',
-            name: 'title',
           },
         ],
       });
