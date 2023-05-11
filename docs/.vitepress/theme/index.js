@@ -1,6 +1,7 @@
 // .vitepress/theme/index.js
 import Theme from 'vitepress/theme'
 import {h, watch} from 'vue'
+import './tailwind.css'
 import './fonts.css'
 import './custom.css'
 
