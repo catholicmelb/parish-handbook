@@ -66,6 +66,6 @@ some text[^ this is a footnote]
 
 ## Table
 
-|     |     |
-| --- | --- |
-|     |     |
+| Column One | Column Two |
+| ---------- | ---------- |
+| Row 1      | Row 2      |
