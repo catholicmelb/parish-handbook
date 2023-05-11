@@ -1,8 +1,8 @@
 ---
-title: Formatting Styles
+title: Formatting examples
 date: 2023-05-07T23:34:04.218Z
 order: "100"
-description: Demo example
+description: formatting-examples
 ---
 # Heading 1 (e.g. 3 Parish operations)
 
@@ -21,8 +21,6 @@ Normal (for standard paragraphs)
 [Hyperlink](https://melbournecatholic.org)
 
 [Download file](/media/prayers-of-intercession.pdf)
-
-[Test](/media/prayers-of-intercession.pdf)
 
 ## Lists
 
@@ -68,6 +66,8 @@ some text[^ this is a footnote]
 
 ## Table
 
-| Column One | Column Two |
-| ---------- | ---------- |
-| Row 1      | Row 2      |
+| Items  | PDFs                                                |
+| ------ | --------------------------------------------------- |
+| Item 1 | [Download file](/media/prayers-of-intercession.pdf) |
+| Item 2 | [Download file](/media/prayers-of-intercession.pdf) |
+| Item 3 | [Download file](/media/prayers-of-intercession.pdf) |
