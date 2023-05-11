@@ -46,8 +46,8 @@
       CMS.registerPreviewStyle('./preview.css');
 
       CMS.registerEditorComponent({
-        label: 'Link',
-        id: 'link',
+        label: 'File',
+        id: 'file',
 
         fields: [
           {
@@ -78,7 +78,7 @@
         
         toPreview: function(obj) {
           return (
-            'testing return'
+            'File'
           );
         },
       });
