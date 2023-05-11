@@ -74,8 +74,8 @@
       });
 
       CMS.registerEditorComponent({
-        label: 'Media file link',
-        id: 'media-file-link',
+        label: 'File link',
+        id: 'file-link',
 
         pattern: /^\[(.+)\]\(([A-Za-z0-9\:\/\. ]+)( \"(.+)\")?\)$/,
 
@@ -107,10 +107,6 @@
           {
             label: 'Link text',
             name: 'linkText',
-          },
-          {
-            label: 'Title (optional)',
-            name: 'title',
           },
         ],
       });
