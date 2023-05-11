@@ -22,8 +22,6 @@ Normal (for standard paragraphs)
 
 [File Link](/media/prayers-of-intercession.pdf)
 
-[test](https://google.com)
-
 ## Lists
 
 * List Bullet (occurs in paragraphs and tables)
