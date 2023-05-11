@@ -1,3 +1,4 @@
+import vueJsx from '@vitejs/plugin-vue-jsx';
 import { defineConfig } from 'vitepress'
 import SidebarBuilder from "@stuyk/vitepress-sidebar-builder";
 
@@ -99,5 +100,8 @@ export default defineConfig({
         items: SidebarBuilder.get.filesAndOrder('./docs/appendix', ['not-ready'])
       },
     ]
-  }
+  },
+  vite: {
+    plugins: [vueJsx()]
+  },
 })
