@@ -18,7 +18,7 @@ Normal (for standard paragraphs)
 
 *Italics/Emphasis*
 
-***Bold and Italic***
+***Bold and Italic.***
 
 [Hyperlink](google.com.au)
 
