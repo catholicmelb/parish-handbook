@@ -22,6 +22,8 @@ Normal (for standard paragraphs)
 
 [Download file](/media/prayers-of-intercession.pdf)
 
+[1. Anchored Text](#anchored-text)
+
 ## Lists
 
 * List Bullet (occurs in paragraphs and tables)
@@ -71,3 +73,5 @@ some text[^ this is a footnote]
 | Item 1 | [Download file](/media/prayers-of-intercession.pdf) |
 | Item 2 | [Download file](/media/prayers-of-intercession.pdf) |
 | Item 3 | [Download file](/media/prayers-of-intercession.pdf) |
+
+## <a id="anchored-text">Anchored Text</a>
