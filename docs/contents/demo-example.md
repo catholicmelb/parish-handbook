@@ -24,6 +24,8 @@ Normal (for standard paragraphs)
 
 [1. Anchored Text](#anchored-text)
 
+[Testing anchor](#test-anchor)
+
 ## Lists
 
 * List Bullet (occurs in paragraphs and tables)
@@ -74,4 +76,6 @@ some text[^ this is a footnote]
 | Item 2 | [Download file](/media/prayers-of-intercession.pdf) |
 | Item 3 | [Download file](/media/prayers-of-intercession.pdf) |
 
-## <a id="anchored-text">Anchored Text</a>
+## <div id="anchored-text">Anchored Text</div>
+
+## <div id="test-anchor">Anchored Text</div>
