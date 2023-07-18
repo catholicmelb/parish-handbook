@@ -76,6 +76,6 @@ some text[^ this is a footnote]
 | Item 2 | [Download file](/media/prayers-of-intercession.pdf) |
 | Item 3 | [Download file](/media/prayers-of-intercession.pdf) |
 
-## <div id="anchored-text">Anchored Text</div>
+## <span id="anchored-text">Anchored Text</span>
 
-## <div id="test-anchor">Anchored Text</div>
+## <span id="test-anchor">Anchor test</span>
