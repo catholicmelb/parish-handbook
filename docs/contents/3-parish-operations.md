@@ -1,7 +1,7 @@
 ---
 title: 3. Parish Operations
 date: 2023-03-02T05:06:06.504Z
-order: "2"
+order: "3"
 description: Parish handbook, Chapter 3 (draft)
 ---
 ## Transaction and investment accounts
