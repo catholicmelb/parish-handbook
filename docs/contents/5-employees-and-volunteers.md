@@ -4,6 +4,8 @@ date: 2023-03-02T05:06:06.504Z
 order: "5"
 description: "5"
 ---
+# 5. Essential safety measures (ESMs)
+
 ## Purpose
 
 This chapter is intended to assist parishes to understand and manage their legal obligations in relation to the safety measures in buildings of which they are beneficial owners.
