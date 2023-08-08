@@ -4,6 +4,8 @@ date: 2023-03-02T05:06:06.504Z
 order: "3"
 description: Parish handbook, Chapter 3 (draft)
 ---
+# 3. Parish Operations
+
 ## Transaction and investment accounts
 
 ### Establishing accounts
