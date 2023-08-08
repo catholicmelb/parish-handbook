@@ -57,7 +57,7 @@ The Archdiocese strongly recommends Xero as the preferred parish accounting soft
 
 For recording and reporting purposes, income and expenditure through *all parish operating and investment accounts* (excluding Presbytery Account income and expenditure) must be fully recorded and reported in the parish's accounting package. This is to ensure that all financial resources available to the parish are clearly identified and reported on a consolidated basis, and that proper governance is applied. To be clear, any activity conducted under the authority of the parish priest resulting in income being earned or expenditure incurred by the parish (excluding Presbytery Account transactions) is to be included in a consolidated financial report.
 
-The Archdiocese has published a Standard Chart of Accounts to be used by all parishes. Refer to Appendix 2: Standard Chart of Accounts.
+The Archdiocese has published a **Standard chart of accounts** to be used by all parishes. 
 
 ### Recording GST
 
@@ -108,7 +108,7 @@ The following parish expenses are paid from the Church Account:
 * gas, electricity, telephone, internet and other utilities for both church and presbytery buildings
 * repairs and maintenance for both church and presbytery buildings
 * insurance premiums, municipal charges and water charges for both church and presbytery buildings and properties
-* motor vehicle expense reimbursements for priests up to the maximum amount specified (refer to Appendix 3: Active Clergy Remuneration Schedule)
+* motor vehicle expense reimbursements for priests up to the maximum amount specified (refer to **Active clergy remuneration schedule**)
 * supply fees during a priest’s four weeks of annual holidays 
 * supply fees when a priest is on approved sick leave
 * supply fees when a priest on special duties living in the presbytery is on annual holidays and thus is unable to perform weekend supplies
@@ -157,8 +157,8 @@ The traditional contributions of Christmas and Easter dues and stole fees should
 * The following expenses are paid from the Presbytery Account:
 
   * normal household expenses including food, hospitality and housekeeper salary
-  * diocesan car capital allowance as per the **Active Clergy Remuneration Schedule**
-  * regular supply fees to augment Sunday Masses provided by the parish priest as per the **Schedule of Stipends—Supply Priests**.
+  * diocesan car capital allowance as per the **Active clergy remuneration schedule**
+  * regular supply fees to augment Sunday Masses provided by the parish priest as per the **Schedule of stipends—supply priests**.
 * After all these payments have been allocated, the Archdiocesan minimum living allowance is paid from the Presbytery Account to the priest(s) of the parish, as either cash or exempt benefits.
 
 ### PAYG withholding tax
@@ -266,7 +266,7 @@ Presently there are several models of collaboration for multiple parishes, and t
   * Parish finance committees are combined into a single committee.
   * Parish bank accounts and other reserves are consolidated into accounts under the ownership of the new continuing parish entity.
 
-The Archdiocese and the TWG Advisory and Reference Group are collaborating on the implementation of the *Take the Way of the Gospel Strategy__,* particularly as it applies to parishes. Formal guidance on the administration requirements for parishes are under development and will be published at a later date.
+The Archdiocese and the TWG Advisory and Reference Group are collaborating on the implementation of the *Take the Way of the Gospel Strategy,* particularly as it applies to parishes. Formal guidance on the administration requirements for parishes are under development and will be published at a later date.
 
 ## Change-over of parish priests
 
@@ -334,7 +334,7 @@ When a parish priest is transferred to a new parish, he may bring with him only 
 
 Arrangements for exemptions to this rule must be made, in writing, to the Executive Director Stewardship.
 
-Please refer to the **Parish Asset Inventory Template** for guidance as to the information required on a parish goods inventory.
+Please refer to the **Parish asset inventory template** for guidance as to the information required on a parish goods inventory.
 
 ## Investments outside of CDF
 
@@ -527,7 +527,7 @@ Depending on local circumstances, other reports on property management, sacrific
 
 ### Reporting to the Archdiocese
 
-Canon 1287 states, ‘Both clerical and lay administrators of any ecclesiastical goods are bound by their office to present an annual report to the \[Archbishop] who is to present it to the \[Arch]diocesan Finance Council.’ In the Melbourne Archdiocese, parishes are required to present a copy of their December year-end accounts by 31 March following each year. This may be accomplished by confirming finalisation of accounting requirements and authorising access to the financial reports available in Xero. Alternatively, parishes should provide the financial report in the prescribed format in **Template Financial Reports**.
+Canon 1287 states, ‘Both clerical and lay administrators of any ecclesiastical goods are bound by their office to present an annual report to the \[Archbishop] who is to present it to the \[Arch]diocesan Finance Council.’ In the Melbourne Archdiocese, parishes are required to present a copy of their December year-end accounts by 31 March following each year. This may be accomplished by confirming finalisation of accounting requirements and authorising access to the financial reports available in Xero. Alternatively, parishes should provide the financial report in the prescribed format shown in **Template—financial reports**.
 
 ### Reporting to parishioners
 
@@ -573,7 +573,7 @@ Where the parish conducts activities directly (e.g. tennis or other organised sp
 
 ### Right to use agreement
 
-Where the facility is provided to a separately constituted club (whether incorporated or not), it is recommended the COM ensure that a **Memorandum of Understanding Hosted Club or Facilities on Parish Land agreement** is created to manage the relationship between the parish and the club or other hosted entity.
+Where the facility is provided to a separately constituted club (whether incorporated or not), it is recommended the COM ensure that a **Memorandum of understanding—hosted club or facilities on parish land agreement** is created to manage the relationship between the parish and the club or other hosted entity.
 
 ## Outside-school-hours childcare on church property
 
@@ -581,7 +581,7 @@ Where the facility is provided to a separately constituted club (whether incorpo
 
 General principles have been prepared to assist parishes when granting licences over parish land to service providers for the provision of outside-school-hours childcare (OSHC) services.
 
-Refer to the **Outside school hours child care on church property guidelines**.
+Refer to the **Outside school hours child care on Church property guidelines**.
 
 The OSHC service provider must at all times operate as an independent contractor, and must not hold itself out as being associated with the Church, the parish or the parish school. A parish should not operate an OSHC service in its own right.
 
