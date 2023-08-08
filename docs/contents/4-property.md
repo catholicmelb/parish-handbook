@@ -4,6 +4,8 @@ date: 2023-03-02T05:06:06.504Z
 order: "4"
 description: "4"
 ---
+# 4. Property
+
 ## The role of the Archdiocesan Building and Property Commission
 
 The Archbishop is responsible for the careful supervision of the administration of all goods that belong to the parishes of the Archdiocese.
