@@ -187,7 +187,7 @@ Specific permissions are required whenever the value of goods being alienated ex
 * proposed acts of alienation by a parish in excess of the *minimum sum* require the Archbishop to obtain the consent of the *Diocesan Finance Council__,* the*College of Consultors* and other interested parties prior to giving permission for the alienation
 * where such proposed acts are in excess of the *maximum sum*, the Archbishop must also seek the permission of the *Holy See* (c. 1292, §2).
 
-The minimum and maximum sums are indexed at 30 June each year in accordance with the Consumer Price Index. For the current amounts, refer to Appendix 1—Amounts for alienation of temporal goods.
+The minimum and maximum sums are indexed at 30 June each year in accordance with the Consumer Price Index. For the current amounts, refer to **Amounts for alienation of temporal goods**.
 
 ### Leases
 
@@ -196,7 +196,7 @@ In November 1984, the Australian Catholic Bishops Conference further determined 
 * For leases for periods *in excess of nine years*, the same permissions as for acts of extraordinary administration are required.
 * For leases for periods *greater than* *three years but less than nine years*, the parish priest requires the *consent* of the Archbishop after having consulted the PFC. The Archbishop may consult the Diocesan Finance Council and the College of Consultors.
 
-In addition, the Archbishop has determined that for leases for periods of *three__years or less*, the parish priest must *consult* the PFC.
+In addition, the Archbishop has determined that for leases for periods of *three years or less*, the parish priest must *consult* the PFC.
 
 ### Invalid acts of administration
 
@@ -293,7 +293,7 @@ The parish priest and the Archdiocese’s Director of Communications and Media a
 
 Media interest in events and people can be generated for all sorts of reasons. In the main, it is usually good, but there may be times when it is both challenging and concerning for the parish community.
 
-Refer to Appendix 10—Guidelines for Issues Management and Media Enquiries for guidance to parish priests for the handling of challenging issues relating to events or people and subsequent media enquiries.
+Refer to **Guidelines for issues management and media enquiries** for guidance to parish priests for the handling of challenging issues relating to events or people and subsequent media enquiries.
 
 ## Parish episcopal visitations
 
@@ -301,7 +301,7 @@ Refer to Appendix 10—Guidelines for Issues Management and Media Enquiries for 
 
 Along with visits to parishes for various occasions (for example, anniversaries, Confirmations, blessings), each year the Archbishop and his delegates (auxiliary bishops and episcopal vicars) undertake episcopal visitations to a number of parishes and migrant communities within the Archdiocese. These visitations run for approximately three days (Friday–Sunday) and allow those undertaking them to spend valuable time in each of the communities they visit.
 
-While fulfilling a canonical requirement (c.396), the primary purpose of an episcopal visitation is pastoral, with the visitation providing an opportunity for the Archbishop, auxiliary bishops and episcopal vicars to meet and celebrate with communities. Visitations will vary depending on the individual community but will usually include time with clergy, staff, parishioners, ministry groups and school communities. A visitation also provides communities a valuable opportunity to come together, and reflect on and share their story—their history, ministries, engagement with others, opportunities for growth, current structures, planning for the future and any challenges.
+While fulfilling a canonical requirement (c. 396), the primary purpose of an episcopal visitation is pastoral, with the visitation providing an opportunity for the Archbishop, auxiliary bishops and episcopal vicars to meet and celebrate with communities. Visitations will vary depending on the individual community but will usually include time with clergy, staff, parishioners, ministry groups and school communities. A visitation also provides communities a valuable opportunity to come together, and reflect on and share their story—their history, ministries, engagement with others, opportunities for growth, current structures, planning for the future and any challenges.
 
 The Office of the Archbishop coordinates episcopal visitations and will be in touch with parish communities as needed regarding scheduling and other related matters.
 
