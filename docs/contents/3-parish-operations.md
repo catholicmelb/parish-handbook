@@ -10,7 +10,7 @@ description: Parish handbook, Chapter 3 (draft)
 
 ### Establishing accounts
 
-All parish transaction and investment accounts are expected to be held with the Catholic Development Fund (CDF) (through NAB) unless there is good reason for not doing so. All accounts, whether held with the CDF or external banks, must be incorporated into a parish's accounting system so that a complete consolidated record of income, expenditure and total funds available is maintained.
+All parish transaction and investment accounts are expected to be held with the Catholic Development Fund (CDF) (through NAB) unless there is good reason for not doing so. All accounts, whether held with the CDF or external banks, must be incorporated into a parish’s accounting system so that a complete consolidated record of income, expenditure and total funds available is maintained.
 
 There are limited circumstances where it is not possible for a parish to maintain all accounts with the CDF. For example, a parish in receipt of a government grant may have a contractual obligation to hold the funds with an authorised deposit-taking institution (ADI). In this instance, the parish would be required to open an external bank account. The CDF has arrangements available through Australia Post and other NAB solutions to cater for cash-handling and access requirements. The lack of a local NAB branch would not be sufficient reason for opening a non-CDF account.
 
@@ -19,15 +19,15 @@ Each parish with a priest receiving the stipend shall have at least two transact
 1. \[Name of Parish] Church Account
 2. \[Name of Parish] Presbytery Account.
 
-Priests responsible for their own vehicles (those who are not members of the Priests' Car Pool) may access the benefit of the prescribed car capital allowance via a parish account established for this purpose. The allowance may accumulate until the priest purchases a new vehicle. Funds held in the Car Capital Allowance Account must be directed to the vehicle supplier by the parish for the exempt benefit rules to apply (see ' **Exempt fringe benefits protocol**' in chapter 3). Alternatively, payment of the car capital allowance to a priest directly is an option but is subject to the PAYG withholding tax obligations.
+Priests responsible for their own vehicles (those who are not members of the Priests’ Car Pool) may access the benefit of the prescribed car capital allowance via a parish account established for this purpose. The allowance may accumulate until the priest purchases a new vehicle. Funds held in the Car Capital Allowance Account must be directed to the vehicle supplier by the parish for the exempt benefit rules to apply (see **‘Exempt fringe benefits protocol’ in chapter 3**). Alternatively, payment of the car capital allowance to a priest directly is an option but is subject to the PAYG withholding tax obligations.
 
-3. \[Name of Parish] Priests' Car Capital Allowance Account \[#1, #2 etc for each priest]
+3. \[Name of Parish] Priests’ Car Capital Allowance Account \[#1, #2 etc for each priest]
 
-Term investment accounts should be maintained for the holding funds surplus to the parish's immediate operational needs as follows:
+Term investment accounts should be maintained for the holding funds surplus to the parish’s immediate operational needs as follows:
 
 4. \[Name of Parish] Investment Account.
 
-Parishes with more than one Mass centre are to make arrangements with each Mass centre to deposit all income into the parish Church Account. Likewise, expenditure for each Mass centre will be made from the same parish Church Account. The parish's accounting package should be used to keep records of the income and costs attributable to Mass centres in preference to establishing and maintaining multiple Church accounts.
+Parishes with more than one Mass centre are to make arrangements with each Mass centre to deposit all income into the parish Church Account. Likewise, expenditure for each Mass centre will be made from the same parish Church Account. The parish’s accounting package should be used to keep records of the income and costs attributable to Mass centres in preference to establishing and maintaining multiple Church accounts.
 
 Accounts for the following activities may be kept separately from the Church Account, but parishes are encouraged to keep additional accounts to a minimum:
 
@@ -41,7 +41,7 @@ Accounts for the following activities may be kept separately from the Church Acc
 
 All parish accounts, except for the Presbytery Account, are to each have a minimum of three signatories, with transactions approved by any two signatories. Presbytery Account transactions may be signed by the parish priest solely. Credit cards require one signatory and must only be used by the authorised card holder.
 
-The parish priest must be listed as a signatory for all parish accounts and is the 'authorising party' for any changes to account-signing authorities.
+The parish priest must be listed as a signatory for all parish accounts and is the ‘authorising party’ for any changes to account-signing authorities.
 
 Ordinarily, the parish priest and one other signatory would authorise each payment transaction, whether by cheque or via CDF online. It is recommended that the chairperson and treasurer of the parish finance committee be included as signatories. Parish employees may be included as account signatories.
 
@@ -61,11 +61,11 @@ The Archdiocese has published a Standard Chart of Accounts to be used by all par
 
 ### Recording GST
 
-While the detailed income and expenditure of the Presbytery Account is not included in the parish's financial reports, the goods and services tax (GST) incurred on presbytery expenditures is generally eligible to be included in the parish's business activity statement (BAS). Note that GST incurred on a priest's personal expenditures relating to entertainment, recreation, holidays and meals is not eligible to be claimed as a GST input tax credit. GST incurred on pastoral-related expenditures, vehicle running costs, subscriptions, formation and training, and similar costs is eligible for claiming as an input tax credit.
+While the detailed income and expenditure of the Presbytery Account is not included in the parish’s financial reports, the goods and services tax (GST) incurred on presbytery expenditures is generally eligible to be included in the parish’s business activity statement (BAS). Note that GST incurred on a priest’s personal expenditures relating to entertainment, recreation, holidays and meals is not eligible to be claimed as a GST input tax credit. GST incurred on pastoral-related expenditures, vehicle running costs, subscriptions, formation and training, and similar costs is eligible for claiming as an input tax credit. 
 
 The following steps are recommended for recording GST claims on presbytery expenses (for Xero users):
 
-1. The GST recoverable from presbytery-related expenditure should be recorded in the parish's balance sheet via a journal entry recognising the amount receivable from the Australian Taxation Office (ATO) and the corresponding amount payable back to the Presbytery Account. The journal entry in this scenario is:
+1. The GST recoverable from presbytery-related expenditure should be recorded in the parish’s balance sheet via a journal entry recognising the amount receivable from the Australian Taxation Office (ATO) and the corresponding amount payable back to the Presbytery Account. The journal entry in this scenario is:
 
    *For PACS users*
 
@@ -80,9 +80,9 @@ The following steps are recommended for recording GST claims on presbytery expen
    Cr Presbytery Clearing Account (5030)
 2. Adjust BAS item 1B by making a manual GST adjustment in Xero as per the example below. This will increase the GST refund claim on the BAS.
 
-**\[INSERT IMAGE HERE]**
+![](/media/pah-aw0301.png)
 
-3. When the parish's GST refund is received from the ATO, PACS users allocate the refund to the GST-paid account (4301); Xero users allocate the refund to the GST-paid account (820).
+3. When the parish’s GST refund is received from the ATO, PACS users allocate the refund to the GST-paid account (4301); Xero users allocate the refund to the GST-paid account (820).
 4. Transfer the $100 GST presbytery portion from the Church Account to the Presbytery Account and allocate the payment to the presbytery clearing account (5030).
 5. Note that the same tax invoice–retention requirements that apply to claiming GST by the parish also apply to substantiating GST claimed on presbytery expenses. The parish priest should ensure these documents are retained and made available to the parish in the event of an ATO GST audit.
 
@@ -99,7 +99,7 @@ While not required to do so by the Archdiocese, parishes may choose to record ex
 
 ### Income
 
-All parish income from thanksgiving collections ('second collections'), Archdiocesan-approved special collections, fundraising and other sources as listed in the parish annual financial statement are to be deposited into the Church Account.
+All parish income from thanksgiving collections (‘second collections’), Archdiocesan-approved special collections, fundraising and other sources as listed in the parish annual financial statement are to be deposited into the Church Account. 
 
 ### Expenditure
 
@@ -109,7 +109,7 @@ The following parish expenses are paid from the Church Account:
 * repairs and maintenance for both church and presbytery buildings
 * insurance premiums, municipal charges and water charges for both church and presbytery buildings and properties
 * motor vehicle expense reimbursements for priests up to the maximum amount specified (refer to Appendix 3: Active Clergy Remuneration Schedule)
-* supply fees during a priest's four weeks of annual holidays
+* supply fees during a priest’s four weeks of annual holidays 
 * supply fees when a priest is on approved sick leave
 * supply fees when a priest on special duties living in the presbytery is on annual holidays and thus is unable to perform weekend supplies
 * Archdiocesan quota levy
@@ -125,14 +125,14 @@ Operating expenditure relates to recurring costs such as stipends, wages, insura
 
 The money paid into the Presbytery Account is the property of the parish and not the personal income of the parish priest. Monies held in the presbytery account are held for the benefit of the parish priest and assistant priest(s).
 
-Parishioners should be informed and educated that the 'first collection', the presbytery collection, is exclusively for:
+Parishioners should be informed and educated that the ‘first collection’, the presbytery collection, is exclusively for:
 
 * the support of the priests of the parish
 * the support and subsidy of a great number of priests throughout the Archdiocese
 * the support of the Archbishop
 * the support of *pastores emeriti__.*
 
-See 'Religious order–administered parishes' belowfor further details on what happens when the pastoral care of a parish is assigned to a religious order and one of their clergy is appointed parish priest.
+See **‘Religious order–administered parishes’ below** for further details on what happens when the pastoral care of a parish is assigned to a religious order and one of their clergy is appointed parish priest.
 
 ### Income from presbytery collections (first collections)
 
@@ -143,22 +143,22 @@ The following receipts must be paid into the Presbytery Account:
 * stole fees for baptisms, marriages, funeral offerings
 * parochial chaplaincy fees (for hospitals, convents etc.)
 
-The traditional contributions of Christmas and Easter dues and stole fees should be maintained. The amount received from dues, stole fees and funeral offerings is essential for the adequate remuneration of all priests throughout the Archdiocese. Most importantly, parishes that have a history of claiming on the Priests' Remuneration Fund should not abolish dues or stole fees and funeral offerings.
+The traditional contributions of Christmas and Easter dues and stole fees should be maintained. The amount received from dues, stole fees and funeral offerings is essential for the adequate remuneration of all priests throughout the Archdiocese. Most importantly, parishes that have a history of claiming on the Priests’ Remuneration Fund should not abolish dues or stole fees and funeral offerings.
 
 ### Presbytery expenditure
 
 #### General payments from presbytery account
 
-* Levies and *cathedraticum* are calculated on the total gross receipts paid into the Presbytery Account, as specified above under 'Income from presbytery collections (first collections)', *excluding Mass offerings*. The following contributions are to be deducted on a quarterly basis:
+* Levies and *cathedraticum* are calculated on the total gross receipts paid into the Presbytery Account, as specified **above under ‘Income from presbytery collections (first collections)’**, *excluding Mass offerings*. The following contributions are to be deducted on a quarterly basis:
 
   * cathedraticum of 5% for the Archbishop to the Archdiocese Finance Office
-  * a contribution of 12.5% to the Priests' Remuneration Fund
+  * a contribution of 12.5% to the Priests’ Remuneration Fund
   * a contribution of 12.5% to the Priests Retirement Foundation.
 * The following expenses are paid from the Presbytery Account:
 
   * normal household expenses including food, hospitality and housekeeper salary
-  * diocesan car capital allowance as per Appendix 3: Active Clergy Remuneration Schedule
-  * regular supply fees to augment Sunday Masses provided by the parish priest as per Appendix 4: Schedule of Stipends—Supply Priests.
+  * diocesan car capital allowance as per the **Active Clergy Remuneration Schedule**
+  * regular supply fees to augment Sunday Masses provided by the parish priest as per the **Schedule of Stipends—Supply Priests**.
 * After all these payments have been allocated, the Archdiocesan minimum living allowance is paid from the Presbytery Account to the priest(s) of the parish, as either cash or exempt benefits.
 
 ### PAYG withholding tax
@@ -175,15 +175,15 @@ The only component of remuneration that is considered as assessable income for t
 
 All other components (including expenses or benefits paid for directly using funds from the Presbytery Account) are regarded as exempt benefits by the ATO and are not subject to either income tax or fringe benefits tax (FBT).
 
-Subject to the exceptions noted for entertainment and other personal-related expenditures noted above under 'Recording transactions', GST paid on benefits provided to priests through the Presbytery Account should be claimed by the parishes when lodging the BAS.
+Subject to the exceptions noted for entertainment and other personal-related expenditures noted **above under ‘Recording transactions’**, GST paid on benefits provided to priests through the Presbytery Account should be claimed by the parishes when lodging the BAS. 
 
-Priests and parishes are reminded of the 'Exempt benefits protocol for active priests', originally published in May 2002 and updated below:
+Priests and parishes are reminded of the **‘Exempt benefits protocol for active priests’**, originally published in May 2002 and updated **below**:
 
 ### Exempt benefits protocol for active priests
 
 #### General background
 
-* A fringe benefit is a 'benefit' provided to an employee (or an associate of the employee) by the employer (or an associate of the employer), in respect of the employment of the employee.
+* A fringe benefit is a ‘benefit’ provided to an employee (or an associate of the employee) by the employer (or an associate of the employer), in respect of the employment of the employee.
 * Benefits provided by religious institutions to priests are exempt benefits where provided in relation to the exercise of pastoral duties or other duties closely related to the practice, study, teaching or propagation of religious beliefs.
 * Legislative changes introduced in 2002 mean that priests, while not employees, are required to comply with PAYG withholding taxation purposes.
 * A benefit includes provision of any right (including real or personal property), privilege, service or facility.
@@ -205,7 +205,7 @@ From 1 July 2002, the following additional exempt benefits may be taken from the
 * **Benefit type 2, knowledge pursuit** : subscriptions to professional journals, relevant pay TV subscriptions and equipment, library, periodicals, professional memberships, self-education expenses
 * **Benefit type 3, travel and accommodation** :
 
-  * costs associated with the priest's four weeks' annual leave
+  * costs associated with the priest’s four weeks’ annual leave
   * car accessories and types other than the basis provision.
 
 Amendments to the above list will be notified from time to time. Outside of this list, no other benefits are to be taken from the Presbytery or the Church accounts.
@@ -220,19 +220,19 @@ It is recommended that at least the minimum PRF living allowance, as adjusted fr
 
 For married clergy, these benefits can be provided to the spouse and children. The education of their children may be added to the list of type 2 benefits.
 
-### Priests' Remuneration Fund support for active clergy
+### Priests’ Remuneration Fund support for active clergy
 
-Refer to 'Priests' Remuneration Fund' in chapter 9for details of the PRF. This fund exists to ensure that priests receive equitable and sufficient income and the necessities of life.
+Refer to **‘Priests’ Remuneration Fund’ in chapter 9** for details of the PRF. This fund exists to ensure that priests receive equitable and sufficient income and the necessities of life. 
 
 Where the Presbytery Account is not able to provide the minimum living allowance component, the priest makes a claim on the PRF for subsidised remuneration. The amount received from the PRF should be paid to, or set aside for, the parish priest or assistant priest as soon as possible after it is received in the Presbytery Account.
 
 ## Religious order–administered parishes
 
-The provisions contained in this *Handbook* relating to PFC and parish priest responsibilities apply equally to parishes where a member of a religious order is appointed parish priest. There are, however, a few differences to note in relation to the first or 'presbytery' collection:
+The provisions contained in this *Handbook* relating to PFC and parish priest responsibilities apply equally to parishes where a member of a religious order is appointed parish priest. There are, however, a few differences to note in relation to the first or ‘presbytery’ collection:
 
-The presbytery collection should be deposited to the parish Presbytery Account in the normal manner and funds then transferred to an account in the name of the religious order, which is then subject to the order's own administrative arrangements. It is expected that monies will still be applied to meet expenses normally covered by the Presbytery Account as noted above under 'Presbytery expenditure'.
+The presbytery collection should be deposited to the parish Presbytery Account in the normal manner and funds then transferred to an account in the name of the religious order, which is then subject to the order’s own administrative arrangements. It is expected that monies will still be applied to meet expenses normally covered by the Presbytery Account as noted **above under ‘Presbytery expenditure’**.
 
-Religious order–administered parishes are required to pay the *cathedraticum* from the presbytery collection but do not pay levies for the Priests' Remuneration Fund or the Priests Retirement Foundation. The order, not the PRF or Foundation, is responsible for supporting order priests, both those clergy with active appointments and those without.
+Religious order–administered parishes are required to pay the *cathedraticum* from the presbytery collection but do not pay levies for the Priests’ Remuneration Fund or the Priests Retirement Foundation. The order, not the PRF or Foundation, is responsible for supporting order priests, both those clergy with active appointments and those without.
 
 In most cases, the terms of the appointment of a religious order priest to a parish will be contained in an agreement between the Archbishop and the provincial or superior of the order concerned. The Archdiocese will advise the parish if there are any particular administrative requirements that differ from these standard provisions.
 
@@ -246,7 +246,7 @@ In most cases, the terms of the appointment of a religious order priest to a par
 
 Presently there are several models of collaboration for multiple parishes, and these are listed below, together with a brief description of the governance and administrative structure:
 
-* Partnered or 'twinned' parishes
+* Partnered or ‘twinned’ parishes
 
   * A single priest is appointed as parish priest of each parish.
   * Assistant priests (where appointed) share in the ministry, supervised by the parish priest.
@@ -270,21 +270,21 @@ The Archdiocese and the TWG Advisory and Reference Group are collaborating on th
 
 ## Change-over of parish priests
 
-The following administrative arrangements have been advised by the Vicar General's Office:
+The following administrative arrangements have been advised by the Vicar General’s Office:
 
 ### ACNC—notification of change of parish priest or administrator
 
 When a parish priest or administrator commences a new parish appointment, it is necessary to notify the Australian Charities and Not-for-Profits Commission (ACNC) of the appointment.
 
-This can be done by a parish employee (under the authority of the parish priest) by logging into the parish's unique portal on the [ACNC website](http://www.acnc.gov.au/). The information required by the ACNC will include the priest or administrator's full name, date of birth, residential address, position held and the date on which the appointment commences.
+This can be done by a parish employee (under the authority of the parish priest) by logging into the parish’s unique portal on the [ACNC website](http://www.acnc.gov.au/). The information required by the ACNC will include the priest or administrator’s full name, date of birth, residential address, position held and the date on which the appointment commences.
 
-This information must be provided to the ACNC within 28 days of the appointment if the parish's income exceeds $250,000 per annum, or otherwise within 60 days of the appointment.
+This information must be provided to the ACNC within 28 days of the appointment if the parish’s income exceeds $250,000 per annum, or otherwise within 60 days of the appointment.
 
 ### ATO/ABR—notification of change of parish priest or administrator.
 
-Upon a change of parish priest, the Parish Support Office will coordinate with the Vicar General's Office to notify the ATO of the parish's authorised contact person.
+Upon a change of parish priest, the Parish Support Office will coordinate with the Vicar General’s Office to notify the ATO of the parish’s authorised contact person. 
 
-Parishes should maintain up-to-date credentials on the ATO portal and access to the ATO's Authorisation Manager portal at [www.authorisationmanager.gov.au](http://www.authorisationmanager.gov.au/). Address, email and bank account details can be updated through the portal.
+Parishes should maintain up-to-date credentials on the ATO portal and access to the ATO’s Authorisation Manager portal at [www.authorisationmanager.gov.au](http://www.authorisationmanager.gov.au/). Address, email and bank account details can be updated through the portal.
 
 ### Requirements from the Safeguarding Unit
 
@@ -293,11 +293,11 @@ Priests must return a copy of the following documents to the Safeguarding Unit p
 * Valid Working with Children Check (WWCC) card (renewed every 5 years)
 * National Police Check certificate (renewed every 3 years)
 * Annual acknowledgement of the expectations and responsibilities outlined in the Safeguarding Children and Young People Code of Conduct.
-* Successful completion of the Catholic Archdiocese of Melbourne's *[Safeguarding Essentials](https://safeguarding.melbournecatholic.org/s/login/?ec=302&startURL=%2Fs%2F)* online training module annually.
+* Successful completion of the Catholic Archdiocese of Melbourne’s *[Safeguarding Essentials](https://safeguarding.melbournecatholic.org/s/login/?ec=302&startURL=%2Fs%2F)* online training module annually.
 
-The Victorian Working with Children Check (WWCC) protocol requires that the Safeguarding Unit has copies of all priests' current WWCC cards on file. Priests need to update their WWCC profile online to ensure the Archdiocese is listed as one of the organisations for which each priest conducts work. This will ensure that the Safeguarding Unit receives a copy of each priest's card directly from the Department of Justice.
+The Victorian Working with Children Check (WWCC) protocol requires that the Safeguarding Unit has copies of all priests’ current WWCC cards on file. Priests need to update their WWCC profile online to ensure the Archdiocese is listed as one of the organisations for which each priest conducts work. This will ensure that the Safeguarding Unit receives a copy of each priest’s card directly from the Department of Justice.
 
-To list the Archdiocese, log in to the Department of Justice website at [www.workingwithchildren.vic.gov.au/home/cardholders/update+your+details/](http://www.workingwithchildren.vic.gov.au/home/cardholders/update+your+details/).
+To list the Archdiocese, [log in to the Department of Justice website]([www.workingwithchildren.vic.gov.au/home/cardholders/update+your+details/](http://www.workingwithchildren.vic.gov.au/home/cardholders/update+your+details/)).
 
 Please add the address:
 
@@ -306,13 +306,13 @@ Safeguarding Unit\
 PO Box 146, East Melbourne VIC 8002\
 Phone: (03) 9926 5630
 
-Priests moving to Victoria will need to apply for a Victorian WWCC card. Applications can be made through the Department of Justice website at [www.workingwithchildren.vic.gov.au/home/applications/apply+for+a+check/](http://www.workingwithchildren.vic.gov.au/home/applications/apply+for+a+check/).
+Priests moving to Victoria will need to apply for a Victorian WWCC card. Applications can be made through the [Department of Justice website]([www.workingwithchildren.vic.gov.au/home/applications/apply+for+a+check/](http://www.workingwithchildren.vic.gov.au/home/applications/apply+for+a+check/)).
 
 *Please note* that no public ministry can be conducted prior to the WWCC application being lodged.
 
 ### National Police Check certificate
 
-In addition, it is the policy of the Archdiocese of Melbourne that all clergy obtain a National Police Check certificate on initial and every subsequent appointment and reappointment. Fast and easy applications can be made online through the Australia Post website at [auspost.com.au/police-checks?andecid=p11147695884](https://auspost.com.au/police-checks?&ecid=p11147695884). Once the certificate has been obtained, please forward a copy to the Safeguarding Unit, who will confirm receipt with the parish priest.
+In addition, it is the policy of the Archdiocese of Melbourne that all clergy obtain a National Police Check certificate on initial and every subsequent appointment and reappointment. Fast and easy applications can be made online through the [Australia Post website](https://auspost.com.au/police-checks?&ecid=p11147695884). Once the certificate has been obtained, please forward a copy to the Safeguarding Unit, who will confirm receipt with the parish priest.
 
 Contact details for the Safeguarding Unit:
 
@@ -328,19 +328,19 @@ The presumption of canon law is that if goods are given to the administrators of
 
 Therefore, any goods that are intended for the parish priest personally must be clearly indicated as such by the donor.
 
-It is presumed that all goods in a church, presbytery, parish office and hall belong to the parish, except those that are specifically listed on a signed inventory of the priest's goods.
+It is presumed that all goods in a church, presbytery, parish office and hall belong to the parish, except those that are specifically listed on a signed inventory of the priest’s goods. 
 
-When a parish priest is transferred to a new parish, he may bring with him only those goods that are his personal property. All other goods (furniture, office equipment and supplies, household utensils and so forth) must remain with the parish. A record of the inventory is to be exchanged and updated each time the appointment of a new parish priest occurs
+When a parish priest is transferred to a new parish, he may bring with him only those goods that are his personal property. All other goods (furniture, office equipment and supplies, household utensils and so forth) must remain with the parish. A record of the inventory is to be exchanged and updated each time the appointment of a new parish priest occurs.
 
 Arrangements for exemptions to this rule must be made, in writing, to the Executive Director Stewardship.
 
-Please refer to **Appendix 11—Parish Asset Inventory Template** for guidance as to the information required on a parish goods inventory.
+Please refer to the **Parish Asset Inventory Template** for guidance as to the information required on a parish goods inventory.
 
 ## Investments outside of CDF
 
 ### PFC statute requirements
 
-The Archbishop, as part of his canonical responsibilities, has determined that parishes must seek his approval, through the Executive Director Stewardship's office, before investments exceeding $100,000 are placed outside of the CDF. Parishes should indicate the total limit required to be approved for amounts invested outside of the CDF. Once a limit is approved, funds may be transferred to and from external investment accounts without reference to further approvals.
+The Archbishop, as part of his canonical responsibilities, has determined that parishes must seek his approval, through the Executive Director Stewardship’s office, before investments exceeding $100,000 are placed outside of the CDF. Parishes should indicate the total limit required to be approved for amounts invested outside of the CDF. Once a limit is approved, funds may be transferred to and from external investment accounts without reference to further approvals. 
 
 ## Archdiocesan taxes and levies
 
@@ -377,54 +377,40 @@ The activities funded by the Quota Levy include:
 * Communications Office
 * Melbourne Historical Commission
 * Safeguarding Unit
-* St Patricks Cathedral
+* St Patrick’s Cathedral
 * Caritas
 * Catholic Social Services.
 
 The Quota Levy is calculated as follows:
 
-\| **Parish income as per parish annual financial statement YYYY** |
- |
-| --- | --- |
-| Less: Parish items deductible |
- |
-|
- | Loan interest payments |
- |
-|
- | Loan capital repayments |
- |
-|
- | Capital income |
- |
-|
- | Profit on sale of assets |
- |
-|
- | Unrealised investment income |
- |
-|
- | Other fundraising costs |
- |
-|
- | Bequests |
- |
-|
- | Internal grants |
- |
-|
- | External grants |
- |
-| **\= Net assessable income** |
- |
-| + ABS Social Economic Index adjustment |
- |
-| **\= Final income for quota yyyy** |
- |
-| @DPDC quota levy percentage |
- |
-| **\= Quota for YYYY+1 year** |
- |
+**\[@@FIX FORMATTING OF THE FOLLOWING]**
+
+**Parish income as per parish annual financial statement YYYY**
+
+*Less:* 
+
+* Parish items deductible 
+* Loan interest payments 
+* Loan capital repayments
+* Capital income
+* Profit on sale of assets
+* Unrealised investment income
+* Other fundraising costs  
+* Bequests 
+* Internal grants 
+* External grants
+
+**\= Net assessable income** 
+
+**+** ABS Social Economic Index adjustment 
+
+**\= Final income for quota yyyy**
+
+@DPDC quota levy percentage 
+
+**\= Quota for YYYY + 1 year** 
+
+**\[@@END FORMATTING ]**
 
 ### Parish Mission Development Fund Levy (formerly Land Acquisition Fund Levy)
 
@@ -439,19 +425,21 @@ The PMDF Levy is currently set at 15% and is raised as follows on:
 * property sales
 * long-term property leases (20 years and over) where a single up-front lease fee is received.
 
-\| Property sale price or long-term, up-front lease fee |
- |
-| --- | --- |
-| Less GST (if applicable) |
- |
-| Less settlement fees/agent's commission and marketing fees |
- |
-| Less adjustments |
- |
-| Net proceeds subject to levy |
- |
-| PMDF Levy payable @15% = |
- |
+**\[@@FIX FORMATTING OF THE FOLLOWING]**
+
+**Property sale price or long-term, up-front lease fee**
+
+*Less* GST (if applicable)
+
+*Less* settlement fees/agent’s commission and marketing fees 
+
+*Less* adjustments  
+
+**Net proceeds subject to levy**
+
+PMDF Levy payable @15% = 
+
+**\[@@END FORMATTING]**
 
 The PMDF is administered by the DPDC.
 
@@ -471,9 +459,9 @@ Parishes face risks, ranging from the potential effects of fire and other natura
 
 The PFC is to conduct a review of all parish insurance policies on renewal to ensure appropriate and adequate insurance coverage exists.
 
-The PFC's annual review of policies would typically include buildings and contents insurance, including individual sub-limits for money, burglary and theft, and voluntary workers cover.
+The PFC’s annual review of policies would typically include buildings and contents insurance, including individual sub-limits for money, burglary and theft, and voluntary workers cover. 
 
-It is the responsibility of the PFC to review these policies, consider whether changes to existing arrangements are required and advise the parish priest accordingly. Where a recommendation may be to change the insurance on a building from 'replacement' or 'modified replacement' to 'indemnity' (i.e. essentially to cover the cost of removal in the event of a total loss), the parish priest must seek approval from the Archbishop prior to amending the coverage.
+It is the responsibility of the PFC to review these policies, consider whether changes to existing arrangements are required and advise the parish priest accordingly. Where a recommendation may be to change the insurance on a building from ‘replacement’ or ‘modified replacement’ to ‘indemnity’ (i.e. essentially to cover the cost of removal in the event of a total loss), the parish priest must seek approval from the Archbishop prior to amending the coverage.
 
 The Archdiocese holds separate master policies for:
 
@@ -534,21 +522,9 @@ Parishes should direct any queries regarding insurances to their insurance-provi
 
 ### DIOCESAN MASTER POLICY
 
-| **Public/products liability insurance**                                                                                                                            | This indemnifies the parish (the Trustees of the Roman Catholic Trusts Corporation for the Diocese of Melbourne) for legal liability to third parties for bodily injury, property damage and advertising liability occurring during the period of insurance and happening in connection with the insured's business. |      |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
-| The policy is taken as a master policy in the name of the Roman Catholic Trusts Corporation for the Diocese of Melbourne (RCTC), including parishes. Limits apply. |                                                                                                                                                                                                                                                                                                                      |      |
-| \---                                                                                                                                                               | \---                                                                                                                                                                                                                                                                                                                 | \--- |
-
-\| **Employment practices**
- | This covers the damages and defence costs resulting from an employment practice alleged in a claim. 'Employment practices' includewrongful refusal to employ, failure to promote, wrongful demotion, termination, unlawful discrimination and breach of employee privacy.
- | The policy is structured as a master policy in the name of the RCTC, including parishes. |
-| **Professional indemnity—general** | This covers breach of professional duty by reason of any negligent act, error or omission, including legal liability for libel, slander, loss of documents and any fraudulent, criminal or malicious act of an employee, agent or voluntary worker.
- | The policy is structured as a master policy in the name of the RCTC, including parishes.
- |
-| **Officer's liability and diocese reimbursement** | Covers an officer of the parish for any wrongful acts committed (or alleged to have been committed) by members, such as, for example, claims of harassment, discrimination and bullying.
- | The policy is structured as a master policy in the name of the RCTC, including parishes. Premium costs are allocated between the Archdiocese, parish and other agencies covered.
- |
-| **Fidelity guarantee** | This covers parish money, negotiable instruments, goods or other property against theft, embezzlement or misappropriation by employees, apprentices or any authorised voluntary worker engaged in the performance of honorary duties. | The policy is structured as a master policy in the name of the RCTC, including parishes. |
+| **Public/products liability insurance**                                                                                                                            | This indemnifies the parish (the Trustees of the Roman Catholic Trusts Corporation for the Diocese of Melbourne) for legal liability to third parties for bodily injury, property damage and advertising liability occurring during the period of insurance and happening in connection with the insured's business. |     |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
+| The policy is taken as a master policy in the name of the Roman Catholic Trusts Corporation for the Diocese of Melbourne (RCTC), including parishes. Limits apply. |                                                                                                                                                                                                                                                                                                                      |     |
 
 \|
 
