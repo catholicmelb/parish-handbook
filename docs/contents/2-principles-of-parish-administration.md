@@ -1,5 +1,5 @@
 ---
-title: "# 2. Principles of parish administration"
+title: 2. Principles of parish administration
 date: 2023-08-07T07:13:14.865Z
 order: "2"
 description: "2"
