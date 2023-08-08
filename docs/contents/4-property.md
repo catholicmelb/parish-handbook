@@ -10,9 +10,11 @@ description: "4"
 
 The Archbishop is responsible for the careful supervision of the administration of all goods that belong to the parishes of the Archdiocese.
 
-The Archdiocesan Building and Property Commission (ABPC), formerly known as the PBFC, is a consultative body appointed by the Archbishop to assist and advise him, the Executive Director Stewardship's office and parishes in the best use of the land and buildings assets. The ABPC does this by attending to the implementation of policies approved by the Archbishop and assists parishes in evaluating the benefits and options associated with the buying, developing and or selling of land assets.
+The Archdiocesan Building and Property Commission (ABPC), formerly known as the PBFC, is a consultative body appointed by the Archbishop to assist and advise him, the Executive Director Stewardship’s office and parishes in the best use of the land and buildings assets. The ABPC does this by attending to the implementation of policies approved by the Archbishop and assists parishes in evaluating the benefits and options associated with the buying, developing and or selling of land assets. 
 
 The ABPC has the following responsibilities in pursuit of its purposes:
+
+**\[@@FIX FOLLOWING FORMATTING]**
 
 a. to review applications seeking approval from the Archbishop for:
 
@@ -40,6 +42,8 @@ c. to make recommendations to the Archbishop in respect of each application made
 
 d. to advise the Archbishop on any other matters referred by him to the ABPC from time to time.
 
+**\[@@END OF FORMATTING]**
+
 For the avoidance of doubt, for the purposes of clause (a)(i), any applications regarding works that concern building, restoration or renovation of churches or school chapels, or that otherwise involve the area of worship (nave and/or sanctuary), must not be considered by the ABPC unless they are accompanied by a recommendation from a competent body as authorised by the Archbishop, *that supports the grant by the Archbishop of a liturgical approval for such works.*
 
 ## Master-planning: *Take the Way of the Gospel* processes for parishes to follow in collaboration consultations
@@ -54,15 +58,15 @@ A parish has a responsibility to exercise good stewardship in the use of its lan
 
 ### Consultation
 
-The parish priest is to consult with PFC members and the regional bishop before submitting proposals for buying, developing or selling land to the ABFC in accordance with guidelines issued. Refer to the Archdiocese's Property and Infrastructure Office web page for further guidelines on 'Alienation or Purchase of Property within the Archdiocese of Melbourne' located at [Property and Infrastructure Services Resources](https://camorgau.sharepoint.com/sites/PAH-Property).The parish priest must relay the PFC's and the regional bishop's opinions with the proposal to the Archbishop.
+The parish priest is to consult with PFC members and the regional bishop before submitting proposals for buying, developing or selling land to the ABFC in accordance with guidelines issued. Refer to **Alienation or purchase of property guidelines**. The parish priest must relay the PFC’s and the regional bishop’s opinions with the proposal to the Archbishop. 
 
 ### Parish analysis of the proposal
 
 The parish is required to assess their needs for the future in regards to the proposed use of any new property or how alienating the property fits into future plans. The assessment should demonstrate how the transaction assists the parish in providing a sustainable resources base for service and mission, and how the transaction aligns with the parish's master plan for the particular site and overall land holdings.
 
-Diocesan requirements relating to any application to purchase property include a detailed financial analysis and business plan to verify the ability of the parish to complete the transaction for the purchase of the property. The financial considerations are subject to review by the Executive Director Stewardship's office through the Chief Financial Officer.
+Diocesan requirements relating to any application to purchase property include a detailed financial analysis and business plan to verify the ability of the parish to complete the transaction for the purchase of the property. The financial considerations are subject to review by the Executive Director Stewardship’s office through the Chief Financial Officer.
 
-### Archbishop's approval
+### Archbishop’s approval
 
 Prior to engaging in any real-estate transaction, the parish priest is required to obtain the written approval of the Archbishop. All requests for approval shall be in writing and sent to the Archbishop via the Executive Director Stewardship for review and submission to the relevant consultative bodies.
 
@@ -70,7 +74,7 @@ The parish priest representing the parish (c. 532) must be the one to initiate t
 
 Time should be allowed for review and consultation by the Archbishop and his consultative bodies, namely the Archdiocese Building and Property Commission, College of Consultors, Diocesan Finance Council and possibly Council of Priests.
 
-Refer to the Archdiocese's Property and Infrastructure Office web page for further guidelines on **'**Purchase of Property—Prior Approval Request \[Protocol]' located at [Property and Infrastructure Services Resources](https://camorgau.sharepoint.com/sites/PAH-Property).
+Refer to **Purchase of property—prior approval request protocol** .
 
 ### Property transaction execution
 
@@ -78,21 +82,21 @@ Only the Trustees of the Roman Catholic Trusts Corporation for the Diocese of Me
 
 ## Alienation of parish goods valued at over the ACBC-prescribed minimum value
 
-The permission of the Archbishop is required before parish stable patrimony (property and fixed assets) whose *value* (not necessarily the sale price) exceeds the minimum amount listed in Appendix 1—Amounts for alienation of temporal goodsmay be validly alienated—that is, transferred to another's ownership. The opinion of the PFC must be relayed to the Archbishop when seeking his permission to alienate the goods.
+The permission of the Archbishop is required before parish stable patrimony (property and fixed assets) whose *value* (not necessarily the sale price) exceeds the minimum amount listed in **Amounts for alienation of temporal goods** may be validly alienated—that is, transferred to another’s ownership. The opinion of the PFC must be relayed to the Archbishop when seeking his permission to alienate the goods. 
 
-Refer to the Archdiocese's Property and Infrastructure Office web page for further guidelines on **'Application to the Alienation of Church Property'** and the _Application Form_located at [Property and Infrastructure Services Resources](https://camorgau.sharepoint.com/sites/PAH-Property).
+Refer to the **Application to the alienation of Church property guidelines andapplication form**.
 
 ## Closure of a church
 
 Where the alienation of property involves the closure of a building that was previously used for Catholic worship, the Archdiocese has published guidelines for additional steps that are required for its conversion to a secular and appropriate use. These include formal consultation with parishioners, especially those affected by the closure. Further consultation should occur with parish bodies (pastoral council and PFC) and any interested parties who have a legitimate interest in the site (such as a land or building donor). The regional bishop or episcopal vicar is then to be consulted for a broader perspective in the region affected by the closure.
 
-Please refer to the detailed protocol 'Application to the Alienation of Church Property'and the _Application Form_located at [Property and Infrastructure Services Resources](https://melbournecatholic.org/about/our-services).
+Please refer to the **Application to the alienation of Church property guidelines andapplication form**.
 
 ## Capital works and building expenditure over $100,000
 
 The ABPC supervises the construction, alteration, addition or renovation of buildings. This includes church sanctuaries and other liturgical requirements. Capital works and major refurbishment—as defined as any construction, repair, renovation, landscaping or engineering project that is over $100,000 (excluding GST)—require the prior approval and permission of the Archbishop as an act of extraordinary administration.
 
-Please refer to the detailed protocol 'Application for Project Appraisal—ABPC for Parish Major and Minor Works'located at [Property and Infrastructure Services Resources](https://camorgau.sharepoint.com/sites/PAH-Property).
+Please refer to the detailed protocol in the **Application for Project Appraisal—ABPC for Parish Major and Minor Works**.
 
 ### Diocesan Pastoral and Development Commission financial assistance application
 
@@ -102,7 +106,7 @@ Funding of up to $30,000 is available for this purpose.
 
 The Commissioners have adopted a process whereby one round of applications is considered annually so that the budget can be allocated fairly between all applicants.
 
-Please refer to the [Application for Funding](https://camorgau.sharepoint.com/sites/PAH-Property) (Presbytery Renovations) for further information.
+Please refer to the **DPDC Application for Funding—Presbytery Renovations** for further information.
 
 ## Capital works under $100,000
 
@@ -116,7 +120,7 @@ Projects with a projected cost under $100,000 are generally handled at the local
 
 Projects should not be subdivided into separate work components under $100,000 to avoid applications for permission.
 
-The [RCTC Minor Works Building Contract](https://camorgau.sharepoint.com/sites/PAH-Property) for small construction projects should be used for all minor-works projects.
+The **RCTC minor works contract** for small construction projects should be used for all minor-works projects.
 
 Any project or improvement involving asbestos or mould remediation, lead-based paint or structural change to existing buildings, even if it will cost less than $100,000, must be reviewed and approved by the Archdiocese's Property and Infrastructure Office before proceeding with the work.
 
@@ -126,7 +130,7 @@ In accordance with the Parish Finance Committee Statutes, each parish should con
 
 This will ensure that the assets of the parish are maintained in good working order. It will also assist with finance planning, reducing the risk of parishes incurring unbudgeted capital and or maintenance expenditure.
 
-The Archdiocese's Property and Infrastructure Office has issued guidelines for 'Maintenance of Church Property' located at [Property and Infrastructure Services Resources](https://camorgau.sharepoint.com/sites/PAH-Property).A Long Term Maintenance Plan Template is included at Appendix 9—Long Term Maintenance Plan Templatefor reference.
+The Archdiocese’s Property and Infrastructure Office has issued guidelines for **Maintenance of Church Property** as well as a **Capital and maintenance 5-year plan template** for reference.
 
 Parishes are encouraged to document an asset-inspection program that covers the following items:
 
@@ -141,7 +145,7 @@ The leasing of parish property, including real property, requires that a contrac
 
 Good stewardship and administration principles are the basis for making sure that properly documented agreements are put in place for non-parish activities. This will contribute to improving communication and relationships between the parish and tenants or licensees, and will also reduce the risk of problems arising (which would be a significant drain on parish resources and also be of significant reputational risk to the parish).
 
-The Archdiocese has published policy guidance 'Lease, License and Hiring of Parish Property'_located_at [Property and Infrastructure Services Resources](https://camorgau.sharepoint.com/sites/PAH-Property) to assist parish priests and PFC advisers to understand the processes that govern the leasing and licensing ofparish properties.
+The Archdiocese has published a **Lease, license and hiring of Parish Property policy** to assist parish priests and PFC advisers to understand the processes that govern the leasing and licensing of parish properties.
 
 ### Leasing agreement execution
 
@@ -149,41 +153,11 @@ Subject to lease agreements being confirmed as ready for execution after the app
 
 ### Lease agreements requiring the Archbishop's approval
 
-In November 1984, the Australian Catholic Bishops Conference (ACBC) determined which leasing arrangements constitute extraordinary administration across the Catholic Church for diocesan and parish assets and therefore require special permissions. The Lease, License and Hiring of Parish Property guidance provides the full details, but in summary, the ACBC and the Archbishop require the following consultations and consents:
+In November 1984, the Australian Catholic Bishops Conference (ACBC) determined which leasing arrangements constitute extraordinary administration across the Catholic Church for diocesan and parish assets and therefore require special permissions. The **Lease, license and hiring of parish property policy** provides the full details, but in summary, the ACBC and the Archbishop require the following consultations and consents:
 
-\|
+**\[@@FIX FORMATTING OF FOLLOWING TABLE]**
 
-### Lease period
 
-\|
-
-### Parish priest responsibilities
-
-\|
-
-### Requirements before Archbishop can give consent
-
-| Leases for period of 3 years or less | Parish priest must: |
-| ------------------------------------ | ------------------- |
-
-* consult PFC.
-   | Not applicable. |
-  | --- | --- | --- |
-  | Leases for periods greater than 3 years but less than 9 years  | Parish priest must:
-* consult PFC
-* consult and obtain endorsement of regional bishop
-* obtain written approval from Archbishop.
-   | Archbishop acts alone in giving his consent. |
-  | Leases for periods in excess of 9 years  | Parish priest must:
-* consult PFC
-* consult and obtains endorsement of regional bishop
-* obtain written approval from Archbishop.
-  | Archbishop must obtain consent from:
-* the APBC (sub committee of the DFC)
-* the regional bishop
-* the College of Consultors
-* Diocesan Finance Council.
-  |
 
 ### Leasing and renting—rates and taxes implications of change of use
 
