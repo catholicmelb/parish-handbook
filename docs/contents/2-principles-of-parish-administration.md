@@ -24,17 +24,17 @@ In place of a parish priest, the Archbishop may appoint a parish administrator. 
 
 Canon 537 makes it obligatory that there be a parish finance committee (PFC) in each parish to assist the priest in fulfilling his responsibilities as steward of the property and financial assets of the parish.
 
-The existence of the finance committee does not detract from the parish priest's standing as the one who acts in the name of the parish (c. 532). However, such a committee provides the parish priest with valuable insight and advice, so that he may act more effectively in the interests of the parish.
+The existence of the finance committee does not detract from the parish priest’s standing as the one who acts in the name of the parish (c. 532). However, such a committee provides the parish priest with valuable insight and advice, so that he may act more effectively in the interests of the parish.
 
 Careful adherence to any instructions issued by the Archbishop is required by parish priests and finance committees. If Archdiocesan policy and canon law requirements are not complied with, a particular transaction may be invalid under canon law and possibly under civil law as well.
 
-There are certain situations where canon law, through the norms issued by the Archbishop, requires a parish priest to consult with and obtain the advice of the PFC. The parish priest is not bound in any way to accept the PFC's advice, even if unanimous; nevertheless, there must be some overriding reason for not doing so.
+There are certain situations where canon law, through the norms issued by the Archbishop, requires a parish priest to consult with and obtain the advice of the PFC. The parish priest is not bound in any way to accept the PFC’s advice, even if unanimous; nevertheless, there must be some overriding reason for not doing so.
 
 ### Parish priest responsibilities
 
-In summary, under the *Code of Canon Law*, the parish priest's responsibilities of administration are to:
+In summary, under the *Code of Canon Law*, the parish priest’s responsibilities of administration are to:
 
-* act within the limits and manner of ordinary administration, except where the Archbishop's written permission permits otherwise. Without permission, the act is invalid (c. 1281, §1)
+* act within the limits and manner of ordinary administration, except where the Archbishop’s written permission permits otherwise. Without permission, the act is invalid (c. 1281, §1)
 * arrange adequate insurance for parish assets and risks (c. 1284, §2, 1°)
 * ensure that all relevant civil law is complied with in relation to parish property (c. 1284, §2, 2°).
 * attend carefully to the wishes of the founder or donor of money or goods to the parish (c. 1284, §2, 3–4°°).
@@ -68,13 +68,13 @@ The need for financial, civil law and canonical expertise is critical in a compl
 
 ### Role of the parish finance committee
 
-The existence of the parish finance committee does not detract from the parish priest's standing as the one who acts in the name of the parish. However, such a committee provides the parish priest with valuable insight and advice, so that he may act more effectively in the interests of the parish.
+The existence of the parish finance committee does not detract from the parish priest’s standing as the one who acts in the name of the parish. However, such a committee provides the parish priest with valuable insight and advice, so that he may act more effectively in the interests of the parish.
 
 The PFC should comprise a minimum of three members, not including the parish priest. The number of members should be commensurate with the size of the parish. Nevertheless, it does not need to be large.
 
 Careful adherence to any instructions issued by the Archbishop is required by parish priests and finance committees, especially in relation to transactions undertaken. If Archdiocesan policy and canon law requirements are not complied with, a particular transaction may be invalid under canon law and possibly under civil law as well.
 
-There are certain situations *where Canon Law requires a parish priest to obtain the advice of the parish finance committee*. If advice is required, the parish priest's act is invalid if he does not hear the PFC. The parish priest is not bound to accept the PFC's advice, even if unanimous; nevertheless, there must be some overriding reason for not doing so.
+There are certain situations *where Canon Law requires a parish priest to obtain the advice of the parish finance committee*. If advice is required, the parish priest’s act is invalid if he does not hear the PFC. The parish priest is not bound to accept the PFC’s advice, even if unanimous; nevertheless, there must be some overriding reason for not doing so.
 
 ### Responsibilities of the parish finance committee
 
@@ -84,7 +84,7 @@ The parish finance committee's responsibilities are to:
 * assist the parish priest in the preparation of suitable annual reports to the parishioners concerning parish finances by 31 March following the end of each calendar year
 * assist the parish priest in the preparation of long-term cash-flow estimates to provide for future capital works and major maintenance requirements
 * assist the parish priest in the preparation of an annual financial report to the Archbishop, or provide the Archdiocesan Finance Office with access to the parish's accounting application files by 31 March following the end of each calendar year
-* call the parish priest's attention to any matters that seem to need more immediate action, such as:
+* call the parish priest’s attention to any matters that seem to need more immediate action, such as:
 * consistent overspending in a particular area of the budget
 * any concerns for the long-term financial welfare of the parish if it incurs an annual deficit, or if maintenance of adequate surplus funds appears to be in question.
 
@@ -98,15 +98,15 @@ Where a parish has incurred an operating loss in each of the past three financia
 
 ### Legal liability of parish finance committee members
 
-The members of the parish finance committee bear no civil legal responsibility by virtue of their membership. This is because of the nature of ecclesial governance and the way such governance is organised with respect to civil law. A 'parish' is a canonical entity (public juridic person), not a civil legal entity. As a required advisory body in canon law, it is not a board of management in the civil sphere and is not civilly responsible at law.
+The members of the parish finance committee bear no civil legal responsibility by virtue of their membership. This is because of the nature of ecclesial governance and the way such governance is organised with respect to civil law. A ‘parish’ is a canonical entity (public juridic person), not a civil legal entity. As a required advisory body in canon law, it is not a board of management in the civil sphere and is not civilly responsible at law. 
 
 The parish priest, by virtue of his appointment by the Archbishop, is the person in church law responsible for the temporal goods and finances of the parish. The *Roman Catholic Trusts Corporation for the Diocese of Melbourne* (RCTC) is the civil legal entity that holds legal title in property canonically owned by the parish.
 
-In all matters of legislative compliance that pertain to the parish, particularly in regard to its registration with the Australian Charities and Not-for-profits Commission, the 'Responsible Person' listed is the parish priest and never members of the PFC.
+In all matters of legislative compliance that pertain to the parish, particularly in regard to its registration with the Australian Charities and Not-for-profits Commission, the ‘Responsible Person’ listed is the parish priest and never members of the PFC.
 
 This places special responsibility on the parish priest to seek advice wisely, as he bears legal responsibility for the temporal affairs of the parish. It also places a serious moral responsibility on the members of the PFC to provide wise and honest advice on such matters.
 
-Parish priests and PFC members have the benefit of a directors and officers liability insurance master policy arranged through the Archdiocese. See 'Insurance' in chapter 3 for more details on insurance cover.
+Parish priests and PFC members have the benefit of a directors and officers liability insurance master policy arranged through the Archdiocese. See **‘Insurance’ in chapter 3** for more details on insurance cover.
 
 ## Acts of parish administration
 
@@ -114,7 +114,7 @@ Parish priests and PFC members have the benefit of a directors and officers liab
 
 The Church holds and administers temporal goods to serve the mission that the Lord has entrusted to the Church. The first point to be kept in mind, therefore, is that Church property never belongs to an individual person as if it were his or her own personal property. Church property always belongs to some juridic person and is the concern of the Christian community.
 
-The canonical norms, therefore, structure the Church's administration of property to facilitate the Church's mission, to protect the rights of various Christian communities to the proper use of property entrusted to them, and to promote the welfare of those persons and groups who should benefit from the wise use of the goods that are made available to the Church.
+The canonical norms, therefore, structure the Church’s administration of property to facilitate the Church’s mission, to protect the rights of various Christian communities to the proper use of property entrusted to them, and to promote the welfare of those persons and groups who should benefit from the wise use of the goods that are made available to the Church.
 
 Canon law describes four broad purposes for Church property:
 
@@ -149,15 +149,15 @@ The parish priest does not require authorisation, or the advice or consent of ot
 
 Acts that are not acts of ordinary administration are considered to be acts of extraordinary administration. These acts require the parish priest to consult with the PFC and seek the Archbishop's approval before proceeding.
 
-All correspondence with the Archbishop or the Executive Director Stewardship's office relating to consultations with, or the work of, the PFC must be signed by the parish priest.
+All correspondence with the Archbishop or the Executive Director Stewardship’s office relating to consultations with, or the work of, the PFC must be signed by the parish priest.
 
 The Archbishop has determined, in accordance with canon 1281, §2, that the acts listed below are acts of extraordinary administration:
 
 * any capital works and major refurbishment on a single project with expenditure exceeding $100,000 for parish projects and primary school projects and $300,000 for secondary colleges. These must be submitted to the Archbishop for his approval through the Archdiocesan Building and Property Commission*. (Note that Melbourne Archdiocese Catholic Schools Ltd will submit the requests for approval of primary school and secondary college projects)*
 * sale and purchase of land
-* other acts of alienation of a parish's stable patrimony (property and fixed assets) where the *value* (not the sale price) is above the minimum amount published in the norms issued by the Australian Catholic Bishops Conference. As at June 2022, acts of alienation in excess of $33,921 require the approval of the Archbishop
+* other acts of alienation of a parish’s stable patrimony (property and fixed assets) where the *value* (not the sale price) is above the minimum amount published in the norms issued by the Australian Catholic Bishops Conference. As at June 2022, acts of alienation in excess of $33,921 require the approval of the Archbishop
 * leasing of property and buildings for terms greater than three years
-* adopting an 'indemnity-only' basis for insurance of parish buildings (that is, where insurance cover is limited to the cost of removal or demolition of the insured building)
+* adopting an ‘indemnity-only’ basis for insurance of parish buildings (that is, where insurance cover is limited to the cost of removal or demolition of the insured building)
 * formation of any civil incorporation, or participation in any civil incorporation other than the RCTC
 * initiating or contesting litigation in a civil forum in the name of a public juridic person (a parish or the Archdiocese)
 * acceptance or refusal of bequests to which are attached some qualifying obligation or condition
@@ -172,14 +172,13 @@ Before the Archbishop provides written approval, he may be required to seek the 
 
 ### Alienation (sale or transfer of parish property/goods)
 
-Alienation, simply defined, is the transfer of assets or rights over assets from one person to another with or without compensation. Normally, this will be through the sale or gifting of assets. Acts such as mortgaging, renting or leasing of property are not acts of alienation, however, these transactions themselves may constitute acts of extraordinary administration and therefore require consent and approvals as noted above. The concept behind alienation is that goods constituting the stable patrimony
- of the parish (that is, of the juridic person) are destined to remain in the possession of the Church for a long or indefinite period of time, in order to provide security for the future through the preservation of value (c. 1294 §1 and §2).
+Alienation, simply defined, is the transfer of assets or rights over assets from one person to another with or without compensation. Normally, this will be through the sale or gifting of assets. Acts such as mortgaging, renting or leasing of property are not acts of alienation, however, these transactions themselves may constitute acts of extraordinary administration and therefore require consent and approvals as noted above. The concept behind alienation is that goods constituting the stable patrimony**\[1]** of the parish (that is, of the juridic person) are destined to remain in the possession of the Church for a long or indefinite period of time, in order to provide security for the future through the preservation of value (c. 1294 §1 and §2).
 
 A typical example would involve the sale of property and investment of the sale proceeds. Additionally, interest earned on the investment should be reinvested so as to maintain the real value of the asset. If the purchasing value is not maintained, it cannot be said that the future benefit has been preserved. Utilisation of sale proceeds of a property should not be applied to the general maintenance of other properties, as distinctions between items of capital (assets and liabilities) and revenue (income and expenses) need to be drawn.
 
 This is not to say that permission to utilise the proceeds will be unreasonably withheld, providing it can be demonstrated that the capital is being converted into another asset.
 
-It is the Archdiocese's policy that the proceeds from the sale of real property and long-term investment assets, not otherwise applied to purchase replacement assets, be lodged with the Catholic Development Fund (CDF). Investment of sale proceeds outside of the CDF require the permission of the Archbishop in accordance with the prescribed norms in the Parish Finance Committee Statutes. The purchase of replacement assets may constitute an act of extraordinary administration thus requiring its own approval as outlined in ' **Extraordinary administration**' above.
+It is the Archdiocese’s policy that the proceeds from the sale of real property and long-term investment assets, not otherwise applied to purchase replacement assets, be lodged with the Catholic Development Fund (CDF). Investment of sale proceeds outside of the CDF require the permission of the Archbishop in accordance with the prescribed norms in the Parish Finance Committee Statutes. The purchase of replacement assets may constitute an act of extraordinary administration thus requiring its own approval as outlined in **‘Extraordinary administration’ above**.
 
 As regards donations, it is most important that the intentions of the donors of goods to the parish are respected when a decision is made to alienate such goods (c. 1300). It may be prudent to consult with the donor, or their representative(s) to ensure their original bequest/donation intentions are not contravened.
 
@@ -215,17 +214,17 @@ In canon law, all parish assets are owned by the parish.
 
 ### Australian Charities and Not-for-profits Commission (ACNC)
 
-Parishes are to maintain current registration as a charity with the ACNC, and ensure local credentials are maintained to access the ACNC's Charity Portal. Parishes are to ensure details of the 'Responsible Person' (solely the parish priest) are maintained through the portal.
+Parishes are to maintain current registration as a charity with the ACNC, and ensure local credentials are maintained to access the ACNC’s Charity Portal. Parishes are to ensure details of the ‘Responsible Person’ (solely the parish priest) are maintained through the portal. 
 
 The Archdiocesan Parish Support Office is responsible for the bulk lodgement of the Annual Information Statement for all parishes. Parishes and the Archdiocesan Finance and Parish Support offices are to both have access to ACNC Portal records.
 
 ### Australian Taxation Office (ATO)
 
-Parishes are to maintain current registration as an income tax exempt charity with the ATO, and maintain local access to the ATO Business Portal. The Archdiocesan Finance and Parish Support offices will also maintain separate access as an authorised contact on each parish's ATO accounts.
+Parishes are to maintain current registration as an income tax exempt charity with the ATO, and maintain local access to the ATO Business Portal. The Archdiocesan Finance and Parish Support offices will also maintain separate access as an authorised contact on each parish’s ATO accounts.
 
 Parishes are to maintain up-to-date records of local authorised ATO contact persons and comply with various taxation obligations including:
 
-* employee and minister of religion 'pay as you go' (PAYG) withholding tax requirements
+* employee and minister of religion ‘pay as you go’ (PAYG) withholding tax requirements
 * goods and services tax (GST)
 * fringe benefits tax (FBT).
 
@@ -241,22 +240,21 @@ Parishes are also expected to meet responsibilities generally expected of a good
 * completing annual performance reviews and providing regular feedback to employees during the year
 * following approved procedures for handling complaints or disputes.
 
-The Archdiocesan Parish Payroll Service and Human Resources Office can assist parishes in meeting these obligations. See 'Archdiocesan Human Resources Office' in chapter 9 for further details.
+The Archdiocesan Parish Payroll Service and Human Resources Office can assist parishes in meeting these obligations. See **‘Archdiocesan Human Resources Office’ in chapter 9** for further details.
 
 ### Priestly vocation not an employment relationship
 
-Priests are not employees of the parish or of the Archdiocese. They exercise their vocation in relationship with the Archbishop 'voluntarily … based on their shared Catholic faith and acceptance of the authority of \[the Catholic Church's] institutions'.
- Refer to 'PAYG withholding tax' in chapter 3for separate information on the application of the PAYG withholding tax requirements to priests' personal stipends.
+Priests are not employees of the parish or of the Archdiocese. They exercise their vocation in relationship with the Archbishop ‘voluntarily … based on their shared Catholic faith and acceptance of the authority of \[the Catholic Church’s] institutions’.**\[2]** Refer to **‘PAYG withholding tax’ in chapter 3** for separate information on the application of the PAYG withholding tax requirements to priests’ personal stipends.
 
 ### Occupational health and safety
 
-Victoria's *Building Regulations 2018* require building owners to maintain 'essential safety measures' so that they operate satisfactorily. There are different obligations under the Regulations, which depend on when the building was built or when building work occurred on the building.
+Victoria’s *Building Regulations 2018* require building owners to maintain ‘essential safety measures’ so that they operate satisfactorily. There are different obligations under the Regulations, which depend on when the building was built or when building work occurred on the building.
 
-Refer to chapter 5, 'Essential safety' for further details.
+Refer to **chapter 5, ‘Essential safety measures’** for further details.
 
 ### Safeguarding children and young people
 
-Safeguarding is everyone's responsibility. The safety and wellbeing of all persons are considered our highest priority in the Archdiocese of Melbourne.
+Safeguarding is everyone’s responsibility. The safety and wellbeing of all persons are considered our highest priority in the Archdiocese of Melbourne. 
 
 The Archdiocese acknowledges that safeguarding children and vulnerable people requires proactive approaches across policies, procedures and practices within parishes, agencies and entities, consistent with the requirements of the:
 
@@ -281,17 +279,17 @@ The Archdiocese acknowledges that safeguarding children and vulnerable people re
 * Working with Children Checks and related offences
 * National Principles for Child Safe Organisations (Australian Human Rights Commission)
 * National Catholic Safeguarding Standards (Australian Catholic Safeguarding Limited)
-* The Archdiocese's Safeguarding and Wellbeing Policy for Children and Young People and the Safeguarding Children and Young People Code of Conduct
+* The Archdiocese’s Safeguarding and Wellbeing Policy for Children and Young People and the Safeguarding Children and Young People Code of Conduct
 
 In fulfilling this responsibility, the *[Safeguarding Children and Young People Framework](https://melbournecatholic.org/safeguarding/safeguarding-framework-resources)* has been developed to guide the implementation of child-safety policies, procedures and practices within parishes, agencies and entities with the aim of promoting the safety of children and young people.
 
-Clergy, employees and volunteers are required to abide by the requirements of the Archdiocese's Safeguarding and Wellbeing Policy for Children and Young People.
+Clergy, employees and volunteers are required to abide by the requirements of the Archdiocese’s Safeguarding and Wellbeing Policy for Children and Young People.
 
-Refer to 'Safeguarding protections' in chapter 8for further details of parish obligations.
+Refer to **‘Safeguarding protections’ in chapter 8** for further details of parish obligations.
 
 ## Communications and media
 
-The parish priest and the Archdiocese's Director of Communications and Media are the people authorised to communicate with the media in relation to parish matters. Priests are encouraged to first check with the Director of Communications and Media to assist in ensuring the messaging is consistent and accurate.
+The parish priest and the Archdiocese’s Director of Communications and Media are the people authorised to communicate with the media in relation to parish matters. Priests are encouraged to first check with the Director of Communications and Media to assist in ensuring the messaging is consistent and accurate.
 
 Media interest in events and people can be generated for all sorts of reasons. In the main, it is usually good, but there may be times when it is both challenging and concerning for the parish community.
 
@@ -309,8 +307,13 @@ The Office of the Archbishop coordinates episcopal visitations and will be in to
 
 ### Annual financial report review
 
-The Archdiocese does not require parishes to audit their financial statements. Instead, the Archdiocese's Finance and Parish Support offices review the parish financial report in order to provide feedback and support to the parish and advice to the Archbishop as required.
+The Archdiocese does not require parishes to audit their financial statements. Instead, the Archdiocese’s Finance and Parish Support offices review the parish financial report in order to provide feedback and support to the parish and advice to the Archbishop as required. 
 
 It is preferred that the parish supplies the Finance and Parish Support offices with access to the accounting package data file so that a review of the records may be conducted and extra support and advice provided to the parish where necessary. For example, this may be particularly helpful for parishes in reconciling balances related to ongoing tax remittance obligations (e.g. PAYG withholding tax and GST) to their ATO running balance account records.
 
 The Finance and Parish Support offices will also provide advice on the completeness of the financial records, particularly to ensure they reflect all parish activities generating receipts and payments.
+
+#### Footnotes
+
+1. According to Canon Law Society of America, *New Commentary on the Code of Canon Law*, 2000, p. 1495: ‘Stable patrimony is all property, real or personal, movable or immovable, tangible or intangible, that, either of its nature or by explicit designation, is destined to remain in the possession of its owner for a long or indefinite period of time to afford financial security for the future. It is the opposite of free or liquid capital which is intended to be used to meet operating expenses or otherwise disposed of within a reasonably short period of time (within one or, at most, two years). There are four general categories of stable patrimony: (1) real estate (land, buildings); (2) non fungible personalty (tangible movable property that is not consumed in its use, such as automobiles, furniture, books); (3) long-term (over two years) investments in securities (stocks, bonds, treasury notes); (4) restricted funds, that is, funds, even if comprised of cash or short-term securities, that have been set aside for a specific purpose, such as pension \[retirement] funds or certain building or educational funds.’
+2. Lucas et al., *Church Administration Handbook*, 2nd edn, 2018, p. 341.
