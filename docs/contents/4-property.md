@@ -157,7 +157,11 @@ In November 1984, the Australian Catholic Bishops Conference (ACBC) determined w
 
 **\[@@FIX FORMATTING OF FOLLOWING TABLE]**
 
-
+| Lease period                                                  | Parish priest responsibilities                                                                                               | Requirements before Archbishop can give consent                                                                                                         |
+| ------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Leases for period of 3 years or less                          | Parish priest must consult PFC.                                                                                              | Not applicable.                                                                                                                                         |
+| Leases for periods greater than 3 years but less than 9 years | Parish priest must: consult PFC; consult and obtain endorsement of regional bishop; obtain written approval from Archbishop. | Archbishop acts alone in giving his consent.                                                                                                            |
+| Leases for periods in excess of 9 years                       | Parish priest must: consult PFC; consult and obtain endorsement of regional bishop; obtain written approval from Archbishop. | Archbishop must obtain consent from: the APBC (sub committee of the DFC); the regional bishop; the College of Consultors; the Diocesan Finance Council. |
 
 ### Leasing and renting—rates and taxes implications of change of use
 
@@ -169,7 +173,7 @@ Properties that are used partially for income-producing purposes may incur a pro
 
 Vacant land not being used for a current pastoral purpose may also incur land tax and municipal rates.
 
-For further advice on the taxable status of land and on reporting obligations, please contact the Property and Infrastructure Office. The Archdiocese has published policy guidance '[Property Rates and Taxes Guidelines](https://camorgau.sharepoint.com/:w:/s/ParishAdministrationGuidelines/EVYhlbB35PtIsKeHoGsWvTIBrcRvN8OOFmP53SUyg9flwQ?e=nAZeQE)'locatedat [Property and Infrastructure Services Resources](https://camorgau.sharepoint.com/sites/PAH-Property).
+For further advice on the taxable status of land and on reporting obligations, please contact the Property and Infrastructure Office. The Archdiocese has published policy guidance in its **Guidelines for property rates and taxes**.
 
 ## Renting or hiring parish property
 
@@ -177,11 +181,9 @@ A hire agreement differs from lease and licence agreements in that it covers the
 
 Whenever parish property is used or hired by a third party, a formal agreement setting out the terms and conditions of the hire or use of the property or facilities must be completed and signed by the third party and the parish priest.
 
-The Hire/Casual Use Agreement provides information and protections for both parties with an accompanying set of guidelines and procedures that are to be complied with in relation to each and every user of parish property, whether the use is by a one-off user or a long-term user under agreed terms.
+The **Facilities hire agreement** is to be used for all parish facility hire arrangements and provides information and protections for both parties .
 
-The Archdiocese has published policy guidance '[Parish Facilities Hire Guidelines](https://camorgau.sharepoint.com/sites/PAH-Property)'_located_at [Property and Infrastructure Services Resources](https://camorgau.sharepoint.com/sites/PAH-Property) to assist parish priests and parish workers with the administrative requirements for hiring parish facilities. The guidelines deal with matters such as fees, bonds, insurance cover, permissible uses, work health and safety compliance, and conditions for use of the facility.
-
-The guidelines contain a standard [Hire Agreement](https://camorgau.sharepoint.com/:b:/s/ParishAdministrationGuidelines/EZmPQ4TIf_ZMjKFMaZ3ShVUBFdx36ZBiWr0CIrNWYS5v_g?e=0deF9B) for parishes to use for all parish facility hire arrangements.
+The accompanying **Parish facilities hire guidelines** are to be complied with in relation to each and every user of parish property, whether the use is by a one-off user or a long-term user under agreed terms. The guidelines are designed to assist parish priests and parish workers with the administrative requirements for hiring parish facilities and deal with matters such as fees, bonds, insurance cover, permissible uses, work health and safety compliance, and conditions for use of the facility.
 
 ## When a parish is a tenant
 
@@ -189,38 +191,36 @@ There are occasions when a parish may require the short-term use of a building a
 
 Prior to entering into any agreement with another organisation, the parish priest must consult with the PFC and maintain a record of their awareness of the expenditure to be incurred due to the lease proposal.
 
-While the permission of the Archbishop is not required, the LeaseApplication Form (Lessee) should be completed and forwarded to the Executive Director Stewardship through the Property and Infrastructure Office.
+While the permission of the Archbishop is not required, the **Lease application form (lessee)** should be completed and forwarded to the Executive Director Stewardship through the Property and Infrastructure Office.
 
 No formal lease process should commence until the Property and Infrastructure Office has reviewed the proposal. Execution of lease agreements for parish tenancies is completed by the RCTC.
 
-The Archdiocese has published policy guidance '[Application and Process for when a Parish is a Tenant of Licensee](https://camorgau.sharepoint.com/sites/PAH-Property)'_located_at [Property and Infrastructure Services Resources](https://camorgau.sharepoint.com/sites/PAH-Property) to assist parish priests and PFC advisers to understand the processes that govern the leasing and licensing of parish property.
+The Archdiocese has published policy guidance in **Application and process for when a parish is a tenant or licensee** to assist parish priests and PFC advisers to understand the processes that govern the leasing and licensing of parish property.
 
 ## Naming parish buildings
 
-The Archdiocese has published a policy on naming parish buildings. Please refer to [the Naming Policy](https://camorgau.sharepoint.com/sites/PAH-VG/Shared%20Documents/Forms/AllItems.aspx)for guidance on the process to be followed.
+The Archdiocese has published a policy on naming parish buildings. Please refer to the **Naming Policy** for guidance on the process to be followed.
 
-## Deceased's ashes and columbariums
+## Deceased’s ashes and columbariums
 
 In 1963, the Church lifted the prohibition on Catholics being cremated. Since then, the choice of cremation has notably increased, and parishes have responded by providing places, often near the parish church, where the ashes of the deceased can be interred. This follows the tradition of people being interred near the parish church, where their remains can be honoured within the faith community in which the deceased lived and worshipped.
 
-The Church says that 'the ashes of the faithful must be laid to rest in a sacred place, that is, in a cemetery or, in certain cases, in a church or an area, which has been set aside for this purpose, and so dedicated by the competent ecclesial authority' (*Ad resurgendum cum Christo*, §1016, #5).
+The Church says that ‘the ashes of the faithful must be laid to rest in a sacred place, that is, in a cemetery or, in certain cases, in a church or an area, which has been set aside for this purpose, and so dedicated by the competent ecclesial authority’ (*Ad resurgendum cum Christo*, §1016, #5).
 
-The word *columbarium* is derived from the Latin word for 'dove' (*columba*), the bird of peace and a symbol of the Holy Spirit.
+The word *columbarium* is derived from the Latin word for ‘dove’ (*columba*), the bird of peace and a symbol of the Holy Spirit.
 
 It is a structure composed of many niches to permit the interment of the ashes of those who have been cremated.
 
-A sample 'General Conditions for a Memorial Garden and Columbarium together with an Agreement for Internment Right' template are located at [Property and Infrastructure Services Resources](https://camorgau.sharepoint.com/sites/PAH-Property).
+Sample **General conditions for a memorial garden and columbarium** have been made available by the Archdiocese, including an agreement for internment right template.
 
-The Archdiocese has published policy guidance, *Guidelines relating to the conservation of ashes in the case of cremation*,_located_at [Property and Infrastructure Services Resources](https://camorgau.sharepoint.com/sites/PAH-Property), to assist parish priests and PFC advisers to:
+The Archdiocese has also published policy guidance in **Guidelines relating to the conservation of ashes in the case of cremation**, to assist parish priests and PFC advisers to:
 
 * understand the procedures to follow when establishing and maintaining columbariums
-* respond to requests from parishioners to lay to rest a deceased's ashes.
+* respond to requests from parishioners to lay to rest a deceased’s ashes.
 
 ## CCTV and security
 
-The Property and infrastructure Office has published a *Parish Minimum Standards Security Guideline* to help parishes minimise the chances of property being lost and people's safety threatened. It provides advice on how to minimise the risk of unauthorised entry to parish property and the associated threats to people, first, and then property.
-
-The guideline is located at [Parish Minimum Standards Security Guideline](https://camorgau.sharepoint.com/sites/PAH-Property).
+The Property and infrastructure Office has published a **Parish Minimum Standards Security Guideline** to help parishes minimise the chances of property being lost and people’s safety threatened. It provides advice on how to minimise the risk of unauthorised entry to parish property and the associated threats to people, first, and then property.
 
 ## Heritage-listed buildings and Conservation Management Plans
 
