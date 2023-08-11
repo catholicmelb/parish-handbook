@@ -8,7 +8,7 @@ description: "9"
 
 ## Archdiocesan Finance Office and Parish Support Office
 
-The Archdiocese's Finance Office is responsible for the efficient administration of the Archdiocese's financial assets and for providing administrative support to parishes, including:
+The Archdiocese’s Finance Office is responsible for the efficient administration of the Archdiocese’s financial assets and for providing administrative support to parishes, including: 
 
 * training and support in parish finance and administration duties, including the use of the Xero and PACEM systems across all finance modules
 * assisting with completion and submission of annual parish financial reports to the Archdiocese
@@ -52,13 +52,13 @@ To speak with someone from the HR Office, please phone (03) 9926 2424 or email [
 
 The Archdiocese's Development and Philanthropy Office (DPO) was formed to enhance and support the fundraising efforts of the Archbishop, diocesan parishes and key Church agencies. In the context of parishes, the DPO's services include:
 
-* **offertory giving programs**
+* **offertory giving programs**\
   These programs are designed to educate parishioners on the importance of giving to the parish on a weekly basis. DPO resources particularly focus on encouraging parishioners to see their act of gift-giving as part of the offertory made at the Mass. Parishes should run an offertory giving program at least once every three years; and, once a year, on a particular weekend of their choice, parishes are also encouraged to provide parishioners with an opportunity to reflect on their giving habits and re-evaluate their weekly pledge.
-* **capital campaigns**
+* **capital campaigns**\
   From time to time, parishes need to embark on special fundraising campaigns known as capital campaigns. The DPO will closely collaborate with parish priests and with finance and building committees to plan out a scheduled and detailed fundraising program. This will include formulating a strong case for support and carrying out or aiding conversations with prospective donor families.
-* **bequests promotion**
-  Bequests are powerful and transformational acts of generosity. Naturally one of the most important communities in many people's lives is their local parish. On many occasions, through the provision of a will, the Church has received deceased estates, or portions of an individual's estate. The DPO can talk to priests about how to go about promoting bequests.
-* **Melbourne Catholic Professionals (MCP)**
+* **bequests promotion**\
+  Bequests are powerful and transformational acts of generosity. Naturally one of the most important communities in many people’s lives is their local parish. On many occasions, through the provision of a will, the Church has received deceased estates, or portions of an individual's estate. The DPO can talk to priests about how to go about promoting bequests.
+* **Melbourne Catholic Professionals (MCP)**\
   The DPO organises MCP luncheons throughout the year, providing opportunities for parishioners from various business sectors to meet with the Archbishop and network with other Catholic professionals. Guests at MCP events enjoy hearing from guest speakers who share powerful testimonies of working in different professions.
 
 For further information on the above programs and for any other fundraising enquiries, please contact the Philanthropy and Development Office on (03) 9926 5771 or via email at [archbishopsfund@cam.org.au](mailto:archbishopsfund@cam.org.au).
@@ -67,13 +67,13 @@ For further information on the above programs and for any other fundraising enqu
 
 The Priests Retirement Foundation (the Foundation) was established in 1990 and contributes to the ongoing care of retired priests across the Archdiocese of Melbourne. This includes, but is not limited to, the provision of suitable accommodation, health care and medical out-of-pocket expenses.
 
-The Foundation runs an annual appeal on the first Sunday of September, Father's Day.
+The Foundation runs an annual appeal on the first Sunday of September, Father’s Day.
 
 For further information regarding the Foundation, refer to the web page at [Priests Retirement Foundation | Melbourne Catholic](https://melbournecatholic.org/foundation).
 
-## Priests' Remuneration Fund
+## Priests’ Remuneration Fund
 
-The Priests' Remuneration Fund (PRF) operates an 'equalisation' fund to ensure all priests in the Archdiocese of Melbourne receive the designated minimum level of support.
+The Priests’ Remuneration Fund (PRF) operates an ‘equalisation’ fund to ensure all priests in the Archdiocese of Melbourne receive the designated minimum level of support.
 
 The PRF emerged from revelations in the late 1960s that many priests were living in strained circumstances, sustained solely by what came in on the collection plate. Due to economic unevenness across the Archdiocese, priests in wealthy parishes were guaranteed a comfortable living while their brother priests in poorer areas were often consigned to decades of struggle.
 
@@ -81,7 +81,7 @@ A series of clergy-initiated proposals to correct this imbalance were accepted a
 
 In 1997, Archbishop Pell proclaimed the charter of the PRF and constituted it as a public juridical person under canon law.
 
-For further details regarding the PRF, refer to the web page at: [PRF Guidelines—Catholic Archdiocese of Melbourne Clergy life and Ministry (camclergy.org.au)](https://www.camclergy.org.au/prf-guidelines).
+For further details regarding the PRF, refer to the Archdiocese’s [PRF guidelines](https://www.camclergy.org.au/prf-guidelines).
 
 ## Office of the Archbishop
 
@@ -89,21 +89,19 @@ The Office of the Archbishop is charged with supporting the ministry and service
 
 ### Some areas of focus
 
-Among the office's particular areas of focus are:
+Among the office’s particular areas of focus are:
 
 * correspondence to and from the Archbishop, including meeting requests, liturgical requests, event invitations. (Note that all correspondence should be directed to [archbishop@cam.org.au](mailto:archbishop@cam.org.au), providing as much information as possible. A lead-time of at least four months should be allowed for event requests.)
 * liaison with peak Church bodies
 * political and stakeholder engagement
 * public policy matters, legislation analysis, and issues management and advocacy
 * liaison with ecumenical and interfaith leaders
-* the Archbishop's messaging and writings
+* the Archbishop’s messaging and writings
 * preparation of curial acts and instruments
 * episcopal visitations
 * ordinations
 * marriages dispensations
-* [enquiries]()
-
-  and relations (to be directed to the Chancellor)
+* media enquiries and relations (to be directed to the Chancellor)
 * papal blessings
 * quinquennial report and annual report
 * data, records and archives
@@ -128,26 +126,25 @@ Contact email: [archbishop@cam.org.au](mailto:archbishop@cam.org.au)
 
 The Safeguarding Unit is responsible for:
 
-* Assisting parishes, agencies and entities to implement the Safeguarding and Wellbeing of Children and Young People Policy.
-* Providing support, advice and training to Archdiocesan parishes, agencies and entities to strengthen their efforts in relation to child safety.
-* Assisting Archdiocesan parishes, agencies and entities to comply with the Safeguarding and Wellbeing of Children and Young People Policy and relevant standards.
-* Receives complaints of current and historical abuse or child safety–related misconduct. The Safeguarding Unit liaises with Pathways Victoria to ensure that the appropriate statutory authorities are informed of reports, allegations and suspicions of abuse in line with the Archdiocese's legal requirements and duty of care.
+* assisting parishes, agencies and entities to implement the Safeguarding and Wellbeing of Children and Young People Policy
+* providing support, advice and training to Archdiocesan parishes, agencies and entities to strengthen their efforts in relation to child safety
+* assisting Archdiocesan parishes, agencies and entities to comply with the Safeguarding and Wellbeing of Children and Young People Policy and relevant standards.
+* receiving complaints of current and historical abuse or child safety–related misconduct. The Safeguarding Unit liaises with Pathways Victoria to ensure that the appropriate statutory authorities are informed of reports, allegations and suspicions of abuse in line with the Archdiocese's legal requirements and duty of care.
 
-Pathways Victoria (which was established in 2022, replacing Melbourne Response and Towards Healing) offers therapeutic and pastoral support to victim-survivors of abuse and conducts independent investigations in line with trauma-informed processes. Complaints, allegations and suspicions of abuse can be reported directly to Pathways Victoria or to the Safeguarding Unit. For further information on how to report, please refer to <https://melbournecatholic.org/safeguarding/reporting-abuse-and-safety-related-misconduct>.
-
-* Guiding improvements in relation to our approach to child safety across the Archdiocese (e.g. Safeguarding and Wellbeing of Children and Young People Policy, Code of Conduct, compliance, risk management, training) to meet legislative requirements at the state and federal level, and best practice expectations proposed by Australian Catholic Safeguarding Limited
-* Support parishes in completing their annual child safety audits.
+  Pathways Victoria (which was established in 2022, replacing Melbourne Response and Towards Healing) offers therapeutic and pastoral support to victim-survivors of abuse and conducts independent investigations in line with trauma-informed processes. Complaints, allegations and suspicions of abuse can be reported directly to Pathways Victoria or to the Safeguarding Unit. For further information on how to report, please refer to <https://melbournecatholic.org/safeguarding/reporting-abuse-and-safety-related-misconduct>.
+* guiding improvements in relation to our approach to child safety across the Archdiocese (e.g. Safeguarding and Wellbeing of Children and Young People Policy, Code of Conduct, compliance, risk management, training) to meet legislative requirements at the state and federal level, and best-practice expectations proposed by Australian Catholic Safeguarding Limited
+* supporting parishes in completing their annual child safety audits.
 
 ### Contacts
 
 Rachel Averbukh, Safeguarding Director\
 Phone: (03) 9926 5621\
 Email: safeguardingunit@cam.org.au\
-Web: [Safeguarding Unit | Melbourne Catholic](https://melbournecatholic.org/safeguarding/professional-standards-unit-psu/)
+Web: [melbournecatholic/safeguarding-unit](https://melbournecatholic.org/safeguarding/professional-standards-unit-psu/)
 
 ## Proclaim: The Office for Mission Renewal
 
-Proclaim: The Office for Mission Renewal was established in early 2020 to support the life of the Archdiocese of Melbourne in our aim to strive for 'the missionary option' in all we do. We heed Pope Francis' words in *Evangelii Gaudium* to seek 'a missionary impulse capable of transforming everything, so that the Church's customs, ways of doing things, times and schedules, language and structures can be suitably channelled for the evangelisation of today's world' (§27).
+Proclaim: The Office for Mission Renewal was established in early 2020 to support the life of the Archdiocese of Melbourne in our aim to strive for ‘the missionary option’ in all we do. We heed Pope Francis’ words in *Evangelii Gaudium* to seek ‘a missionary impulse capable of transforming everything, so that the Church’s customs, ways of doing things, times and schedules, language and structures can be suitably channelled for the evangelisation of today’s world’ (§27).
 
 The Proclaim team seeks to work with, inspire and empower parishes and local communities to proclaim and live the joy of the Gospel, offering them a range of strategies, resources and support, including:
 
@@ -187,7 +184,7 @@ PO Box 146, East Melbourne VIC 8002
 
 Phone: (03) 9287 5541\
 Contact email: [clmo@cam.org.au](mailto:clmo@cam.org.au)\
-Website: [Catholic Archdiocese of Melbourne Clergy Life and Ministry](https://www.camclergy.org.au/about-us-1)
+Website: [www.camclergy.org.au](www.camclergy.org.au)[](https://www.camclergy.org.au/about-us-1)
 
 ## Aboriginal Catholic Ministry
 
@@ -195,10 +192,10 @@ Since its beginnings in the 1980s, Aboriginal Catholic Ministry for Victoria (AC
 
 Aboriginal Catholic Ministry is based at 434 St Georges Road, Thornbury.
 
-For further information regarding ACM, refer to the web page at [Aboriginal Catholic Ministry | Melbourne Catholic](https://melbournecatholic.org/live/aboriginal-catholic-ministry).
+For further information, refer to the [ACM web page](https://melbournecatholic.org/live/aboriginal-catholic-ministry) on the Melbourne Catholic website.
 
 ## Melbourne Diocesan Historical Commission
 
 The Melbourne Diocesan Historical Commission (MDHC) was established in 1968 by Archbishop Knox to act as a secure keeping place for records and artefacts of continuing historical value to the Catholic Archdiocese of Melbourne. The MDHC ensures that records and artefacts are made accessible when required and are preserved into the future.
 
-For further information regarding the records maintained and gaining access to them, refer to the MDHC web page at[Historical Records | Melbourne Catholic](https://melbournecatholic.org/about/our-heritage/historical-records)
+For further information regarding the records maintained and gaining access to them, refer to the [MDHC web page](https://melbournecatholic.org/about/our-heritage/historical-records) on the Melbourne Catholic website.
