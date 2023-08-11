@@ -12,20 +12,20 @@ This chapter is intended to assist parishes to understand and manage their legal
 
 Essential safety measures (ESMs) are mandatory safety requirements in buildings.
 
-The following is a general guide only. Parishes may require specific advice with respect to the ESMs required in parish buildings. The Archdiocese's Property and Infrastructure Office can assist parishes who need specific advice.
+The following is a general guide only. Parishes may require specific advice with respect to the ESMs required in parish buildings. The Archdiocese’s Property and Infrastructure Office can assist parishes who need specific advice. 
 
 ## Background
 
-The Building Regulations 2018 (Vic.) ('the Regulations')establish duties on building owners regarding the installation and maintenance of ESMs in buildings. The types of ESMs required will depend upon the age and type of the building.
+The Building Regulations 2018 (Vic.) (‘the **Regulations’**)establish duties on building owners regarding the installation and maintenance of ESMs in buildings. The types of ESMs required will depend upon the age and type of the building.
 
-It is the parish's responsibility, as the beneficial owner of parish buildings, to ensure that required ESMs are installed, maintained and audited, and that maintenance and inspection records are available for review. Compliance with the Regulations promotes the safety of the users of parish buildings. Penalties apply to building owners who fail to meet their ESM obligations.
+It is the parish’s responsibility, as the beneficial owner of parish buildings, to ensure that required ESMs are installed, maintained and audited, and that maintenance and inspection records are available for review. Compliance with the Regulations promotes the safety of the users of parish buildings. Penalties apply to building owners who fail to meet their ESM obligations. 
 
 ## Buildings covered by the Regulations
 
 The types of buildings covered under the Regulations include:
 
 * **Class 1b** —boarding house, guest house or hostel up to, but not greater than, 300m2 in area
-* **Class 3** —boarding house, guest house or hostel greater than 300 m2 in area, including dormitory-style accommodation or workers' quarters
+* **Class 3** —boarding house, guest house or hostel greater than 300 m2 in area, including dormitory-style accommodation or workers’ quarters
 * **Class 7** —storage-type buildings, including carparks (7a) and warehouses or storage facilities (7b)
 * **Class 9** —buildings of a public nature, including hospitals and health-care buildings, assembly buildings for mixed purposes, churches, schools, universities and childcare centres, residential care buildings and places where 10% or more of the residents need physical assistance in conducting daily activities or exercising.
 
@@ -33,7 +33,7 @@ Most parish buildings will fall within Class 9. The Regulations also apply to pl
 
 The maintenance of ESMs will ensure that important safety systems within a building remain at the required operational level throughout the life of the building. The type of maintenance needed depends on the complexity of the safety measures and type of equipment installed.
 
-A parish's obligations will depend on when the building was constructed or substantially altered before or after 1 July 1994.
+A parish’s obligations will depend on when the building was constructed or substantially altered before or after 1 July 1994.
 
 ## Types of ESMs
 
