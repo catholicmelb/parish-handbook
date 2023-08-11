@@ -39,17 +39,9 @@ A parish’s obligations will depend on when the building was constructed or sub
 
 The following are ESMs that may typically be required in parish buildings covered by the Regulations, such as churches and schools:
 
-\|
-
-### Category
-
-\|
-
-### Examples of ESMs in category
-
-| **Part 1: Building fire integrity**                                         | Wall-wetting sprinklers, fire doors and windows, smoke doors and associated self-closing, automatic closing and latching mechanisms                   |
+| Category                                                                    | Examples of ESMs in category                                                                                                                          |
 | --------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| \---                                                                        | \---                                                                                                                                                  |
+| **Part 1: Building fire integrity**                                         | Wall-wetting sprinklers, fire doors and windows, smoke doors and associated self-closing, automatic closing and latching mechanisms                   |
 | **Part 2: Means of egress**                                                 | Paths of travel to exits, discharge from exits, exits and open access ramps or balconies for fire-isolated exits                                      |
 | **Part 3: Signs**                                                           | Exit signs, signs warning against the use of lifts in the event of a fire and signs alerting persons that the operation of doors must not be impaired |
 | **Part 4: Lighting**                                                        | Emergency lighting                                                                                                                                    |
@@ -72,7 +64,7 @@ A building constructed before 1 July 1994 that has not been substantially modifi
 
 There may have been a building order, emergency order, a determination of ESMs or a maintenance determination made with respect to the building. This will set out the ESMs that apply to the building. If you are uncertain as to whether such an order or determination has been made with respect to a parish building, contact the building department at your local council.
 
-For buildings constructed before 1 July 1994 where there is no occupancy permit, the parish may apply to a municipal or private building surveyor for a determination of ESMs for any parish building falling within the building classes listed under 'Buildings covered by the Regulations' above.
+For buildings constructed before 1 July 1994 where there is no occupancy permit, the parish may apply to a municipal or private building surveyor for a determination of ESMs for any parish building falling within the building classes listed under **‘Buildings covered by the Regulations’ above.** 
 
 ### Buildings constructed or altered since 1 July 1994
 
@@ -86,7 +78,7 @@ The parish may apply for a maintenance schedule if it does not have one. This ma
 
 If a parish building requires ESMs but you do not have a maintenance schedule, contact the building department at your local council.
 
-## Parish's obligations for buildings where ESMs are required
+## Parish’s obligations for buildings where ESMs are required
 
 For buildings constructed before 1 July 1994, an occupancy permit may not be available. Owners are required to ensure that any safety equipment, fittings and safety measures installed are maintained such that they are fit for purpose. The safety equipment, fittings and safety measures required to be maintained are generally those installed in accordance with standards and regulations in force at the time of construction.
 
@@ -105,7 +97,7 @@ A building owner must ensure that the following are accessible, functional and c
 * any paths of travel to exits in the building
 * any paths of travel on the allotment from exits in the building or place to a road.
 
-### Parish's responsibility as beneficial owner
+### Parish’s responsibility as beneficial owner
 
 These obligations rest with the parish as the beneficial owner of parish buildings, despite the Roman Catholic Trusts Corporation for the Diocese of Melbourne being the legal owner of the land, and regardless of whether the parish buildings are occupied by others under a lease or license arrangement.
 
@@ -113,7 +105,7 @@ These obligations rest with the parish as the beneficial owner of parish buildin
 
 Where parish buildings are subject to a *Right to Use Land and Buildings Agreement*(RULBA) between the Archdiocese, the parish and Melbourne Archdiocese Catholic Schools Limited (MACS), MACS is responsible for the compliance with the ESM laws.
 
-In some RULBA arrangements, there may be areas that are designed as 'common areas'.The RUBLA will confirm whether common areas are the responsibility of MACS or the parish.
+In some RULBA arrangements, there may be areas that are designed as ‘common areas**’.** The RUBLA will confirm whether common areas are the responsibility of MACS or the parish. 
 
 MACS is responsible for ESMs in school-facility common areas, even when these areas are used by the parish or third parties from time to time.
 
@@ -131,7 +123,7 @@ While maintenance determinations and AESMRs are to be carried out by qualified p
 
 * **Fire doors:** egress through fire doors should be possible. Parishes should check fire doors at least once every six months, or more regularly if there is a risk of the fire door being obstructed. However, testing of the fire door itself should be done by a qualified ESM auditor
 * **Exits, and paths of travel to exits:** these should be inspected at least once every three months to ensure that they remain unobstructed
-* **Portable fire extinguishers, fire blankets and fire hose reels\*\*** :\*\* these should be inspected at least once every six months. The equipment should also be checked annually as part of the AESMR
+* **Portable fire extinguishers, fire blankets and fire hose reels:** these should be inspected at least once every six months. The equipment should also be checked annually as part of the AESMR
 * **Illuminated exit signs and emergency lighting:** these should be checked at least once every six months to ensure that they are operating.
 
 ## Other matters
@@ -140,4 +132,4 @@ While maintenance determinations and AESMRs are to be carried out by qualified p
 * PCBs have been known to leak from the capacitor into the light or fan fitting. It is therefore important that samples of the light fittings and fans are inspected by electrical contractors, and that the contractors are made aware of the potential exposure when performing such maintenance.
 * Whenever upgrade or replacement of the lights is being considered, the appropriate disposal of any PCB material must be in accordance with approved procedures. Parishes should ensure that this work is overseen and carried out by competent, experienced professionals.
 
-Some checklist documents to assist parishes are provided in Appendix 8.
+A range of **Essential services resources** have been provided to assist parishes in documenting reviews as required, depending on whether structures are classified as Division 1, 2 or 3 buildings.
