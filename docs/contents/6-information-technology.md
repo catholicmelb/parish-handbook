@@ -50,11 +50,11 @@ In general, parishes should follow standard recruitment practices when employing
 
 The successful candidate will be required to complete pre-employment checks, including:
 
-* Working with Children Check (WWCC) card (renewed every 5 years)
-* National Police Check certificate (renewed every 3 years)
-* Annual acknowledgement of the expectations and responsibilities outlined in the Safeguarding Children and Young People Code of Conduct.
+* Working with Children Check (WWCC) card (renewed every five years)
+* National Police Check certificate (renewed every three years)
+* annual acknowledgement of the expectations and responsibilities outlined in the Safeguarding Children and Young People Code of Conduct.
 
-In addition to this successful candidates are required to successfully complete the Catholic Archdiocese of Melbourne’s *[Safeguarding Essentials](https://safeguarding.melbournecatholic.org/s/login/?ec=302&startURL=%2Fs%2F)* online training module annually.
+In addition to this, successful candidates are required to successfully complete the Catholic Archdiocese of Melbourne’s *[Safeguarding Essentials](https://safeguarding.melbournecatholic.org/s/login/?ec=302&startURL=%2Fs%2F)* online training module annually.
 
 An employment agreement must be completed for all parish workers and forwarded to them for signing. The HR Office should be consulted for completion of this requirement.
 
