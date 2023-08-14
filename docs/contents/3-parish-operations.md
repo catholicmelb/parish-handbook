@@ -301,7 +301,7 @@ To list the Archdiocese, [log in to the Department of Justice website]([www.work
 
 Please add the address:
 
-Catholic Archdiocese of Melbourne,\
+Catholic Archdiocese of Melbourne\
 Safeguarding Unit\
 PO Box 146, East Melbourne VIC 8002\
 Phone: (03) 9926 5630
@@ -534,6 +534,13 @@ Canon 1287 states, ‘Both clerical and lay administrators of any ecclesiastical
 Canon 1287, §2 goes onto state, ‘According to the norms to be determined by particular law, \[parish priests] are to render an account to the faithful concerning the goods offered by the faithful to the Church.’ The spirit of the canon calls for accountability of stewardship. It is recommended that a ‘condensed’ version of the full income and expenditure presented to the PFC be submitted to parishioners on an annual basis. This should be presented to parishioners in both oral and written form by 31 March each year.
 
 This assists parishioners to become more aware of their responsibility to support their priest(s) and parish.
+
+### Safeguarding reporting 
+
+The parish priest, as head of entity, in collaboration with the safeguarding committee, is responsible for: 
+
+* monitoring ongoing compliance with the CAM Safeguarding Children and Young People Framework, which encompasses the requirements of the Victorian Child Safe Standards
+* preparing a summary of the parish’s compliance with the requirements of the Safeguarding Children and Young People Framework on an annual basis (through a self-assessment or audit process) and presenting it to the Archdiocese’s Safeguarding Unit. 
 
 ## Parish registers
 
