@@ -51,10 +51,8 @@ In general, parishes should follow standard recruitment practices when employing
 The successful candidate will be required to complete pre-employment checks, including:
 
 * Working with Children Check (WWCC) card (renewed every 5 years)
-
-National Police Check certificate (renewed every 3 years)
-
-Annual acknowledgement of the expectations and responsibilities outlined in the Safeguarding Children and Young People Code of Conduct.
+* National Police Check certificate (renewed every 3 years)
+* Annual acknowledgement of the expectations and responsibilities outlined in the Safeguarding Children and Young People Code of Conduct.
 
 In addition to this successful candidates are required to successfully complete the Catholic Archdiocese of Melbourne’s *[Safeguarding Essentials](https://safeguarding.melbournecatholic.org/s/login/?ec=302&startURL=%2Fs%2F)* online training module annually.
 
@@ -91,15 +89,15 @@ Volunteers provide an invaluable service and play an important role in our organ
 
 A volunteer is someone who provides services without receiving payment or any benefit in return. They are under no legal obligation to perform any work, and both the parish and the volunteer are entitled to cease the arrangement at any time.
 
-Church volunteers represent CAM and hold a position of trust in our communities. CAM acknowledges that children, young people, families and communities often hold Church volunteers in high regard, and therefore there is a need to ensure that all volunteers have been appropriately screened and trained in safeguarding irrespective of whether their role involves direct, indirect or no contact with children and young people.
+Church volunteers represent CAM and hold a position of trust in our communities. CAM acknowledges that children, young people, families and communities often hold Church volunteers in high regard, and therefore there is a need to ensure that all volunteers have been appropriately screened and trained in safeguarding, irrespective of whether their role involves direct, indirect or no contact with children and young people.
 
 All volunteers are required to complete pre-employment checks including:
 
 * Working with Children Check (WWCC) card (renewed every five years)
 * National Police Check Certificate (renewed every three years)
-* Acknowledgement of the expectations and responsibilities outlined in the Safeguarding Children and Young People Code of Conduct (renewed every three years)
+* acknowledgement of the expectations and responsibilities outlined in the Safeguarding Children and Young People Code of Conduct (renewed every three years)
 
-In addition to, this volunteers are required to successfully complete the Catholic Archdiocese of Melbourne’s *[Safeguarding Essentials](https://safeguarding.melbournecatholic.org/s/login/?ec=302&startURL=%2Fs%2F)* online training module every three years.
+In addition to this, volunteers are required to successfully complete the Catholic Archdiocese of Melbourne’s *[Safeguarding Essentials](https://safeguarding.melbournecatholic.org/s/login/?ec=302&startURL=%2Fs%2F)* online training module every three years.
 
 The process of selecting volunteers is essentially the same as recruiting employees, in that there should be clarity in identifying the task to be performed, interviewing potential volunteers, conducting reference and police checks, and providing a letter of offer to perform work as a volunteer. A **Sample engagement letter to volunteers** is provided.
 
