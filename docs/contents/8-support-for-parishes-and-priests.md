@@ -53,9 +53,9 @@ Parish ministries providing services to or offering activities involving the par
 
 The parish’s  overarching responsibilities in relation to safeguarding are to:
 
-* implement, maintain and/or review child safety processes and procedures to support the wellbeing and safety of children and young people with input from relevant stakeholders e.g. priest, parish administration, parents, children young people, program leaders, pastoral associates
-* engage in and/or review risk management processes to promote the safe participation of children and young people in programs, activities and events
-* implement risk management strategies for people of concern.
+* implement, maintain and/or review child safety processes and procedures to support the wellbeing and safety of children and young people, with input from relevant stakeholders (e.g. priest, parish administration, parents, children, young people, program leaders, pastoral associates)
+* engage in and/or review risk-management processes to promote the safe participation of children and young people in programs, activities and events
+* implement risk-management strategies for people of concern.
 
 Parish leaders, employees, volunteers and others in contact with children should be trained in the Archdiocese’s policies and procedures on how to promote a safe environment for children.
 
