@@ -18,7 +18,7 @@ CDF supports parish communities and seeks to continually improve an approach tha
 
 Each parish has a designated CDF representative, who assists with loan and account applications, and with registering and training in using the CDF's transactional services.
 
-For further information regarding the CDF, refer to [Catholic Development Fund](https://www.catholicdevelopmentfund.org.au/).
+For further information, refer to the [Catholic Development Fund website](https://www.catholicdevelopmentfund.org.au/).
 
 ## Melbourne Archdiocese Catholic Schools Ltd (MACS)
 
@@ -32,17 +32,17 @@ MACS governs Catholic schools in the Archdiocese and supports them to continue t
 
 Parish priests and principals hold distinctive roles of leadership in their parish and school communities. The charter defines their respective roles to ensure that the relationship between parish and school is strong and continues to provide the religious leadership necessary for the success of the mission.
 
-For further information regarding MACS, refer to [Melbourne Archdiocese Catholic Schools](https://www.macs.vic.edu.au/).
+For further information regarding MACS, refer to the [Melbourne Archdiocese Catholic Schools website](https://www.macs.vic.edu.au/).
 
 ## Villa Maria Catholic Homes
 
-Villa Maria Catholic Homes (VMCH) was established in 2015 with the merger of Villa Maria and Catholic Homes. VMCH's vision is to be _the Catholic Archdiocese of Melbourne's leading provider of high-quality disability, specialist education, aged care and retirement living services._
+Villa Maria Catholic Homes (VMCH) was established in 2015 with the merger of Villa Maria and Catholic Homes. VMCH's vision is to be *the Catholic Archdiocese of Melbourne's leading provider of high-quality disability, specialist education, aged care and retirement living services.*
 
 The successful integration allowed a more diverse range of services to be offered to meet the needs of older people, children and adults with disabilities, their families and carers.
 
 Today, VMCH provides early learning and therapy, specialist education, disability services, affordable homes, residential aged care, retirement living and at-home aged care to more than 7,600 people across Victoria and southern New South Wales.
 
-For further information, refer to[VMCH | Aged Care Melbourne | Disability | Retirement Living Melbourne](https://vmch.com.au/).
+For further information, refer to the [VMCH website](https://vmch.com.au/).
 
 ## CatholicCare Victoria (CCV)
 
@@ -52,7 +52,7 @@ CCV is committed to empowering communities and building strength and resilience,
 
 It delivers excellence in a broad range of child, family and youth services, family relationship services, school counselling and pastoral care services, social housing, homelessness services (crisis, transitional and outreach), employment and advocacy services across dozens of office locations.
 
-For further information, refer to[CatholicCare Victoria](https://www.catholiccarevic.org.au/).
+For further information, refer to the [CatholicCare Victoria website](https://www.catholiccarevic.org.au/).
 
 ## Parish-owned land collaboration with VMCH and CCV
 
@@ -64,4 +64,4 @@ A parish wishing to develop land, or to develop or redevelop a site including bu
 
 Parish ownership of the land and improvements, under an arrangement that provides an ongoing income stream for the parish while supporting the financial viability of VMCH and CCV in the development and management of the project so as to achieve its mission, is preferred.
 
-_Parishes considering the use of land for aged care or social housing purposes are encouraged to approach the Archdiocesan Property and Infrastructure Office early in the process for advice and guidance._
+*Parishes considering the use of land for aged care or social housing purposes are encouraged to approach the Archdiocesan Property and Infrastructure Office early in the process for advice and guidance.*
