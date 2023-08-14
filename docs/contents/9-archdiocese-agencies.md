@@ -131,16 +131,23 @@ The Safeguarding Unit is responsible for:
 * assisting Archdiocesan parishes, agencies and entities to comply with the Safeguarding and Wellbeing of Children and Young People Policy and relevant standards.
 * receiving complaints of current and historical abuse or child safety–related misconduct. The Safeguarding Unit liaises with Pathways Victoria to ensure that the appropriate statutory authorities are informed of reports, allegations and suspicions of abuse in line with the Archdiocese's legal requirements and duty of care.
 
-  Pathways Victoria (which was established in 2022, replacing Melbourne Response and Towards Healing) offers therapeutic and pastoral support to victim-survivors of abuse and conducts independent investigations in line with trauma-informed processes. Complaints, allegations and suspicions of abuse can be reported directly to Pathways Victoria or to the Safeguarding Unit. For further information on how to report, please refer to <https://melbournecatholic.org/safeguarding/reporting-abuse-and-safety-related-misconduct>.
-* guiding improvements in relation to our approach to child safety across the Archdiocese (e.g. Safeguarding and Wellbeing of Children and Young People Policy, Code of Conduct, compliance, risk management, training) to meet legislative requirements at the state and federal level, and best-practice expectations proposed by Australian Catholic Safeguarding Limited
+  Pathways Victoria was established in 2022, replacing the Melbourne Response and Towards Healing. It offers therapeutic and pastoral support to victim-survivors of abuse and conducts independent investigations in line with trauma-informed processes. Pathways Victoria is an independent entity that manages complaints of sexual and other abuse by Church personnel in the Catholic Archdiocese of Melbourne, including applications for redress in relation to institutional abuse matters.
+
+  Complaints, allegations and suspicions of abuse can be reported directly to Pathways Victoria or to the Safeguarding Unit. For further information on how to report, please refer to the [Reporting abuse and safety-related misconduce web page](https://melbournecatholic.org/safeguarding/reporting-abuse-and-safety-related-misconduct) on the Melbourne Catholic webise. 
+* guiding improvements in relation to our approach to child safety across the Archdiocese (e.g. Safeguarding and Wellbeing of Children and Young People Policy, Code of Conduct, compliance, risk-management, training) to meet legislative requirements at the state and federal level, and best-practice expectations proposed by Australian Catholic Safeguarding Limited
 * supporting parishes in completing their annual child safety audits.
 
 ### Contacts
 
-Rachel Averbukh, Safeguarding Director\
+Safeguarding Unit\
 Phone: (03) 9926 5621\
-Email: safeguardingunit@cam.org.au\
+Email: [safeguardingunit@cam.org.au](safeguardingunit@cam.org.au)\
 Web: [melbournecatholic/safeguarding-unit](https://melbournecatholic.org/safeguarding/professional-standards-unit-psu/)
+
+Pathways Victoria\
+Phone: (03) 7064 3940 \
+Email: [info@pathwaysvictoria.com](mailto:info@pathwaysvictoria.com) \
+Web: [www.pathwaysvictoria.com](https://www.pathwaysvictoria.com/)
 
 ## Proclaim: The Office for Mission Renewal
 
