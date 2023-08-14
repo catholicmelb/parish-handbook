@@ -101,7 +101,7 @@ Among the office’s particular areas of focus are:
 * episcopal visitations
 * ordinations
 * marriages dispensations
-* **and relations (to be directed to the Chancellor)**
+* media  enquiries and relations (to be directed to the Chancellor)
 * papal blessings
 * quinquennial report and annual report
 * data, records and archives
