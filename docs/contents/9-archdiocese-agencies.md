@@ -50,14 +50,14 @@ To speak with someone from the HR Office, please phone (03) 9926 2424 or email [
 
 ## Development and Philanthropy Office
 
-The Archdiocese's Development and Philanthropy Office (DPO) was formed to enhance and support the fundraising efforts of the Archbishop, diocesan parishes and key Church agencies. In the context of parishes, the DPO's services include:
+The Archdiocese’s Development and Philanthropy Office (DPO) was formed to enhance and support the fundraising efforts of the Archbishop, diocesan parishes and key Church agencies. In the context of parishes, the DPO's services include:
 
 * **offertory giving programs**\
   These programs are designed to educate parishioners on the importance of giving to the parish on a weekly basis. DPO resources particularly focus on encouraging parishioners to see their act of gift-giving as part of the offertory made at the Mass. Parishes should run an offertory giving program at least once every three years; and, once a year, on a particular weekend of their choice, parishes are also encouraged to provide parishioners with an opportunity to reflect on their giving habits and re-evaluate their weekly pledge.
 * **capital campaigns**\
   From time to time, parishes need to embark on special fundraising campaigns known as capital campaigns. The DPO will closely collaborate with parish priests and with finance and building committees to plan out a scheduled and detailed fundraising program. This will include formulating a strong case for support and carrying out or aiding conversations with prospective donor families.
 * **bequests promotion**\
-  Bequests are powerful and transformational acts of generosity. Naturally one of the most important communities in many people’s lives is their local parish. On many occasions, through the provision of a will, the Church has received deceased estates, or portions of an individual's estate. The DPO can talk to priests about how to go about promoting bequests.
+  Bequests are powerful and transformational acts of generosity. Naturally one of the most important communities in many people’s lives is their local parish. On many occasions, through the provision of a will, the Church has received deceased estates, or portions of an individual’s estate. The DPO can talk to priests about how to go about promoting bequests.
 * **Melbourne Catholic Professionals (MCP)**\
   The DPO organises MCP luncheons throughout the year, providing opportunities for parishioners from various business sectors to meet with the Archbishop and network with other Catholic professionals. Guests at MCP events enjoy hearing from guest speakers who share powerful testimonies of working in different professions.
 
@@ -69,7 +69,7 @@ The Priests Retirement Foundation (the Foundation) was established in 1990 and c
 
 The Foundation runs an annual appeal on the first Sunday of September, Father’s Day.
 
-For further information regarding the Foundation, refer to the web page at [Priests Retirement Foundation | Melbourne Catholic](https://melbournecatholic.org/foundation).
+For further information regarding the Foundation, refer to the [Priests Retirement Foundation web page ](https://melbournecatholic.org/foundation)on the Melbourne Catholic website.
 
 ## Priests’ Remuneration Fund
 
@@ -188,7 +188,7 @@ Website: [www.camclergy.org.au](www.camclergy.org.au)[](https://www.camclergy.or
 
 ## Aboriginal Catholic Ministry
 
-Since its beginnings in the 1980s, Aboriginal Catholic Ministry for Victoria (ACM) has been a vibrant ministry committed to ensuring Aboriginal and Torres Strait Islander peoples hold their rightful place in the Church and the wider community. The ministry's work is vast and includes providing support and pastoral and spiritual care to Aboriginal and Torres Strait Islander peoples, educating the wider community and working towards achieving real and lasting reconciliation. Inspired by the Gospel, ACM is committed to the dignity of each person, open hospitality, truth-telling about dispossession, and being a place of connection—working for reconciliation in partnership with those who believe that there can be an alternative to the present order.
+Since its beginnings in the 1980s, Aboriginal Catholic Ministry for Victoria (ACM) has been a vibrant ministry committed to ensuring Aboriginal and Torres Strait Islander peoples hold their rightful place in the Church and the wider community. The ministry’s work is vast and includes providing support and pastoral and spiritual care to Aboriginal and Torres Strait Islander peoples, educating the wider community and working towards achieving real and lasting reconciliation. Inspired by the Gospel, ACM is committed to the dignity of each person, open hospitality, truth-telling about dispossession, and being a place of connection—working for reconciliation in partnership with those who believe that there can be an alternative to the present order.
 
 Aboriginal Catholic Ministry is based at 434 St Georges Road, Thornbury.
 
