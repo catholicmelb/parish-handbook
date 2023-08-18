@@ -102,3 +102,9 @@ All staff, volunteers, contractors and agents are required to adhere to the foll
 * Lock your computer if you are going to be away from your workstation for an extended period of time.
 * Secure sensitive files with their own password protection.
 * When Archdiocesan information is stored or transferred for the purpose of legitimately accessing the information offsite, appropriate security protocols must be followed by the carrier of the information, and appropriate security measures must be provided on home computers and/or portable devices such as portable storage devices where diocesan information may be accessed.
+
+## Electronic communication including social media and photographs 
+
+Clergy, employees and volunteers need to consider the most appropriate methods of communication with children and young people. The Safeguarding Unit has published an [electronic communication including social media fact sheet](https://melbournecatholic.org/uploads/general/Electronic-Communication-including-Social-Media-v1.1.pdf) to assist parishes ensure electronic communications, including the use of social media, are conducted in an appropriate and safe manner. 
+
+There are many situations where organisations take and publish photographs and videos of children and young people (e.g. for use in organisational publications or social media pages). When taking photographs or video of children and young people in a parish context, it is  important to ensure that the photographs or video are taken for an ‘organisational purpose’ that has been approved by parents and carers. For further guidance, please refer to the Safeguarding Unit’s [photography and video of children and young people fact sheet](https://melbournecatholic.org/uploads/general/Photography-and-Video-of-Children-and-Young-People.pdf "https\://melbournecatholic.org/uploads/general/Photography-and-Video-of-Children-and-Young-People.pdf").
