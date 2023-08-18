@@ -1,6 +1,6 @@
 ---
 title: 9. Support for parishes and priests
-date: 2023-03-02T05:06:06.504Z
+date: 2023-08-18T01:20:06.732Z
 order: "9"
 description: "9"
 ---
