@@ -112,7 +112,7 @@ The following parish expenses are paid from the Church Account:
 * supply fees during a priest’s four weeks of annual holidays 
 * supply fees when a priest is on approved sick leave
 * supply fees when a priest on special duties living in the presbytery is on annual holidays and thus is unable to perform weekend supplies
-* Archdiocesan quota levy
+* Archdiocesan Quota Levy
 * all other liturgical, special-collection remittances, and pastoral and administrative expenses.
 
 ### Capital expenditure versus operating expenditure
@@ -406,7 +406,7 @@ The Quota Levy is calculated as follows:
 
 **\= Final income for quota yyyy**
 
-@DPDC quota levy percentage 
+@DPDC Quota Levy percentage 
 
 **\= Quota for YYYY + 1 year** 
 
