@@ -297,7 +297,7 @@ Priests must return a copy of the following documents to the Safeguarding Unit p
 
 The Victorian Working with Children Check (WWCC) protocol requires that the Safeguarding Unit has copies of all priests’ current WWCC cards on file. Priests need to update their WWCC profile online to ensure the Archdiocese is listed as one of the organisations for which each priest conducts work. This will ensure that the Safeguarding Unit receives a copy of each priest’s card directly from the Department of Justice.
 
-To list the Archdiocese, [log in to the Department of Justice website]([www.workingwithchildren.vic.gov.au/home/cardholders/update+your+details/](http://www.workingwithchildren.vic.gov.au/home/cardholders/update+your+details/)).
+To list the Archdiocese, [log in to the Department of Justice website](http://www.workingwithchildren.vic.gov.au/home/cardholders/update+your+details/).
 
 Please add the address:
 
@@ -306,7 +306,7 @@ Safeguarding Unit\
 PO Box 146, East Melbourne VIC 8002\
 Phone: (03) 9926 5630
 
-Priests moving to Victoria will need to apply for a Victorian WWCC card. Applications can be made through the [Department of Justice website]([www.workingwithchildren.vic.gov.au/home/applications/apply+for+a+check/](http://www.workingwithchildren.vic.gov.au/home/applications/apply+for+a+check/)).
+Priests moving to Victoria will need to apply for a Victorian WWCC card. Applications can be made through the [Department of Justice website](http://www.workingwithchildren.vic.gov.au/home/applications/apply+for+a+check/).
 
 *Please note* that no public ministry can be conducted prior to the WWCC application being lodged.
 
