@@ -32,7 +32,7 @@ export default defineConfig({
   //           text: 'nội dung',
   //           collapsed: false,
   //           collapsible: true,
-  //           // Retrieves all markdown files, 
+  //           // Retrieves all markdown files,
   //           // but does not retrieve any other files in this folder.
   //           // Ignores any files with '_partial' in their name.
   //           items: SidebarBuilder.get.filesAndOrder('./docs/vi/contents', ['_partial'])
@@ -55,7 +55,7 @@ export default defineConfig({
   //           text: 'Contenu',
   //           collapsed: false,
   //           collapsible: true,
-  //           // Retrieves all markdown files, 
+  //           // Retrieves all markdown files,
   //           // but does not retrieve any other files in this folder.
   //           // Ignores any files with '_partial' in their name.
   //           items: SidebarBuilder.get.filesAndOrder('./docs/fr/contents', ['_partial'])
@@ -80,6 +80,7 @@ export default defineConfig({
       { text: 'Home', link: '/' },
       { text: 'Changelog', link: '/changelog' },
     ],
+    outline: [2, 3],
     sidebar: [
       {
         items: SidebarBuilder.get.filesAndOrder('./docs/foreword', ['not-ready'])
@@ -88,7 +89,7 @@ export default defineConfig({
         text: 'Contents',
         collapsed: false,
         collapsible: true,
-        // Retrieves all markdown files, 
+        // Retrieves all markdown files,
         // but does not retrieve any other files in this folder.
         // Ignores any files with '_partial' in their name.
         items: SidebarBuilder.get.filesAndOrder('./docs/contents', ['not-ready'])

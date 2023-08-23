@@ -19,7 +19,7 @@
 
 <style scoped>
 .handbook-footer {
-  padding: 0 1.5rem 2rem;
+  padding: 1.5rem 2rem;
   font-size: 0.8rem;
 }
 
