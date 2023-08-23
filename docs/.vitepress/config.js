@@ -93,13 +93,7 @@ export default defineConfig({
         // but does not retrieve any other files in this folder.
         // Ignores any files with '_partial' in their name.
         items: SidebarBuilder.get.filesAndOrder('./docs/contents', ['not-ready'])
-      },
-      {
-        text: 'Appendix',
-        collapsed: true,
-        collapsible: true,
-        items: SidebarBuilder.get.filesAndOrder('./docs/appendix', ['not-ready'])
-      },
+      }
     ]
   },
   vite: {
