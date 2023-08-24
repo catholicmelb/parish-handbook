@@ -383,36 +383,14 @@ The activities funded by the Quota Levy include:
 
 The Quota Levy is calculated as follows:
 
-**\[@@FIX FORMATTING OF THE FOLLOWING]**
-
-Test
-
-**Parish income as per parish annual financial statement YYYY**
-
-*Less:* 
-
-* Parish items deductible 
-* Loan interest payments 
-* Loan capital repayments
-* Capital income
-* Profit on sale of assets
-* Unrealised investment income
-* Other fundraising costs  
-* Bequests 
-* Internal grants 
-* External grants
-
-**\= Net assessable income** 
-
-**+** ABS Social Economic Index adjustment 
-
-**\= Final income for quota yyyy**
-
-@DPDC Quota Levy percentage 
-
-**\= Quota for YYYY + 1 year** 
-
-**\[@@END FORMATTING ]**
+| **Parish income as per parish annual financial statement YYYY** |
+| ------------- |
+| *Less:* <ul><li>Parish items deductible</li><li>Loan interest payments</li><li>Loan capital repayments</li><li>Capital income</li><li>Profit on sale of assets</li><li>Unrealised investment income</li><li>Other fundraising costs</li><li>Bequests</li><li>Internal grants</li><li>External grants</li></ul> |
+| **\= Net assessable income** |
+| **+** ABS Social Economic Index adjustment |
+| **\= Final income for quota yyyy** |
+| @DPDC Quota Levy percentage |
+| **\= Quota for YYYY + 1 year** |
 
 ### Parish Mission Development Fund Levy (formerly Land Acquisition Fund Levy)
 
