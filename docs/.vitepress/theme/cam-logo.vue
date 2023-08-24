@@ -1,6 +1,5 @@
 <template>
   <div class="handbook-footer">
-    <span>Created by:</span>
     <a
       href="https://melbournecatholic.org"
       target="_blank"
