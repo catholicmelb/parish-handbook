@@ -405,21 +405,13 @@ The PMDF Levy is currently set at 15% and is raised as follows on:
 * property sales
 * long-term property leases (20 years and over) where a single up-front lease fee is received.
 
-**\[@@FIX FORMATTING OF THE FOLLOWING]**
-
-**Property sale price or long-term, up-front lease fee**
-
-*Less* GST (if applicable)
-
-*Less* settlement fees/agent’s commission and marketing fees 
-
-*Less* adjustments  
-
-**Net proceeds subject to levy**
-
-PMDF Levy payable @15% = 
-
-**\[@@END FORMATTING]**
+| **Property sale price or long-term, up-front lease fee** |
+| ------------- |
+| *Less* GST (if applicable) |
+| *Less* settlement fees/agent’s commission and marketing fees |
+| *Less* adjustments |
+| **Net proceeds subject to levy** |
+| PMDF Levy payable @15% = |
 
 The PMDF is administered by the DPDC.
 
