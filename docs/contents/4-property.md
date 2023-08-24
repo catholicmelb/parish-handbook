@@ -16,7 +16,7 @@ The ABPC has the following responsibilities in pursuit of its purposes:
 
 <style type="text/css">
 .list ol { list-style-type: lower-alpha; }
-.list ol + ul {list-style-type: upper-roman; }
+.list ol + ul {list-style-type: upper-roman; margin-left: 12px; }
 </style>
 
 <div class="list">
