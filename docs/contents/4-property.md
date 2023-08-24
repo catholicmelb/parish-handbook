@@ -14,35 +14,31 @@ The Archdiocesan Building and Property Commission (ABPC), formerly known as the 
 
 The ABPC has the following responsibilities in pursuit of its purposes:
 
-**\[@@FIX FOLLOWING FORMATTING]**
+<style type="text/css">
+.list ol { list-style-type: lower-alpha; }
+.list ol + ul {list-style-type: upper-roman; }
+</style>
 
-a. to review applications seeking approval from the Archbishop for:
+<div class="list">
 
-  i. works undertaken on parish land
+1. to review applications seeking approval from the Archbishop for:
+ * works undertaken on parish land
+ * the acquisition and disposal of land and buildings by a parish
+ * leases of parish land with a duration longer than nine years
+ * sub-leases and licences of parish land under a lease, where consent of the parish priest as owner is required
 
-  ii. the acquisition and disposal of land and buildings by a parish
+2. to consider the planning, building, finance and any related elements of each application to ensure that:
+ * works are soundly planned and will meet the objectives of the local context
+ * works are (where relevant) action-oriented to mission, providing a means and an instrument of evangelisation by the expression of their beauty, and act as a source of divine purpose
+ * works comply with mission-centred design and development guidelines as agreed or promulgated by the Archdiocese from time to time
+ * the proposal made under the application is financially sustainable and does not put the applicant in jeopardy
+ * all proposals have consideration of and respect for the wider Church context in the Archdiocese, particularly in the case of co-owned or co-occupied land, or land that is in immediate proximity to other ministries and agencies under the authority of the Archbishop
 
-  iii. leases of parish land with a duration longer than nine years
+3. to make recommendations to the Archbishop in respect of each application made to the ABPC, having regard in particular to the matters outlined in (b) above
 
-  iv. sub-leases and licences of parish land under a lease, where consent of the parish priest as owner is required
+4. to advise the Archbishop on any other matters referred by him to the ABPC from time to time.
 
-b. to consider the planning, building, finance and any related elements of each application to ensure that:
-
-  i. works are soundly planned and will meet the objectives of the local context
-
-ii. works are (where relevant) action-oriented to mission, providing a means and an instrument of evangelisation by the expression of their beauty, and act as a source of divine purpose
-
-iii. works comply with mission-centred design and development guidelines as agreed or promulgated by the Archdiocese from time to time
-
-iv. the proposal made under the application is financially sustainable and does not put the applicant in jeopardy
-
-v. all proposals have consideration of and respect for the wider Church context in the Archdiocese, particularly in the case of co-owned or co-occupied land, or land that is in immediate proximity to other ministries and agencies under the authority of the Archbishop
-
-c. to make recommendations to the Archbishop in respect of each application made to the ABPC, having regard in particular to the matters outlined in (b) above
-
-d. to advise the Archbishop on any other matters referred by him to the ABPC from time to time.
-
-**\[@@END OF FORMATTING]**
+</div>
 
 For the avoidance of doubt, for the purposes of clause (a)(i), any applications regarding works that concern building, restoration or renovation of churches or school chapels, or that otherwise involve the area of worship (nave and/or sanctuary), must not be considered by the ABPC unless they are accompanied by a recommendation from a competent body as authorised by the Archbishop, *that supports the grant by the Archbishop of a liturgical approval for such works.*
 
