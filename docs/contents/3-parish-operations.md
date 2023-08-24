@@ -57,7 +57,7 @@ The Archdiocese strongly recommends Xero as the preferred parish accounting soft
 
 For recording and reporting purposes, income and expenditure through *all parish operating and investment accounts* (excluding Presbytery Account income and expenditure) must be fully recorded and reported in the parish's accounting package. This is to ensure that all financial resources available to the parish are clearly identified and reported on a consolidated basis, and that proper governance is applied. To be clear, any activity conducted under the authority of the parish priest resulting in income being earned or expenditure incurred by the parish (excluding Presbytery Account transactions) is to be included in a consolidated financial report.
 
-The Archdiocese has published a **Standard chart of accounts** to be used by all parishes. 
+The Archdiocese has published a [Standard chart of accounts](https://camorgau.sharepoint.com/:x:/s/PAH-Finance/EeICyePo8gBOoMYasI8ujq8ByJ7x59Uw9JQnP7licepgfg?e=Veo0Jp) to be used by all parishes. 
 
 ### Recording GST
 
@@ -108,7 +108,7 @@ The following parish expenses are paid from the Church Account:
 * gas, electricity, telephone, internet and other utilities for both church and presbytery buildings
 * repairs and maintenance for both church and presbytery buildings
 * insurance premiums, municipal charges and water charges for both church and presbytery buildings and properties
-* motor vehicle expense reimbursements for priests up to the maximum amount specified (refer to **Active clergy remuneration schedule**)
+* motor vehicle expense reimbursements for priests up to the maximum amount specified (refer to [Active clergy remuneration schedule](https://camorgau.sharepoint.com/sites/PAH-Finance/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FPAH%2DFinance%2FShared%20Documents%2FPAH%5Factive%5Fclergy%5Fremuneration%5Fschedule%5F23%5F08%2Epdf&parent=%2Fsites%2FPAH%2DFinance%2FShared%20Documents&p=true&ga=1))
 * supply fees during a priest’s four weeks of annual holidays 
 * supply fees when a priest is on approved sick leave
 * supply fees when a priest on special duties living in the presbytery is on annual holidays and thus is unable to perform weekend supplies
@@ -157,8 +157,8 @@ The traditional contributions of Christmas and Easter dues and stole fees should
 * The following expenses are paid from the Presbytery Account:
 
   * normal household expenses including food, hospitality and housekeeper salary
-  * diocesan car capital allowance as per the **Active clergy remuneration schedule**
-  * regular supply fees to augment Sunday Masses provided by the parish priest as per the **Schedule of stipends—supply priests**.
+  * diocesan car capital allowance as per the [Active clergy remuneration schedule](https://camorgau.sharepoint.com/sites/PAH-Finance/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FPAH%2DFinance%2FShared%20Documents%2FPAH%5Factive%5Fclergy%5Fremuneration%5Fschedule%5F23%5F08%2Epdf&parent=%2Fsites%2FPAH%2DFinance%2FShared%20Documents&p=true&ga=1)
+  * regular supply fees to augment Sunday Masses provided by the parish priest as per the [Schedule of stipends—supply priests](https://camorgau.sharepoint.com/sites/PAH-Finance/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FPAH%2DFinance%2FShared%20Documents%2FPAH%5Fschedule%5Fof%5Fstipends%5F23%5F08%2Epdf&parent=%2Fsites%2FPAH%2DFinance%2FShared%20Documents&p=true&ga=1).
 * After all these payments have been allocated, the Archdiocesan minimum living allowance is paid from the Presbytery Account to the priest(s) of the parish, as either cash or exempt benefits.
 
 ### PAYG withholding tax
@@ -334,7 +334,7 @@ When a parish priest is transferred to a new parish, he may bring with him only 
 
 Arrangements for exemptions to this rule must be made, in writing, to the Executive Director Stewardship.
 
-Please refer to the **Parish asset inventory template** for guidance as to the information required on a parish goods inventory.
+Please refer to the [Parish asset inventory template](https://camorgau.sharepoint.com/:x:/s/PAH-Finance/EQ5URkNX4f5NkRojiUOxrLwBXe0xlJr7DN6o3hPYA0G9xg?e=4bmr9q) for guidance as to the information required on a parish goods inventory.
 
 ## Investments outside of CDF
 
@@ -383,14 +383,14 @@ The activities funded by the Quota Levy include:
 
 The Quota Levy is calculated as follows:
 
-| **Parish income as per parish annual financial statement YYYY** |
-| ------------- |
+| **Parish income as per parish annual financial statement YYYY**                                                                                                                                                                                                                                                |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | *Less:* <ul><li>Parish items deductible</li><li>Loan interest payments</li><li>Loan capital repayments</li><li>Capital income</li><li>Profit on sale of assets</li><li>Unrealised investment income</li><li>Other fundraising costs</li><li>Bequests</li><li>Internal grants</li><li>External grants</li></ul> |
-| **\= Net assessable income** |
-| **+** ABS Social Economic Index adjustment |
-| **\= Final income for quota yyyy** |
-| @DPDC Quota Levy percentage |
-| **\= Quota for YYYY + 1 year** |
+| **\= Net assessable income**                                                                                                                                                                                                                                                                                   |
+| **+** ABS Social Economic Index adjustment                                                                                                                                                                                                                                                                     |
+| **\= Final income for quota yyyy**                                                                                                                                                                                                                                                                             |
+| @DPDC Quota Levy percentage                                                                                                                                                                                                                                                                                    |
+| **\= Quota for YYYY + 1 year**                                                                                                                                                                                                                                                                                 |
 
 ### Parish Mission Development Fund Levy (formerly Land Acquisition Fund Levy)
 
@@ -405,13 +405,13 @@ The PMDF Levy is currently set at 15% and is raised as follows on:
 * property sales
 * long-term property leases (20 years and over) where a single up-front lease fee is received.
 
-| **Property sale price or long-term, up-front lease fee** |
-| ------------- |
-| *Less* GST (if applicable) |
+| **Property sale price or long-term, up-front lease fee**     |
+| ------------------------------------------------------------ |
+| *Less* GST (if applicable)                                   |
 | *Less* settlement fees/agent’s commission and marketing fees |
-| *Less* adjustments |
-| **Net proceeds subject to levy** |
-| PMDF Levy payable @15% = |
+| *Less* adjustments                                           |
+| **Net proceeds subject to levy**                             |
+| PMDF Levy payable @15% =                                     |
 
 The PMDF is administered by the DPDC.
 
@@ -528,7 +528,7 @@ All clergy, employees and volunteers over the age of 18 are required to maintain
 
 Archdiocesan parishes, agencies and entities must maintain a register of all WWCCs and ensure that WWCCs for clergy, employees and volunteers are appropriate to their situation (e.g. volunteer or paid employment), current and linked to the parish, agency or entity (i.e. the person has registered their involvement with the parish).
 
-Further information on the Safeguarding Unit WWCC register requirements can be found at [Safeguarding Unit WWCC register requirements](https://melbournecatholic.org/uploads/documents/Working-with-Children-Check.pdf).
+Further information on the Safeguarding Unit WWCC register requirements can be found at [Safeguarding Unit WWCC register requirements](https://camorgau.sharepoint.com/sites/PAH-Safeguarding/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FPAH%2DSafeguarding%2FShared%20Documents%2FPAH%5FWorking%5Fwith%5FChildren%5FCheck%5Frequirements%5F23%5F08%2Epdf&parent=%2Fsites%2FPAH%2DSafeguarding%2FShared%20Documents&p=true&ga=1).
 
 ## Parish sporting clubs and hosted associations
 
