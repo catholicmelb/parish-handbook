@@ -22,20 +22,21 @@ The ABPC has the following responsibilities in pursuit of its purposes:
 <div class="list">
 
 1. to review applications seeking approval from the Archbishop for:
- * works undertaken on parish land
- * the acquisition and disposal of land and buildings by a parish
- * leases of parish land with a duration longer than nine years
- * sub-leases and licences of parish land under a lease, where consent of the parish priest as owner is required
+
+* works undertaken on parish land
+* the acquisition and disposal of land and buildings by a parish
+* leases of parish land with a duration longer than nine years
+* sub-leases and licences of parish land under a lease, where consent of the parish priest as owner is required
 
 2. to consider the planning, building, finance and any related elements of each application to ensure that:
- * works are soundly planned and will meet the objectives of the local context
- * works are (where relevant) action-oriented to mission, providing a means and an instrument of evangelisation by the expression of their beauty, and act as a source of divine purpose
- * works comply with mission-centred design and development guidelines as agreed or promulgated by the Archdiocese from time to time
- * the proposal made under the application is financially sustainable and does not put the applicant in jeopardy
- * all proposals have consideration of and respect for the wider Church context in the Archdiocese, particularly in the case of co-owned or co-occupied land, or land that is in immediate proximity to other ministries and agencies under the authority of the Archbishop
+
+* works are soundly planned and will meet the objectives of the local context
+* works are (where relevant) action-oriented to mission, providing a means and an instrument of evangelisation by the expression of their beauty, and act as a source of divine purpose
+* works comply with mission-centred design and development guidelines as agreed or promulgated by the Archdiocese from time to time
+* the proposal made under the application is financially sustainable and does not put the applicant in jeopardy
+* all proposals have consideration of and respect for the wider Church context in the Archdiocese, particularly in the case of co-owned or co-occupied land, or land that is in immediate proximity to other ministries and agencies under the authority of the Archbishop
 
 3. to make recommendations to the Archbishop in respect of each application made to the ABPC, having regard in particular to the matters outlined in (b) above
-
 4. to advise the Archbishop on any other matters referred by him to the ABPC from time to time.
 
 </div>
@@ -126,7 +127,7 @@ In accordance with the Parish Finance Committee Statutes, each parish should con
 
 This will ensure that the assets of the parish are maintained in good working order. It will also assist with finance planning, reducing the risk of parishes incurring unbudgeted capital and or maintenance expenditure.
 
-The Archdiocese’s Property and Infrastructure Office has issued guidelines for **Maintenance of Church Property** as well as a **Capital and maintenance 5-year plan template** for reference.
+The Archdiocese’s Property and Infrastructure Office has issued guidelines for **Maintenance of Church Property** as well as a [Capital and maintenance 5-year plan template](https://camorgau.sharepoint.com/:x:/s/PAH-Finance/EVkyLOvXjVRNqgVBGXcqHHIBlJ00fjuZcjMEqyDWFp08Kg?e=A6cupZ) for reference.
 
 Parishes are encouraged to document an asset-inspection program that covers the following items:
 
