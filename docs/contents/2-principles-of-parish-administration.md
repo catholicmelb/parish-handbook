@@ -106,7 +106,7 @@ In all matters of legislative compliance that pertain to the parish, particularl
 
 This places special responsibility on the parish priest to seek advice wisely, as he bears legal responsibility for the temporal affairs of the parish. It also places a serious moral responsibility on the members of the PFC to provide wise and honest advice on such matters.
 
-Parish priests and PFC members have the benefit of a directors and officers liability insurance master policy arranged through the Archdiocese. See [‘Insurance’ in chapter 3](#Insurance-ch3) for more details on insurance cover.
+Parish priests and PFC members have the benefit of a directors and officers liability insurance master policy arranged through the Archdiocese. See **‘Insurance’ in chapter 3** for more details on insurance cover.
 
 ## Acts of parish administration
 
@@ -145,7 +145,7 @@ Acts of ordinary administration are transactions and expenditures considered nec
 
 The parish priest does not require authorisation, or the advice or consent of others (e.g. PFC or Archbishop) to carry out such acts. However, with some decisions, he may choose to seek advice from the PFC, and it is recommended that parish priests refer to experts in relevant fields where required.
 
-### Extraordinary administration
+### <span id="#Extraordinary-administration">Extraordinary administration</span>
 
 Acts that are not acts of ordinary administration are considered to be acts of extraordinary administration. These acts require the parish priest to consult with the PFC and seek the Archbishop's approval before proceeding.
 
@@ -178,7 +178,7 @@ A typical example would involve the sale of property and investment of the sale 
 
 This is not to say that permission to utilise the proceeds will be unreasonably withheld, providing it can be demonstrated that the capital is being converted into another asset.
 
-It is the Archdiocese’s policy that the proceeds from the sale of real property and long-term investment assets, not otherwise applied to purchase replacement assets, be lodged with the Catholic Development Fund (CDF). Investment of sale proceeds outside of the CDF require the permission of the Archbishop in accordance with the prescribed norms in the Parish Finance Committee Statutes. The purchase of replacement assets may constitute an act of extraordinary administration thus requiring its own approval as outlined in **‘Extraordinary administration’ above**.
+It is the Archdiocese’s policy that the proceeds from the sale of real property and long-term investment assets, not otherwise applied to purchase replacement assets, be lodged with the Catholic Development Fund (CDF). Investment of sale proceeds outside of the CDF require the permission of the Archbishop in accordance with the prescribed norms in the Parish Finance Committee Statutes. The purchase of replacement assets may constitute an act of extraordinary administration thus requiring its own approval as outlined in [‘Extraordinary administration’ above](#Extraordinary-administration).
 
 As regards donations, it is most important that the intentions of the donors of goods to the parish are respected when a decision is made to alienate such goods (c. 1300). It may be prudent to consult with the donor, or their representative(s) to ensure their original bequest/donation intentions are not contravened.
 
