@@ -187,7 +187,7 @@ Specific permissions are required whenever the value of goods being alienated ex
 * proposed acts of alienation by a parish in excess of the *minimum sum* require the Archbishop to obtain the consent of the *Diocesan Finance Council__,* the*College of Consultors* and other interested parties prior to giving permission for the alienation
 * where such proposed acts are in excess of the *maximum sum*, the Archbishop must also seek the permission of the *Holy See* (c. 1292, §2).
 
-The minimum and maximum sums are indexed at 30 June each year in accordance with the Consumer Price Index. For the current amounts, refer to **Amounts for alienation of temporal goods**.
+The minimum and maximum sums are indexed at 30 June each year in accordance with the Consumer Price Index. For the current amounts, refer to [Amounts for alienation of temporal goods](https://camorgau.sharepoint.com/sites/PAH-Finance/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FPAH%2DFinance%2FShared%20Documents%2FPAH%5Famounts%5Ffor%5Falienation%5Fof%5Ftemporal%5Fgoods%5F23%5F08%2Epdf&parent=%2Fsites%2FPAH%2DFinance%2FShared%20Documents&p=true&ga=1).
 
 ### Leases
 
@@ -293,7 +293,7 @@ The parish priest and the Archdiocese’s Director of Communications and Media a
 
 Media interest in events and people can be generated for all sorts of reasons. In the main, it is usually good, but there may be times when it is both challenging and concerning for the parish community.
 
-Refer to **Guidelines for issues management and media enquiries** for guidance to parish priests for the handling of challenging issues relating to events or people and subsequent media enquiries.
+Refer to [Guidelines for issues management and media enquiries](https://camorgau.sharepoint.com/sites/PAH-IT/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FPAH%2DIT%2FShared%20Documents%2FPAH%5Fguidelines%5Ffor%5Fissues%5Fmanagement%5Fand%5Fmedia%5Fenquiries%5F23%5F08%2Epdf&parent=%2Fsites%2FPAH%2DIT%2FShared%20Documents&p=true&ga=1) for guidance to parish priests for the handling of challenging issues relating to events or people and subsequent media enquiries.
 
 ## Parish episcopal visitations
 
