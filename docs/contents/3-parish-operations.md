@@ -417,7 +417,7 @@ The PMDF is administered by the DPDC.
 
 Applications for relief from the PMDF Levy may be made to the DPDC. Consideration will be given to reducing or waiving the levy where proceeds from property sales or long-term leases will be used exclusively for the purchase of new property or construction of new buildings on existing land.
 
-## Insurance
+## <span id="#Insurance-ch3">Insurance</span>
 
 ### Insurer
 
