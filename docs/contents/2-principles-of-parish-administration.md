@@ -106,7 +106,7 @@ In all matters of legislative compliance that pertain to the parish, particularl
 
 This places special responsibility on the parish priest to seek advice wisely, as he bears legal responsibility for the temporal affairs of the parish. It also places a serious moral responsibility on the members of the PFC to provide wise and honest advice on such matters.
 
-Parish priests and PFC members have the benefit of a directors and officers liability insurance master policy arranged through the Archdiocese. See [‘Insurance’ in chapter 3](https://parish-handbook.netlify.app/contents/3-parish-operations.html/#insurance) for more details on insurance cover.
+Parish priests and PFC members have the benefit of a directors and officers liability insurance master policy arranged through the Archdiocese. See [‘Insurance’ in chapter 3](https://parish-handbook.netlify.app/contents/3-parish-operations.html#insurance) for more details on insurance cover.
 
 ## Acts of parish administration
 
