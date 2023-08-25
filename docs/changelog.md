@@ -1,5 +1,12 @@
 # Changelog
 
+## 25 August
+- Packages updated
+- Search added
+
+## 24 August
+- Second navigation level added to on this page component
+
 ## 11 May 2023
 - Add File upload component to editor
 - Add Tailwind
