@@ -4,7 +4,6 @@ date: 2023-03-02T09:10:19.017Z
 order: "1"
 description: Parish Handbook
 ---
-# Parish Handbook
 
 <script setup>
   if (window.netlifyIdentity) {
