@@ -1,8 +1,8 @@
 ---
-title: Parish Handbook
+title: Introduction
 date: 2023-03-02T09:10:19.017Z
 order: "1"
-description: Parish Handbook
+description: Introduction
 ---
 Lucy, intro content can now added here through editor.
 
