@@ -1,8 +1,8 @@
 ---
-title: Formatting examples
+title: Handbook formatting
 date: 2023-05-07T23:34:04.218Z
-order: "100"
-description: formatting-examples
+order: "1"
+description:
 ---
 # Heading 1 (e.g. 3 Parish operations)
 
