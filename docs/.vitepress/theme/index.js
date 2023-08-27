@@ -2,6 +2,7 @@
 import Theme from 'vitepress/theme'
 import { h, watch } from 'vue'
 import './fonts.css'
+import './vars.css'
 import './custom.css'
 
 import NYSLogo from './cam-logo.vue';

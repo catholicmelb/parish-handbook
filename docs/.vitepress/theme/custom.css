@@ -2,6 +2,9 @@
     --vp-c-brand: #3b82f6;
     --vp-c-brand-light: #3b82f6;
     --vp-c-text-1:#1f2937;
+    --vp-button-brand-bg: #000000;
+    --vp-button-brand-hover-bg: #383838;
+    --vp-button-brand-active-bg: #383838;
 }
 
 .dark {
@@ -9,12 +12,29 @@
     --vp-c-brand: var(--vp-c-text-dark-1);
 }
 
-h1, h2, h3, h4, h5, h6 {
-    @apply font-heading !font-medium;
+.VPHero .name,
+.VPHero .text {
+    @apply text-8xl leading-none tracking-tighter;
 }
 
-.title {
-    @apply font-heading !font-medium !text-lg;
+.VPFeature {
+    @apply border border-solid border-neutral-100 !important;
+}
+
+.VPFeature {
+    @apply bg-white !important;
+}
+
+.VPFeature .icon {
+    @apply border border-neutral-200 border-solid bg-neutral-100 !important;
+}
+
+.VPButton.medium {
+    @apply rounded-lg !important;
+}
+
+.content-container h1, .content-container h2, .content-container h3, .content-container h4, .content-container h5, .content-container h6 {
+    @apply font-heading !font-medium;
 }
 
 .vp-doc table {
