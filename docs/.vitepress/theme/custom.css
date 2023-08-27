@@ -38,7 +38,7 @@
 
 .VPHero .name,
 .VPHero .text {
-    @apply text-8xl leading-none tracking-tighter;
+    @apply text-4xl sm:text-5xl md:text-7xl xl:text-8xl leading-none tracking-tighter;
 }
 
 .VPFeature {
