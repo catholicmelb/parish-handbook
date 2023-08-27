@@ -39,6 +39,7 @@ export default defineConfig({
     },
     nav: [
       { text: 'Home', link: '/' },
+      { text: 'Contact', link: '/contact' },
       { text: 'Changelog', link: '/changelog' },
     ],
     outline: [2, 3],

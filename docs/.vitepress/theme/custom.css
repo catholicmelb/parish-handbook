@@ -55,6 +55,10 @@
     @apply border border-neutral-200 border-solid bg-neutral-100 !important;
 }
 
+.VPFeature .icon svg {
+    @apply p-2;
+}
+
 .dark .VPFeature .icon {
     @apply border border-neutral-700 border-solid bg-neutral-800 !important;
 }
