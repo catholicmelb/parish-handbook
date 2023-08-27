@@ -19,8 +19,8 @@ export default defineConfig({
     editLinkText: 'Edit this page on GitHub',
     lastUpdated: 'Last Updated',
     footer: {
-      message: 'Handbook Implentation by <a href="https://leightonhughes.co" target="_blank">Leighton Hughes</a>',
-      copyright: 'Copyright © 2023-present Melbourne Catholic'
+      message: 'Copyright © 2023-present Melbourne Catholic',
+      copyright: 'Online Implentation by <a href="https://leightonhughes.co" target="_blank">Leighton Hughes</a>'
     },
     search: {
       provider: 'local',
