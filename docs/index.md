@@ -1,9 +1,9 @@
 ---
 layout: home
-title: Introduction
+title: Home
 date: 2023-03-02T09:10:19.017Z
 order: "1"
-description: Introduction
+description: The Parish Administration Handbook
 hero:
   name: The Parish
   text: Handbook
