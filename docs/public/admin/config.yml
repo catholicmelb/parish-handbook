@@ -50,10 +50,10 @@ collections:
               - { label: "Theme", name: "theme", widget: "string" }
               - { label: "Text", name: "text", widget: "string" }
               - { label: "Link", name: "link", widget: "string" }
-          - label: "Features"
-            name: "features"
-            widget: "list"
-            fields:
-              - { label: "Icon", name: "icon", widget: "string" }
-              - { label: "Title", name: "title", widget: "string" }
-              - { label: "Details", name: "details", widget: "string" }
+      - label: "Features"
+        name: "features"
+        widget: "list"
+        fields:
+          - { label: "Icon", name: "icon", widget: "string" }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Details", name: "details", widget: "string" }
