@@ -5,8 +5,10 @@
     --vp-button-brand-bg: #000000;
     --vp-button-brand-hover-bg: #383838;
     --vp-button-brand-active-bg: #383838;
+    --vp-home-hero-name-color: transparent;
     --vp-home-hero-name-background: -webkit-linear-gradient(220deg, #00dfd8, #007cf0) !important;
     --vp-home-hero-image-background-image: linear-gradient(220deg, #00dfd8,  #007cf0) !important;
+    --vp-home-hero-image-filter: blur(40px);
 }
 
 .dark {
@@ -20,6 +22,19 @@
     --vp-button-brand-active-text: #000000;
     --vp-c-brand: #43A4FF;
 }
+
+@media (min-width: 640px) {
+  :root {
+    --vp-home-hero-image-filter: blur(56px);
+  }
+}
+
+@media (min-width: 960px) {
+  :root {
+    --vp-home-hero-image-filter: blur(72px);
+  }
+}
+
 
 .VPHero .name,
 .VPHero .text {
