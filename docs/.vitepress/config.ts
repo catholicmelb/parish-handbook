@@ -29,20 +29,10 @@ export default defineConfig({
       { icon: 'instagram', link: 'https://www.instagram.com/melbournecatholic/' },
       { icon: 'youtube', link: 'https://www.youtube.com/@archmelb/streams' },
       { icon: 'linkedin', link: 'https://www.linkedin.com/company/catholic-archdiocese-of-melbourne/' },
-
-      // You can also add custom icons by passing SVG as string:
-      {
-        icon: {
-          svg: '<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Dribbble</title><path d="M12...6.38z"/></svg>'
-        },
-        link: 'https://github.com/vuejs/vitepress',
-        // You can include a custom label for accessibility too (optional but recommended):
-        ariaLabel: 'cool link'
-      }
     ],
     footer: {
       message: 'Copyright © 2023-present Melbourne Catholic',
-      copyright: 'Online Implentation by <a href="https://leightonhughes.co" target="_blank">Leighton Hughes</a>'
+      copyright: 'Online Implementation by <a href="https://leightonhughes.co" target="_blank">Leighton Hughes</a>'
     },
     search: {
       provider: 'local',
