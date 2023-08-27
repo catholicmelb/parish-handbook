@@ -5,7 +5,8 @@ import './fonts.css'
 import './vars.css'
 import './custom.css'
 
-import NYSLogo from './cam-logo.vue';
+import Logo from './cam-logo.vue';
+import Footer from './cam-footer.vue';
 
 // Could also come from .env
 const GA_ID = 'UA-69117511-1';
@@ -14,7 +15,8 @@ export default {
   ...Theme,
   Layout() {
     return h(Theme.Layout, null, {
-      'aside-bottom': () => h(NYSLogo)
+      'aside-bottom': () => h(Logo),
+      'doc-after': () => h(Footer),
     }
     )
   },
