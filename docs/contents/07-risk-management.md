@@ -1,5 +1,5 @@
 ---
-title: 7. Information technology and parishes
+title: 7. Information technology
 date: 2023-03-02T05:06:06.504Z
 order: "7"
 description: "7"
