@@ -107,7 +107,7 @@ export default defineConfig({
         items: SidebarBuilder.get.filesAndOrder('./docs/contents')
       },
       {
-        items: SidebarBuilder.get.filesAndOrder('./docs', ['index'])
+        items: SidebarBuilder.get.filesAndOrder('./docs/pages')
       },
     ]
   },
