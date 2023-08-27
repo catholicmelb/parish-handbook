@@ -39,9 +39,6 @@ features:
     title: Support and help
     details: If you have any questions or need help, please contact the Archdiocese
       [Communications Office](mailto:communications@cam.org.au).
-  - icon: 🙋🏻‍♂️
-    title: Melbourne Catholic
-    details: Up to date Archdiocesan news and resources.
 ---
 
 <script setup>
