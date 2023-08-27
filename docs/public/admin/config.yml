@@ -47,10 +47,10 @@ collections:
             name: "actions"
             widget: "list"
             fields:
-              - { label: "Brand", name: "text", widget: "string" }
-              - { label: "Alt", name: "text", widget: "string" }
+              - { label: "Brand", name: "brand", widget: "string" }
+              - { label: "Alt", name: "alt", widget: "string" }
           - label: "Features"
             name: "features"
             widget: "list"
             fields:
-              - { label: "Icon", icon: "text", widget: "string" }
+              - { label: "Icon", name: "icon", widget: "string" }
