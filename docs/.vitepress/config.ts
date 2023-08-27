@@ -42,49 +42,6 @@ export default defineConfig({
       { text: 'Contact', link: '/contact' },
     ],
     outline: [2, 3],
-    // sidebar: [
-    //   {
-    //     text: 'Guide',
-    //     collapsed: false,
-    //     items: [
-    //       { text: 'Introduction', link: '/' },
-    //       { text: 'Getting Started', link: '/' },
-    //     ]
-    //   }
-    // ]
-    // sidebar: generateSidebar({
-    //   documentRootPath: 'docs',
-    //   capitalizeFirst: true,
-    //   // scanStartPath: null,
-    //   // resolvePath: '/docs/contents/',
-    //   rootGroupText: 'Contents',
-    //   // rootGroupLink: 'https://github.com/jooy2',
-    //   // rootGroupCollapsed: false,
-    //   // useTitleFromFileHeading: true,
-    //   useTitleFromFrontmatter: true,
-    //   // hyphenToSpace: true,
-    //   // underscoreToSpace: true,
-    //   collapsed: false,
-    //   // collapseDepth: 0,
-    //   // sortMenusByName: true,
-    //   // sortMenusOrderByDescending: false,
-    //   // manualSortFileNameByPriority: ['first.md', 'second', 'third.md'],
-    //   excludeFiles: ['changelog.md'],
-    //   // excludeFolders: ['vi', 'fr'],
-    //   // includeDotFiles: false,
-    //   // includeRootIndexFile: false,
-    //   // includeFolderIndexFile: false,
-    //   // includeEmptyFolder: false,
-    //   // convertSameNameSubFileToGroupIndexPage: false,
-    //   // useIndexFileForFolderMenuInfo: false,
-    //   // folderLinkNotIncludesFileName: false
-    // })
-    // sidebar: getSidebar({
-    //   contentRoot: '/',
-    //   contentDirs: ['docs/contents'],
-    //   collapsible: true,
-    //   collapsed: false,
-    // })
     sidebar: [
       {
         text: 'Introduction',
