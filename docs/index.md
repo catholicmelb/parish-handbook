@@ -1,9 +1,9 @@
 ---
 layout: home
-title: Introduction
+title: Home
 date: 2023-03-02T09:10:19.017Z
 order: "1"
-description: Introduction
+description: The Parish Administration Handbook
 hero:
   name: The Parish
   text: Handbook
@@ -27,10 +27,6 @@ features:
     title: A ‘living’ document
     details: There will be amendments, additions and changes as the occasion demands
       and will be version controlled.
-  - icon: 🙋🏻‍♂️
-    title: Support and help
-    details: If you have any questions or need help, please contact the Archdiocese
-      <a href="mailto:communications@cam.org.au">Communications Office.</a>
   - icon: 🙋🏻‍♂️
     title: Support and help
     details: If you have any questions or need help, please contact the Archdiocese
