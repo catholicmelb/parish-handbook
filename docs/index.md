@@ -34,10 +34,6 @@ features:
   - icon: 🙋🏻‍♂️
     title: Support and help
     details: If you have any questions or need help, please contact the Archdiocese
-      <a href="mailto:communications@cam.org.au">Communications Office.</a>
-  - icon: 🙋🏻‍♂️
-    title: Support and help
-    details: If you have any questions or need help, please contact the Archdiocese
       [Communications Office](mailto:communications@cam.org.au).
 ---
 
