@@ -134,7 +134,7 @@ Parishioners should be informed and educated that the ‘first collection’, th
 
 See [‘Religious order–administered parishes’ below](#religious-order-administered-parishes) for further details on what happens when the pastoral care of a parish is assigned to a religious order and one of their clergy is appointed parish priest.
 
-### <span id="#income-from-presbytery-collections-first-collection">Income from presbytery collections (first collections)</span>
+### <span id="income-from-presbytery-collections-first-collection">Income from presbytery collections (first collections)</span>
 
 The following receipts must be paid into the Presbytery Account:
 
@@ -145,7 +145,7 @@ The following receipts must be paid into the Presbytery Account:
 
 The traditional contributions of Christmas and Easter dues and stole fees should be maintained. The amount received from dues, stole fees and funeral offerings is essential for the adequate remuneration of all priests throughout the Archdiocese. Most importantly, parishes that have a history of claiming on the Priests’ Remuneration Fund should not abolish dues or stole fees and funeral offerings.
 
-### <span id="#presbytery-expenditure">Presbytery expenditure</span>
+### <span id="presbytery-expenditure">Presbytery expenditure</span>
 
 #### General payments from presbytery account
 
@@ -161,7 +161,7 @@ The traditional contributions of Christmas and Easter dues and stole fees should
   * regular supply fees to augment Sunday Masses provided by the parish priest as per the [Schedule of stipends—supply priests](https://camorgau.sharepoint.com/sites/PAH-Finance/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FPAH%2DFinance%2FShared%20Documents%2FPAH%5Fschedule%5Fof%5Fstipends%5F23%5F08%2Epdf&parent=%2Fsites%2FPAH%2DFinance%2FShared%20Documents&p=true&ga=1).
 * After all these payments have been allocated, the Archdiocesan minimum living allowance is paid from the Presbytery Account to the priest(s) of the parish, as either cash or exempt benefits.
 
-### <span id="#PAYG-withholding-tax">PAYG withholding tax</span>
+### <span id="PAYG-withholding-tax">PAYG withholding tax</span>
 
 Priests are to provide the parish with a tax file number (TFN) declaration, which will determine the rate of tax (if any) to be applied to personal stipend payments. If applicable, priests must apply to the ATO for a PAYG withholding variation if they wish for a lower rate of withholding tax to apply.
 
@@ -169,7 +169,7 @@ Where a TFN is not provided to the parish, PAYG withholding tax is required to b
 
 In general, payments to parish and assistant priests from the Presbytery Account should be made quarterly, no later than 14 days after the end of the quarter. Payments are required to be reported to the ATO under Single Touch Payroll requirements. PAYG withholding tax may apply. It is recommended that clergy use the Archdiocesan Parish Payroll Service for stipend-processing requirements to ensure tax and reporting obligations are met.
 
-### <span id="#exempt-fringe-benefits-protocol">Exempt fringe benefits protocol</span>
+### <span id="exempt-fringe-benefits-protocol">Exempt fringe benefits protocol</span>
 
 The only component of remuneration that is considered as assessable income for taxation purposes is the amount of stipend paid *directly* to a priest.
 
@@ -179,7 +179,7 @@ Subject to the exceptions noted for entertainment and other personal-related exp
 
 Priests and parishes are reminded of the **[‘Exempt benefits protocol for active priests’](#exempt-benefits-protocol-active-priests)**, originally published in May 2002 and updated **below**:
 
-### <span id="#exempt-benefits-protocol-active-priests">Exempt benefits protocol for active priests</span>
+### <span id="exempt-benefits-protocol-active-priests">Exempt benefits protocol for active priests</span>
 
 #### General background
 
@@ -417,7 +417,7 @@ The PMDF is administered by the DPDC.
 
 Applications for relief from the PMDF Levy may be made to the DPDC. Consideration will be given to reducing or waiving the levy where proceeds from property sales or long-term leases will be used exclusively for the purchase of new property or construction of new buildings on existing land.
 
-## <span id="#insurance">Insurance</span>
+## <span id="insurance">Insurance</span>
 
 ### Insurer
 
