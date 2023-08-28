@@ -226,7 +226,7 @@ Refer to **‘Priests’ Remuneration Fund’ in chapter 9** for details of t
 
 Where the Presbytery Account is not able to provide the minimum living allowance component, the priest makes a claim on the PRF for subsidised remuneration. The amount received from the PRF should be paid to, or set aside for, the parish priest or assistant priest as soon as possible after it is received in the Presbytery Account.
 
-## Religious order–administered parishes
+## <span id="#religious-administered-parishes">Religious order–administered parishes</span>
 
 The provisions contained in this *Handbook* relating to PFC and parish priest responsibilities apply equally to parishes where a member of a religious order is appointed parish priest. There are, however, a few differences to note in relation to the first or ‘presbytery’ collection:
 
