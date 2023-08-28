@@ -71,7 +71,7 @@ The Foundation runs an annual appeal on the first Sunday of September, Father’
 
 For further information regarding the Foundation, refer to the [Priests Retirement Foundation web page ](https://melbournecatholic.org/foundation)on the Melbourne Catholic website.
 
-## Priests’ Remuneration Fund
+## <span id="#priests-remuneration-fund">Priests’ Remuneration Fund</span>
 
 The Priests’ Remuneration Fund (PRF) operates an ‘equalisation’ fund to ensure all priests in the Archdiocese of Melbourne receive the designated minimum level of support.
 
