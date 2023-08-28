@@ -103,9 +103,9 @@ These obligations rest with the parish as the beneficial owner of parish buildin
 
 ### MACS Ltd responsibility for buildings covered by RULBA
 
-Where parish buildings are subject to a *Right to Use Land and Buildings Agreement*(RULBA) between the Archdiocese, the parish and Melbourne Archdiocese Catholic Schools Limited (MACS), MACS is responsible for the compliance with the ESM laws.
+Where parish buildings are subject to a *Right to Use Land and Buildings Agreement* (RULBA) between the Archdiocese, the parish and Melbourne Archdiocese Catholic Schools Limited (MACS), MACS is responsible for the compliance with the ESM laws.
 
-In some RULBA arrangements, there may be areas that are designed as ‘common areas**’.** The RUBLA will confirm whether common areas are the responsibility of MACS or the parish. 
+In some RULBA arrangements, there may be areas that are designed as ‘common areas’. The RUBLA will confirm whether common areas are the responsibility of MACS or the parish. 
 
 MACS is responsible for ESMs in school-facility common areas, even when these areas are used by the parish or third parties from time to time.
 
