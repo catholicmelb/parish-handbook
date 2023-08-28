@@ -145,7 +145,7 @@ The following receipts must be paid into the Presbytery Account:
 
 The traditional contributions of Christmas and Easter dues and stole fees should be maintained. The amount received from dues, stole fees and funeral offerings is essential for the adequate remuneration of all priests throughout the Archdiocese. Most importantly, parishes that have a history of claiming on the Priests’ Remuneration Fund should not abolish dues or stole fees and funeral offerings.
 
-### Presbytery expenditure
+### <span id="#presbytery-expenditure">Presbytery expenditure</span>
 
 #### General payments from presbytery account
 
@@ -230,7 +230,7 @@ Where the Presbytery Account is not able to provide the minimum living allowance
 
 The provisions contained in this *Handbook* relating to PFC and parish priest responsibilities apply equally to parishes where a member of a religious order is appointed parish priest. There are, however, a few differences to note in relation to the first or ‘presbytery’ collection:
 
-The presbytery collection should be deposited to the parish Presbytery Account in the normal manner and funds then transferred to an account in the name of the religious order, which is then subject to the order’s own administrative arrangements. It is expected that monies will still be applied to meet expenses normally covered by the Presbytery Account as noted **above under ‘Presbytery expenditure’**.
+The presbytery collection should be deposited to the parish Presbytery Account in the normal manner and funds then transferred to an account in the name of the religious order, which is then subject to the order’s own administrative arrangements. It is expected that monies will still be applied to meet expenses normally covered by the Presbytery Account as noted **[above under ‘Presbytery expenditure’](#presbytery-expenditure)**.
 
 Religious order–administered parishes are required to pay the *cathedraticum* from the presbytery collection but do not pay levies for the Priests’ Remuneration Fund or the Priests Retirement Foundation. The order, not the PRF or Foundation, is responsible for supporting order priests, both those clergy with active appointments and those without.
 
