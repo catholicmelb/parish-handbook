@@ -11,9 +11,6 @@ hero:
     Corinthians 14:40)
   actions:
     - theme: brand
-      text: What is the Handbook?
-      link: /introduction/what-is-the-handbook
-    - theme: alt
       text: Getting Started
       link: /introduction/getting-started
   image:
