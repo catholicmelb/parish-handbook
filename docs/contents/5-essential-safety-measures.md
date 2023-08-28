@@ -132,4 +132,4 @@ While maintenance determinations and AESMRs are to be carried out by qualified p
 * PCBs have been known to leak from the capacitor into the light or fan fitting. It is therefore important that samples of the light fittings and fans are inspected by electrical contractors, and that the contractors are made aware of the potential exposure when performing such maintenance.
 * Whenever upgrade or replacement of the lights is being considered, the appropriate disposal of any PCB material must be in accordance with approved procedures. Parishes should ensure that this work is overseen and carried out by competent, experienced professionals.
 
-A **series of checklist templates** are provided to assist parishes in maintaining registers of maintenance inspection.
+A [series of checklist templates](https://camorgau.sharepoint.com/:w:/s/PAH-Property/Ed20-6F5bFlHm-M1Aff0wM0B0oPJjhp0XHVJqWQJuaM5WQ?e=TlsMy5) are provided to assist parishes in maintaining registers of maintenance inspection.
