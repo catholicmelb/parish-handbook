@@ -99,7 +99,7 @@ All volunteers are required to complete pre-employment checks including:
 
 In addition to this, volunteers are required to successfully complete the Catholic Archdiocese of Melbourne’s *[Safeguarding Essentials](https://safeguarding.melbournecatholic.org/s/login/?ec=302&startURL=%2Fs%2F)* online training module every three years.
 
-The process of selecting volunteers is essentially the same as recruiting employees, in that there should be clarity in identifying the task to be performed, interviewing potential volunteers, conducting reference and police checks, and providing a letter of offer to perform work as a volunteer. A **Sample engagement letter to volunteers** is provided.
+The process of selecting volunteers is essentially the same as recruiting employees, in that there should be clarity in identifying the task to be performed, interviewing potential volunteers, conducting reference and police checks, and providing a letter of offer to perform work as a volunteer. A [sample engagement letter to volunteers](https://camorgau.sharepoint.com/:w:/s/PAH-HR/EbW8cVjMiTFCsutbG69ZBzQBzgq-5i0gj-PmTOKbS_b13A?e=aNGzVK) is provided.
 
 Safeguarding standards relating to child safety and WWC requirements apply as much to volunteers as they do to clergy and employees.
 
