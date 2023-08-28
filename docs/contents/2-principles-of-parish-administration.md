@@ -244,7 +244,7 @@ The Archdiocesan Parish Payroll Service and Human Resources Office can assist pa
 
 ### Priestly vocation not an employment relationship
 
-Priests are not employees of the parish or of the Archdiocese. They exercise their vocation in relationship with the Archbishop ‘voluntarily … based on their shared Catholic faith and acceptance of the authority of \[the Catholic Church’s] institutions’.[(2)](#footnote-2) Refer to **[‘PAYG withholding tax’ in chapter 3](https://parish-handbook.netlify.app/contents/3-parish-operations.html#payg-withholding-tax)** for separate information on the application of the PAYG withholding tax requirements to priests’ personal stipends.
+Priests are not employees of the parish or of the Archdiocese. They exercise their vocation in relationship with the Archbishop ‘voluntarily … based on their shared Catholic faith and acceptance of the authority of \[the Catholic Church’s] institutions’.[(2)](#footnote-2) Refer to **[‘PAYG withholding tax’ in chapter 3](https://parish-handbook.netlify.app/contents/3-parish-operations.html#payg-withholding-tax#PAYG-withholding-tax)** for separate information on the application of the PAYG withholding tax requirements to priests’ personal stipends.
 
 ### Occupational health and safety
 
