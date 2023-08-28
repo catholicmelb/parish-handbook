@@ -250,7 +250,7 @@ Priests are not employees of the parish or of the Archdiocese. They exercise the
 
 Victoria’s *Building Regulations 2018* require building owners to maintain ‘essential safety measures’ so that they operate satisfactorily. There are different obligations under the Regulations, which depend on when the building was built or when building work occurred on the building.
 
-Refer to **chapter 5, ‘Essential safety measures’** for further details.
+Refer to **[chapter 5, ‘Essential safety measures’](https://parish-handbook.netlify.app/contents/5-essential-safety-measures.html#essential-safety-measures)** for further details.
 
 ### Safeguarding children and young people
 
