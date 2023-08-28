@@ -285,7 +285,7 @@ In fulfilling this responsibility, the *[Safeguarding Children and Young People 
 
 Clergy, employees and volunteers are required to abide by the requirements of the Archdiocese’s Safeguarding and Wellbeing Policy for Children and Young People.
 
-Refer to **‘Safeguarding protections’ in chapter 8** for further details of parish obligations.
+Refer to **[‘Safeguarding protections’ in chapter 8](https://parish-handbook.netlify.app/contents/8-risk-management.html#safeguarding-protections)** for further details of parish obligations.
 
 ## Communications and media
 
