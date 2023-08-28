@@ -222,7 +222,7 @@ For married clergy, these benefits can be provided to the spouse and children. T
 
 ### Priests’ Remuneration Fund support for active clergy
 
-Refer to **‘Priests’ Remuneration Fund’ in chapter 9** for details of the PRF. This fund exists to ensure that priests receive equitable and sufficient income and the necessities of life. 
+Refer to **[‘Priests’ Remuneration Fund’ in chapter 9](https://parish-handbook.netlify.app/contents/9-support-for-parishes-and-priests.html#priests-remuneration-fund)** for details of the PRF. This fund exists to ensure that priests receive equitable and sufficient income and the necessities of life. 
 
 Where the Presbytery Account is not able to provide the minimum living allowance component, the priest makes a claim on the PRF for subsidised remuneration. The amount received from the PRF should be paid to, or set aside for, the parish priest or assistant priest as soon as possible after it is received in the Presbytery Account.
 
