@@ -161,7 +161,7 @@ The traditional contributions of Christmas and Easter dues and stole fees should
   * regular supply fees to augment Sunday Masses provided by the parish priest as per the [Schedule of stipends—supply priests](https://camorgau.sharepoint.com/sites/PAH-Finance/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FPAH%2DFinance%2FShared%20Documents%2FPAH%5Fschedule%5Fof%5Fstipends%5F23%5F08%2Epdf&parent=%2Fsites%2FPAH%2DFinance%2FShared%20Documents&p=true&ga=1).
 * After all these payments have been allocated, the Archdiocesan minimum living allowance is paid from the Presbytery Account to the priest(s) of the parish, as either cash or exempt benefits.
 
-### PAYG withholding tax
+### <span id="#PAYG-withholding-tax">PAYG withholding tax</span>
 
 Priests are to provide the parish with a tax file number (TFN) declaration, which will determine the rate of tax (if any) to be applied to personal stipend payments. If applicable, priests must apply to the ATO for a PAYG withholding variation if they wish for a lower rate of withholding tax to apply.
 
