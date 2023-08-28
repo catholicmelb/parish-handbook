@@ -28,6 +28,8 @@ Contact the Parish Support Office or the Finance Office at the Archdiocese on (0
 
 ## Archdiocesan Human Resources Office
 
+## <span id="#archdiocesan-human-resources-office">Archdiocesan Human Resources Office</span>
+
 The Human Resources (HR) Office at the Catholic Archdiocese of Melbourne works closely with organisational leaders to ensure that the Archdiocese's most important asset—its people—are being nurtured and supported through the creation and management of programs, policies and practices, and by fostering a positive work environment through productive employee–employer relations.
 
 Services available to parishes include:

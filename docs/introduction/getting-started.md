@@ -1,16 +1,14 @@
 ---
-title: Getting Started
+title: Getting started
 date: 2023-03-02T05:24:47.847Z
 order: "2"
-description: ""
+description: Getting started
 ---
-# Getting Started
+# Getting started
 
-## How to use this Handbook
+## How to use this *Handbook*
 
-## Using the handbook search
-
-1. How to use the search
+@@ Loom video on how to search and use the *Handbook*
 
 ## Seeing what has changed
 
