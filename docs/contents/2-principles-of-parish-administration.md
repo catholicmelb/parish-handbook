@@ -44,7 +44,7 @@ In summary, under the *Code of Canon Law*, the parish priest’s responsibiliti
 * draw up an account of their administration at the end of each year (c. 1284, §2, 8°)
 * submit each year to the Archbishop an account of their administration (c. 1287, §1)
 * securely preserve and archive all records relating to parish assets (c. 1284, §2, 9°). This includes preparing and signing a clear inventory of parish goods (whether immovable property or movable objects, whether precious, of some cultural value or other goods) (c. 1283, 2° and 3°)
-* ,draw up each year a budget of income and expenditure (strongly recommended) (c. 1284, §3)
+* draw up each year a budget of income and expenditure (strongly recommended) (c. 1284, §3)
 * observe civil laws in relation to contracts of employment (c. 1286, 1°)
 * pay employees a just and honest wage (c. 1286, 2°)
 * render accounts to the faithful concerning the goods that the faithful have donated (c. 1287, §2)
@@ -85,10 +85,10 @@ The parish finance committee's responsibilities are to:
 * assist the parish priest in the preparation of long-term cash-flow estimates to provide for future capital works and major maintenance requirements
 * assist the parish priest in the preparation of an annual financial report to the Archbishop, or provide the Archdiocesan Finance Office with access to the parish's accounting application files by 31 March following the end of each calendar year
 * call the parish priest’s attention to any matters that seem to need more immediate action, such as:
-* consistent overspending in a particular area of the budget
-* any concerns for the long-term financial welfare of the parish if it incurs an annual deficit, or if maintenance of adequate surplus funds appears to be in question.
+   * consistent overspending in a particular area of the budget
+  * any concerns for the long-term financial welfare of the parish if it incurs an annual deficit, or if maintenance of adequate surplus funds appears to be in question.
 
-Where a parish has incurred an operating loss in each of the past three financial years, amounting to the lesser of $100,000 or 50% of stable patrimony at the beginning of the first year, the PFC must develop a plan to restore the parish to a net-surplus operating position. A copy of the plan is to be provided to the Archbishop
+  Where a parish has incurred an operating loss in each of the past three financial years, amounting to the lesser of $100,000 or 50% of stable patrimony at the beginning of the first year, the PFC must develop a plan to restore the parish to a net-surplus operating position. A copy of the plan is to be provided to the Archbishop
 
 * assist the parish priest in ensuring that all regulatory requirements are complied with
 * assist the parish priest in identifying and managing areas of risk to the financial viability of the parish
@@ -153,7 +153,7 @@ All correspondence with the Archbishop or the Executive Director Stewardship’s
 
 The Archbishop has determined, in accordance with canon 1281, §2, that the acts listed below are acts of extraordinary administration:
 
-* any capital works and major refurbishment on a single project with expenditure exceeding $100,000 for parish projects and primary school projects and $300,000 for secondary colleges. These must be submitted to the Archbishop for his approval through the Archdiocesan Building and Property Commission*. (Note that Melbourne Archdiocese Catholic Schools Ltd will submit the requests for approval of primary school and secondary college projects)*
+* any capital works and major refurbishment on a single project with expenditure exceeding $100,000 for parish projects and primary school projects and $300,000 for secondary colleges. These must be submitted to the Archbishop for his approval through the Archdiocesan Building and Property Commission. (Note that Melbourne Archdiocese Catholic Schools Ltd will submit the requests for approval of primary school and secondary college projects)
 * sale and purchase of land
 * other acts of alienation of a parish’s stable patrimony (property and fixed assets) where the *value* (not the sale price) is above the minimum amount published in the norms issued by the Australian Catholic Bishops Conference. As at June 2023, acts of alienation in excess of $35,966 require the approval of the Archbishop
 * leasing of property and buildings for terms greater than three years
@@ -166,9 +166,9 @@ The Archbishop has determined, in accordance with canon 1281, §2, that the acts
 
 For the above acts, the parish priest must first *consult* the members of the PFC. The parish priest must ensure the members are fully informed before convening the PFC.
 
-Following consultation with the PFC, the parish priest must seek *written permission from the Archbishop for such acts of Extraordinary Administration__.* The opinion of the PFC must be relayed to the Archbishop in the request for permission.
+Following consultation with the PFC, the parish priest must seek *written permission from the Archbishop for such acts of Extraordinary Administration.* The opinion of the PFC must be relayed to the Archbishop in the request for permission.
 
-Before the Archbishop provides written approval, he may be required to seek the advice of the *College of Consultors* and/or the *Diocesan Finance Council__.*
+Before the Archbishop provides written approval, he may be required to seek the advice of the *College of Consultors* and/or the *Diocesan Finance Council.*
 
 ### Alienation (sale or transfer of parish property/goods)
 
