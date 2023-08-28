@@ -169,7 +169,7 @@ Where a TFN is not provided to the parish, PAYG withholding tax is required to b
 
 In general, payments to parish and assistant priests from the Presbytery Account should be made quarterly, no later than 14 days after the end of the quarter. Payments are required to be reported to the ATO under Single Touch Payroll requirements. PAYG withholding tax may apply. It is recommended that clergy use the Archdiocesan Parish Payroll Service for stipend-processing requirements to ensure tax and reporting obligations are met.
 
-### Exempt fringe benefits protocol
+### <span id="#exempt-fringe-benefits-protocol">Exempt fringe benefits protocol</span>
 
 The only component of remuneration that is considered as assessable income for taxation purposes is the amount of stipend paid *directly* to a priest.
 
