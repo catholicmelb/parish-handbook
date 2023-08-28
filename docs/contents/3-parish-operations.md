@@ -130,11 +130,11 @@ Parishioners should be informed and educated that the ‘first collection’, th
 * the support of the priests of the parish
 * the support and subsidy of a great number of priests throughout the Archdiocese
 * the support of the Archbishop
-* the support of *pastores emeriti__.*
+* the support of *pastores emeriti.*
 
 See [‘Religious order–administered parishes’ below](#religious-order-administered-parishes) for further details on what happens when the pastoral care of a parish is assigned to a religious order and one of their clergy is appointed parish priest.
 
-### <span id="income-from-presbytery-collections-first-collection">Income from presbytery collections (first collections)</span>
+### <span id="#income-from-presbytery-collections-first-collections">Income from presbytery collections (first collections)</span>
 
 The following receipts must be paid into the Presbytery Account:
 
@@ -226,7 +226,7 @@ Refer to **[‘Priests’ Remuneration Fund’ in chapter 9](https://parish-ha
 
 Where the Presbytery Account is not able to provide the minimum living allowance component, the priest makes a claim on the PRF for subsidised remuneration. The amount received from the PRF should be paid to, or set aside for, the parish priest or assistant priest as soon as possible after it is received in the Presbytery Account.
 
-## Religious order–administered parishes
+## <span id="religious-order-administered-parishes">Religious order–administered parishes</span>
 
 The provisions contained in this *Handbook* relating to PFC and parish priest responsibilities apply equally to parishes where a member of a religious order is appointed parish priest. There are, however, a few differences to note in relation to the first or ‘presbytery’ collection:
 
