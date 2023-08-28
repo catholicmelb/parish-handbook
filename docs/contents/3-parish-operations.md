@@ -177,7 +177,7 @@ All other components (including expenses or benefits paid for directly using fun
 
 Subject to the exceptions noted for entertainment and other personal-related expenditures noted **[above under ‘Recording transactions’](#recording-transactions)**, GST paid on benefits provided to priests through the Presbytery Account should be claimed by the parishes when lodging the BAS. 
 
-Priests and parishes are reminded of the **‘Exempt benefits protocol for active priests’**, originally published in May 2002 and updated **below**:
+Priests and parishes are reminded of the **[‘Exempt benefits protocol for active priests’](#exempt-benefits-protocol-active-priests)**, originally published in May 2002 and updated **below**:
 
 ### <span id="#exempt-benefits-protocol-active-priests">Exempt benefits protocol for active priests</span>
 
