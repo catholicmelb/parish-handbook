@@ -155,7 +155,7 @@ The Archbishop has determined, in accordance with canon 1281, §2, that the acts
 
 * any capital works and major refurbishment on a single project with expenditure exceeding $100,000 for parish projects and primary school projects and $300,000 for secondary colleges. These must be submitted to the Archbishop for his approval through the Archdiocesan Building and Property Commission*. (Note that Melbourne Archdiocese Catholic Schools Ltd will submit the requests for approval of primary school and secondary college projects)*
 * sale and purchase of land
-* other acts of alienation of a parish’s stable patrimony (property and fixed assets) where the *value* (not the sale price) is above the minimum amount published in the norms issued by the Australian Catholic Bishops Conference. As at June 2022, acts of alienation in excess of $33,921 require the approval of the Archbishop
+* other acts of alienation of a parish’s stable patrimony (property and fixed assets) where the *value* (not the sale price) is above the minimum amount published in the norms issued by the Australian Catholic Bishops Conference. As at June 2023, acts of alienation in excess of $35,966 require the approval of the Archbishop
 * leasing of property and buildings for terms greater than three years
 * adopting an ‘indemnity-only’ basis for insurance of parish buildings (that is, where insurance cover is limited to the cost of removal or demolition of the insured building)
 * formation of any civil incorporation, or participation in any civil incorporation other than the RCTC
