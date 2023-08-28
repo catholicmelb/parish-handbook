@@ -19,7 +19,7 @@ Each parish with a priest receiving the stipend shall have at least two transact
 1. \[Name of Parish] Church Account
 2. \[Name of Parish] Presbytery Account.
 
-Priests responsible for their own vehicles (those who are not members of the Priests’ Car Pool) may access the benefit of the prescribed car capital allowance via a parish account established for this purpose. The allowance may accumulate until the priest purchases a new vehicle. Funds held in the Car Capital Allowance Account must be directed to the vehicle supplier by the parish for the exempt benefit rules to apply (see **‘Exempt fringe benefits protocol’ in chapter 3**). Alternatively, payment of the car capital allowance to a priest directly is an option but is subject to the PAYG withholding tax obligations.
+Priests responsible for their own vehicles (those who are not members of the Priests’ Car Pool) may access the benefit of the prescribed car capital allowance via a parish account established for this purpose. The allowance may accumulate until the priest purchases a new vehicle. Funds held in the Car Capital Allowance Account must be directed to the vehicle supplier by the parish for the exempt benefit rules to apply (see **[‘Exempt fringe benefits protocol’ in chapter 3](https://parish-handbook.netlify.app/contents/3-parish-operations.html#exempt-fringe-benefits-protocol)**). Alternatively, payment of the car capital allowance to a priest directly is an option but is subject to the PAYG withholding tax obligations.
 
 3. \[Name of Parish] Priests’ Car Capital Allowance Account \[#1, #2 etc for each priest]
 
