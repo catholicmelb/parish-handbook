@@ -132,7 +132,7 @@ Parishioners should be informed and educated that the ‘first collection’, th
 * the support of the Archbishop
 * the support of *pastores emeriti__.*
 
-See **[‘Religious order–administered parishes’ below](#religious-order-administered-parishes)** for further details on what happens when the pastoral care of a parish is assigned to a religious order and one of their clergy is appointed parish priest.
+See [‘Religious order–administered parishes’ below](#religious-order-administered-parishes) for further details on what happens when the pastoral care of a parish is assigned to a religious order and one of their clergy is appointed parish priest.
 
 ### <span id="#income-from-presbytery-collections">Income from presbytery collections (first collections)</span>
 
