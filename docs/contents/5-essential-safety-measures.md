@@ -4,7 +4,7 @@ date: 2023-03-02T05:06:06.504Z
 order: "5"
 description: "5"
 ---
-# 5. Essential safety measures (ESMs)
+# <span id="#essential-safety-measures">5. Essential safety measures (ESMs)</span>
 
 ## Purpose
 
