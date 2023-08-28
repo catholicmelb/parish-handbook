@@ -45,7 +45,7 @@ Parish priests must ensure they have in place property-maintenance and inspectio
 
 Property-maintenance advice is available from the Archdiocese’s Property and Infrastructure team.
 
-## Safeguarding protections
+## <span id="#safeguarding-protections">Safeguarding protections</span>
 
 Parish priests must adopt the safeguarding framework put in place by the Archdiocese and must encourage the nomination of a Safeguarding Committee in their parish.
 
