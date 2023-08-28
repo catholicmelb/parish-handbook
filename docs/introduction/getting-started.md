@@ -6,7 +6,15 @@ description: Getting started
 ---
 # Getting started
 
+## What is the handbook?
+
+The *Parish Administration Handbook* integrates a wide range of resources, guides, manuals and other publications to offer a single, comprehensive source of information on Archdiocesan administrative policies and procedures.
+
 ## How to use this *Handbook*
+
+1. ..
+2. ..
+3. ..
 
 @@ Loom video on how to search and use the *Handbook*
 
