@@ -87,13 +87,13 @@ Refer to the **Application to the alienation of Church property guidelines andap
 
 Where the alienation of property involves the closure of a building that was previously used for Catholic worship, the Archdiocese has published guidelines for additional steps that are required for its conversion to a secular and appropriate use. These include formal consultation with parishioners, especially those affected by the closure. Further consultation should occur with parish bodies (pastoral council and PFC) and any interested parties who have a legitimate interest in the site (such as a land or building donor). The regional bishop or episcopal vicar is then to be consulted for a broader perspective in the region affected by the closure.
 
-Please refer to the **Application to the alienation of Church property guidelines andapplication form**.
+Please refer to the **Application to the alienation of Church property guidelines and application form**.
 
 ## Capital works and building expenditure over $100,000
 
 The ABPC supervises the construction, alteration, addition or renovation of buildings. This includes church sanctuaries and other liturgical requirements. Capital works and major refurbishment—as defined as any construction, repair, renovation, landscaping or engineering project that is over $100,000 (excluding GST)—require the prior approval and permission of the Archbishop as an act of extraordinary administration.
 
-Please refer to the detailed protocol in the **Application for Project Appraisal—ABPC for Parish Major and Minor Works**.
+Please refer to the detailed protocol in the [Application for Project Appraisal—ABPC for Parish Major and Minor Works](https://camorgau.sharepoint.com/sites/PAH-Property/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FPAH%2DProperty%2FShared%20Documents%2FPAH%5FABPC%5Fproject%5Fappraisal%5Fapproval%5Frequest%5F23%5F08%2Epdf&parent=%2Fsites%2FPAH%2DProperty%2FShared%20Documents&p=true&ga=1).
 
 ### Diocesan Pastoral and Development Commission financial assistance application
 
@@ -103,7 +103,7 @@ Funding of up to $30,000 is available for this purpose.
 
 The Commissioners have adopted a process whereby one round of applications is considered annually so that the budget can be allocated fairly between all applicants.
 
-Please refer to the **DPDC Application for Funding—Presbytery Renovations** for further information.
+Please refer to the [DPDC Application for Funding—Presbytery Renovations](https://camorgau.sharepoint.com/sites/PAH-Property/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FPAH%2DProperty%2FShared%20Documents%2FPAH%5FDPDC%5Fapplication%5Ffor%5Ffinancial%5Fassistance%5F23%5F08%2Epdf&parent=%2Fsites%2FPAH%2DProperty%2FShared%20Documents&p=true&ga=1) for further information.
 
 ## Capital works under $100,000
 
@@ -117,7 +117,7 @@ Projects with a projected cost under $100,000 are generally handled at the local
 
 Projects should not be subdivided into separate work components under $100,000 to avoid applications for permission.
 
-The **RCTC minor works contract** for small construction projects should be used for all minor-works projects.
+The [RCTC minor works contract](https://camorgau.sharepoint.com/:w:/s/PAH-Property/EV5TDgGiWIVDqtNDr342iVkBpys9YyCD31-hQNKs1lUzwQ?e=EZiRN6) for small construction projects should be used for all minor-works projects.
 
 Any project or improvement involving asbestos or mould remediation, lead-based paint or structural change to existing buildings, even if it will cost less than $100,000, must be reviewed and approved by the Archdiocese's Property and Infrastructure Office before proceeding with the work.
 
@@ -196,7 +196,7 @@ The Archdiocese has published policy guidance in **Application and process for w
 
 ## Naming parish buildings
 
-The Archdiocese has published a policy on naming parish buildings. Please refer to the **Naming Policy** for guidance on the process to be followed.
+The Archdiocese has published a policy on naming parish buildings. Please refer to the [Naming Policy](https://camorgau.sharepoint.com/sites/PAH-VG/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FPAH%2DVG%2FShared%20Documents%2FPAH%5FCAM%5FNaming%5FPolicy%5F23%5F08%2Epdf&parent=%2Fsites%2FPAH%2DVG%2FShared%20Documents&p=true&ga=1) for guidance on the process to be followed.
 
 ## Deceased’s ashes and columbariums
 
@@ -217,7 +217,7 @@ The Archdiocese has also published policy guidance in **Guidelines relating to t
 
 ## CCTV and security
 
-The Property and infrastructure Office has published a **Parish Minimum Standards Security Guideline** to help parishes minimise the chances of property being lost and people’s safety threatened. It provides advice on how to minimise the risk of unauthorised entry to parish property and the associated threats to people, first, and then property.
+The Property and infrastructure Office has published a [Parish Minimum Standards Security Guideline](https://camorgau.sharepoint.com/sites/PAH-Property/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FPAH%2DProperty%2FShared%20Documents%2FPAH%5FMinimum%5FSecurity%5FStandards%5FGuideline%5F23%5F08%2Epdf&parent=%2Fsites%2FPAH%2DProperty%2FShared%20Documents&p=true&ga=1) to help parishes minimise the chances of property being lost and people’s safety threatened. It provides advice on how to minimise the risk of unauthorised entry to parish property and the associated threats to people, first, and then property.
 
 ## Heritage-listed buildings and Conservation Management Plans
 
