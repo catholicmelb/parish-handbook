@@ -1,8 +1,8 @@
 ---
 title: Foreword
 date: 2023-03-02T05:24:47.847Z
-order: "3"
-description: "1"
+order: "2"
+description: "‘But everything should be done in a fitting and orderly way.’ (1 Corinthians 14:40)"
 ---
 # Foreword
 
