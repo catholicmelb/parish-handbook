@@ -149,7 +149,7 @@ The traditional contributions of Christmas and Easter dues and stole fees should
 
 #### General payments from presbytery account
 
-* Levies and *cathedraticum* are calculated on the total gross receipts paid into the Presbytery Account, as specified **above under ‘Income from presbytery collections (first collections)’**, *excluding Mass offerings*. The following contributions are to be deducted on a quarterly basis:
+* Levies and *cathedraticum* are calculated on the total gross receipts paid into the Presbytery Account, as specified [above under ‘Income from presbytery collections (first collections)’](#income-from-presbytery-collections-first-collections), *excluding Mass offerings*. The following contributions are to be deducted on a quarterly basis:
 
   * cathedraticum of 5% for the Archbishop to the Archdiocese Finance Office
   * a contribution of 12.5% to the Priests’ Remuneration Fund
@@ -177,7 +177,7 @@ All other components (including expenses or benefits paid for directly using fun
 
 Subject to the exceptions noted for entertainment and other personal-related expenditures noted **[above under ‘Recording transactions’](#recording-transactions)**, GST paid on benefits provided to priests through the Presbytery Account should be claimed by the parishes when lodging the BAS. 
 
-Priests and parishes are reminded of the **[‘Exempt benefits protocol for active priests’](#exempt-benefits-protocol-active-priests)**, originally published in May 2002 and updated **below**:
+Priests and parishes are reminded of the **[‘Exempt benefits protocol for active priests’](#exempt-benefits-protocol-active-priests)**, originally published in May 2002 and updated below:
 
 ### <span id="exempt-benefits-protocol-active-priests">Exempt benefits protocol for active priests</span>
 
