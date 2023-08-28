@@ -20,7 +20,7 @@ The Building Regulations 2018 (Vic.) (‘the **Regulations’**)establish dutie
 
 It is the parish’s responsibility, as the beneficial owner of parish buildings, to ensure that required ESMs are installed, maintained and audited, and that maintenance and inspection records are available for review. Compliance with the Regulations promotes the safety of the users of parish buildings. Penalties apply to building owners who fail to meet their ESM obligations. 
 
-## Buildings covered by the Regulations
+## <span id="#buildings-covered-regulations">Buildings covered by the Regulations</span>
 
 The types of buildings covered under the Regulations include:
 
@@ -64,7 +64,7 @@ A building constructed before 1 July 1994 that has not been substantially modifi
 
 There may have been a building order, emergency order, a determination of ESMs or a maintenance determination made with respect to the building. This will set out the ESMs that apply to the building. If you are uncertain as to whether such an order or determination has been made with respect to a parish building, contact the building department at your local council.
 
-For buildings constructed before 1 July 1994 where there is no occupancy permit, the parish may apply to a municipal or private building surveyor for a determination of ESMs for any parish building falling within the building classes listed under **‘Buildings covered by the Regulations’ above.** 
+For buildings constructed before 1 July 1994 where there is no occupancy permit, the parish may apply to a municipal or private building surveyor for a determination of ESMs for any parish building falling within the building classes listed under **[‘Buildings covered by the Regulations’ above](#buildings-covered-regulations).** 
 
 ### Buildings constructed or altered since 1 July 1994
 
