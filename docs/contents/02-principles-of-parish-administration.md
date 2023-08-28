@@ -240,7 +240,7 @@ Parishes are also expected to meet responsibilities generally expected of a good
 * completing annual performance reviews and providing regular feedback to employees during the year
 * following approved procedures for handling complaints or disputes.
 
-The Archdiocesan Parish Payroll Service and Human Resources Office can assist parishes in meeting these obligations. See **‘Archdiocesan Human Resources Office’ in chapter 9** for further details.
+The Archdiocesan Parish Payroll Service and Human Resources Office can assist parishes in meeting these obligations. See **[‘Archdiocesan Human Resources Office’ in chapter 9](#archdiocesan-human-rosurces-office)** for further details.
 
 ### Priestly vocation not an employment relationship
 
