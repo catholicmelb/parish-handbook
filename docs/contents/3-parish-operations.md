@@ -51,7 +51,7 @@ The parish priest is permitted to renew term investments and to authorise redemp
 
 It is recommended that signatories be appointed by the parish priest after informing the parish finance committee.
 
-### Recording transactions
+### <span id="#recording-transactions">Recording transactions</span>
 
 The Archdiocese strongly recommends Xero as the preferred parish accounting software.
 
@@ -175,7 +175,7 @@ The only component of remuneration that is considered as assessable income for t
 
 All other components (including expenses or benefits paid for directly using funds from the Presbytery Account) are regarded as exempt benefits by the ATO and are not subject to either income tax or fringe benefits tax (FBT).
 
-Subject to the exceptions noted for entertainment and other personal-related expenditures noted **above under ‘Recording transactions’**, GST paid on benefits provided to priests through the Presbytery Account should be claimed by the parishes when lodging the BAS. 
+Subject to the exceptions noted for entertainment and other personal-related expenditures noted **[above under ‘Recording transactions’](#recording-transactions)**, GST paid on benefits provided to priests through the Presbytery Account should be claimed by the parishes when lodging the BAS. 
 
 Priests and parishes are reminded of the **‘Exempt benefits protocol for active priests’**, originally published in May 2002 and updated **below**:
 
