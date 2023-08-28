@@ -179,7 +179,7 @@ Subject to the exceptions noted for entertainment and other personal-related exp
 
 Priests and parishes are reminded of the **‘Exempt benefits protocol for active priests’**, originally published in May 2002 and updated **below**:
 
-### Exempt benefits protocol for active priests
+### <span id="#exempt-benefits-protocol-active-priests">Exempt benefits protocol for active priests</span>
 
 #### General background
 
