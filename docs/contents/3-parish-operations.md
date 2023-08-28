@@ -134,7 +134,7 @@ Parishioners should be informed and educated that the ‘first collection’, th
 
 See **[‘Religious order–administered parishes’ below](#religious-order-administered-parishes)** for further details on what happens when the pastoral care of a parish is assigned to a religious order and one of their clergy is appointed parish priest.
 
-### Income from presbytery collections (first collections)
+### <span id="#income-from-presbytery-collections">Income from presbytery collections (first collections)</span>
 
 The following receipts must be paid into the Presbytery Account:
 
