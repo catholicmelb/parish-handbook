@@ -38,7 +38,7 @@ export default defineConfig({
       provider: 'local',
     },
     nav: [
-      { text: 'Home', link: '/' }
+      { text: 'Home', link: '/' },
       { text: 'Get Started', link: '/introduction/getting-started' }
     ],
     outline: [2, 3],
@@ -54,7 +54,7 @@ export default defineConfig({
         items: SidebarBuilder.get.filesAndOrder('./docs/contents')
       },
       {
-        items: SidebarBuilder.get.filesAndOrder('./docs/pages')
+        items: SidebarBuilder.get.filesAndOrder('./docs/pages', ['handbook-formatting'])
       },
     ]
   },
