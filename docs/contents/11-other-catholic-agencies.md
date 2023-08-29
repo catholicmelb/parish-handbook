@@ -29,7 +29,7 @@ For further information regarding Caritas, including details of the Archdiocese�
 
 Catholic Super is the default superannuation fund for the Archdiocese and parishes. The Archdiocese’s Parish Payroll Service attends to the onboarding of new employees and administration of the regular employer SGC contributions—whether to Catholic Super or other funds nominated by employees.
 
-For further details regarding Catholic Super, including the advisory services they offer parish employees, please refer to the [Catholic Super website](https://csf.com.au/employers/catholic-super-employers).
+For further details regarding Catholic Super, including the advisory services they offer parish employees, please refer to the [Catholic Super website](https://csf.com.au).
 
 ## St Vincent de Paul
 
