@@ -37,7 +37,7 @@ Information system services provided by the IT department include:
 
 Contact the support team via email at [service.desk@cam.org.au](mailto:service.desk@cam.org.au) or call 03 9926 2600.
 
-Instructions for lodging support requests can be found at [Asta-CAM ICT Support](https://camorgau.sharepoint.com/sites/PAH-IT).
+Instructions for lodging support requests can be found at [Asta-CAM ICT Support](https://camorgau.sharepoint.com/sites/PAH-IT/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FPAH%2DIT%2FShared%20Documents%2FAsta%2DCAM%20ICT%20Support%2Epdf&parent=%2Fsites%2FPAH%2DIT%2FShared%20Documents).
 
 ## What is the ‘IT system’?
 
