@@ -19,7 +19,7 @@ hero:
 features:
   - icon: ⚡️
     title: Browse parish documentation fast
-    details: Lightning fast search and easy access to the information you need.
+    details: Lightning fast search and easy access to the information your parish needs.
   - icon: 📝
     title: A ‘living’ document
     details: There will be amendments, additions and changes as the occasion demands
@@ -27,7 +27,7 @@ features:
   - icon: 🙋🏻‍♂️
     title: Support and help
     details: If you have any questions or need help, please contact the Archdiocese
-      [Communications Office](mailto:communications@cam.org.au).
+      <a href="mailto:communications@cam.org.au">Communications Office</a>.
 ---
 
 <script setup>
