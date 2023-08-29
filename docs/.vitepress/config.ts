@@ -31,15 +31,14 @@ export default defineConfig({
       { icon: 'linkedin', link: 'https://www.linkedin.com/company/catholic-archdiocese-of-melbourne/' },
     ],
     footer: {
-      message: '© Melbourne Catholic 2023',
+      message: '© Catholic Archdiocese of Melbourne 2023',
       copyright: 'Development by <a href="https://leightonhughes.co" target="_blank">Leighton Hughes</a>'
     },
     search: {
       provider: 'local',
     },
     nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Contact', link: '/contact' },
+      { text: 'Home', link: '/' }
     ],
     outline: [2, 3],
     sidebar: [
