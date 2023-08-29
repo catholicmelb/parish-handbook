@@ -297,7 +297,7 @@ Priests must return a copy of the following documents to the Safeguarding Unit p
 
 The Victorian Working with Children Check (WWCC) protocol requires that the Safeguarding Unit has copies of all priests’ current WWCC cards on file. Priests need to update their WWCC profile online to ensure the Archdiocese is listed as one of the organisations for which each priest conducts work. This will ensure that the Safeguarding Unit receives a copy of each priest’s card directly from the Department of Justice.
 
-To list the Archdiocese, [log in to the Department of Justice website](http://www.workingwithchildren.vic.gov.au/home/cardholders/update+your+details/).
+To list the Archdiocese, [log in to the Service Victoria website](https://service.vic.gov.au/find-services/work-and-volunteering/working-with-children-check/update-your-working-with-children-check-details).
 
 Please add the address:
 
@@ -306,7 +306,7 @@ Safeguarding Unit\
 PO Box 146, East Melbourne VIC 8002\
 Phone: (03) 9926 5630
 
-Priests moving to Victoria will need to apply for a Victorian WWCC card. Applications can be made through the [Department of Justice website](http://www.workingwithchildren.vic.gov.au/home/applications/apply+for+a+check/).
+Priests moving to Victoria will need to apply for a Victorian WWCC card. Applications can be made through the [Service Victoria website](https://service.vic.gov.au/services/working-with-children)[](http://www.workingwithchildren.vic.gov.au/home/applications/apply+for+a+check/).
 
 *Please note* that no public ministry can be conducted prior to the WWCC application being lodged.
 
@@ -499,7 +499,7 @@ Depending on local circumstances, other reports on property management, sacrific
 
 ### Reporting to the Archdiocese
 
-Canon 1287 states, ‘Both clerical and lay administrators of any ecclesiastical goods are bound by their office to present an annual report to the \[Archbishop] who is to present it to the \[Arch]diocesan Finance Council.’ In the Melbourne Archdiocese, parishes are required to present a copy of their December year-end accounts by 31 March following each year. This may be accomplished by confirming finalisation of accounting requirements and authorising access to the financial reports available in Xero. Alternatively, parishes should provide the financial report in the prescribed format shown in **Template—financial reports**.
+Canon 1287 states, ‘Both clerical and lay administrators of any ecclesiastical goods are bound by their office to present an annual report to the \[Archbishop] who is to present it to the \[Arch]diocesan Finance Council.’ In the Melbourne Archdiocese, parishes are required to present a copy of their December year-end accounts by 31 March following each year. This may be accomplished by confirming finalisation of accounting requirements and authorising access to the financial reports available in Xero. Alternatively, parishes should provide the financial report in the prescribed format shown in [Template—financial reports](https://camorgau.sharepoint.com/:x:/s/PAH-Finance/EaVL-PxYeG9NizrJNTkBtrcBusoCaE8Ubl7RVAisv03Z8A?e=fMO5is).
 
 ### Reporting to parishioners
 
@@ -520,7 +520,7 @@ The parish priest, as head of entity, in collaboration with the safeguarding com
 
 The faithful have a right to expect accurate and well-preserved sacramental records. Canon 486, §1 states, ‘All documents concerning the diocese or parishes must be kept with the greatest of care.’ This requires preservation from damage, deterioration, theft, vandalism and fire or water damage. A fireproof cabinet is prudent. 
 
-The Archdiocese has prepared **Pastoral guidelines for the maintenance of parish registers**. 
+The Archdiocese has prepared [Pastoral guidelines for the maintenance of parish registers](https://camorgau.sharepoint.com/sites/PAH-VG/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FPAH%2DVG%2FShared%20Documents%2FPAH%5Fpastoral%5Fguidelines%5Ffor%5Fmaintenance%5Fof%5Fparish%5Fregisters%5F23%5F08%2Epdf&parent=%2Fsites%2FPAH%2DVG%2FShared%20Documents&p=true&ga=1). 
 
 ### Working with Children Check (WWCC) Register
 
