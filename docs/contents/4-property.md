@@ -81,7 +81,7 @@ Only the Trustees of the Roman Catholic Trusts Corporation for the Diocese of Me
 
 The permission of the Archbishop is required before parish stable patrimony (property and fixed assets) whose *value* (not necessarily the sale price) exceeds the minimum amount listed in **Amounts for alienation of temporal goods** may be validly alienated—that is, transferred to another’s ownership. The opinion of the PFC must be relayed to the Archbishop when seeking his permission to alienate the goods. 
 
-Refer to the **Application to the alienation of Church property guidelines andapplication form**.
+Refer to the **Application to the alienation of Church property guidelines and application form**.
 
 ## Closure of a church
 
@@ -127,7 +127,7 @@ In accordance with the Parish Finance Committee Statutes, each parish should con
 
 This will ensure that the assets of the parish are maintained in good working order. It will also assist with finance planning, reducing the risk of parishes incurring unbudgeted capital and or maintenance expenditure.
 
-The Archdiocese’s Property and Infrastructure Office has issued guidelines for **Maintenance of Church Property** as well as a [Capital and maintenance 5-year plan template](https://camorgau.sharepoint.com/:x:/s/PAH-Finance/EVkyLOvXjVRNqgVBGXcqHHIBlJ00fjuZcjMEqyDWFp08Kg?e=A6cupZ) for reference.
+The Archdiocese’s Property and Infrastructure Office has issued guidelines for **Maintenance of Church property** as well as a [Capital and maintenance 5-year plan template](https://camorgau.sharepoint.com/:x:/s/PAH-Finance/EVkyLOvXjVRNqgVBGXcqHHIBlJ00fjuZcjMEqyDWFp08Kg?e=A6cupZ) for reference.
 
 Parishes are encouraged to document an asset-inspection program that covers the following items:
 
@@ -142,7 +142,7 @@ The leasing of parish property, including real property, requires that a contrac
 
 Good stewardship and administration principles are the basis for making sure that properly documented agreements are put in place for non-parish activities. This will contribute to improving communication and relationships between the parish and tenants or licensees, and will also reduce the risk of problems arising (which would be a significant drain on parish resources and also be of significant reputational risk to the parish).
 
-The Archdiocese has published a **Lease, license and hiring of Parish Property policy** to assist parish priests and PFC advisers to understand the processes that govern the leasing and licensing of parish properties.
+The Archdiocese has published a **Lease, license and hiring of parish property policy** to assist parish priests and PFC advisers to understand the processes that govern the leasing and licensing of parish properties.
 
 ### Leasing agreement execution
 
@@ -217,7 +217,7 @@ The Archdiocese has also published policy guidance in **Guidelines relating to t
 
 ## CCTV and security
 
-The Property and infrastructure Office has published a [Parish Minimum Standards Security Guideline](https://camorgau.sharepoint.com/sites/PAH-Property/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FPAH%2DProperty%2FShared%20Documents%2FPAH%5FMinimum%5FSecurity%5FStandards%5FGuideline%5F23%5F08%2Epdf&parent=%2Fsites%2FPAH%2DProperty%2FShared%20Documents&p=true&ga=1) to help parishes minimise the chances of property being lost and people’s safety threatened. It provides advice on how to minimise the risk of unauthorised entry to parish property and the associated threats to people, first, and then property.
+The Property and infrastructure Office has published a [Parish minimum standards security guideline](https://camorgau.sharepoint.com/sites/PAH-Property/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FPAH%2DProperty%2FShared%20Documents%2FPAH%5FMinimum%5FSecurity%5FStandards%5FGuideline%5F23%5F08%2Epdf&parent=%2Fsites%2FPAH%2DProperty%2FShared%20Documents&p=true&ga=1) to help parishes minimise the chances of property being lost and people’s safety threatened. It provides advice on how to minimise the risk of unauthorised entry to parish property and the associated threats to people, first, and then property.
 
 ## Heritage-listed buildings and Conservation Management Plans
 
