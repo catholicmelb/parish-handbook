@@ -39,6 +39,7 @@ export default defineConfig({
     },
     nav: [
       { text: 'Home', link: '/' }
+      { text: 'Get Started', link: '/introduction/getting-started' }
     ],
     outline: [2, 3],
     sidebar: [

@@ -11,7 +11,7 @@ hero:
     Corinthians 14:40)
   actions:
     - theme: brand
-      text: Getting Started
+      text: Get Started
       link: /introduction/getting-started
   image:
     src: /
