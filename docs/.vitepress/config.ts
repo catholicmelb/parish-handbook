@@ -18,10 +18,10 @@ export default defineConfig({
     editLinks: true,
     editLinkText: 'Edit this page on GitHub',
     lastUpdated: {
-      text: 'Updated at',
+      text: 'Last updated',
       formatOptions: {
         dateStyle: 'full',
-        timeStyle: 'medium'
+        timeStyle: 'short'
       }
     },
     socialLinks: [
