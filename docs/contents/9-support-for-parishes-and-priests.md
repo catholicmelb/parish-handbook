@@ -191,7 +191,7 @@ PO Box 146, East Melbourne VIC 8002
 
 Phone: (03) 9287 5541\
 Contact email: [clmo@cam.org.au](mailto:clmo@cam.org.au)\
-Website: [www.camclergy.org.au](www.camclergy.org.au)[](https://www.camclergy.org.au/about-us-1)
+Website: [www.camclergy.org.au](https://www.camclergy.org.au)
 
 ## Aboriginal Catholic Ministry
 
