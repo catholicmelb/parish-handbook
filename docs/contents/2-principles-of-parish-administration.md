@@ -85,11 +85,11 @@ The parish finance committee's responsibilities are to:
 * assist the parish priest in the preparation of long-term cash-flow estimates to provide for future capital works and major maintenance requirements
 * assist the parish priest in the preparation of an annual financial report to the Archbishop, or provide the Archdiocesan Finance Office with access to the parish's accounting application files by 31 March following the end of each calendar year
 * call the parish priest’s attention to any matters that seem to need more immediate action, such as:
-   * consistent overspending in a particular area of the budget
+
+  * consistent overspending in a particular area of the budget
   * any concerns for the long-term financial welfare of the parish if it incurs an annual deficit, or if maintenance of adequate surplus funds appears to be in question.
 
   Where a parish has incurred an operating loss in each of the past three financial years, amounting to the lesser of $100,000 or 50% of stable patrimony at the beginning of the first year, the PFC must develop a plan to restore the parish to a net-surplus operating position. A copy of the plan is to be provided to the Archbishop
-
 * assist the parish priest in ensuring that all regulatory requirements are complied with
 * assist the parish priest in identifying and managing areas of risk to the financial viability of the parish
 * ensure that at meetings of the PFC, the parish priest presents the totals of income and expenditure since the last meeting and any significant facts relating to parish finances
@@ -240,11 +240,11 @@ Parishes are also expected to meet responsibilities generally expected of a good
 * completing annual performance reviews and providing regular feedback to employees during the year
 * following approved procedures for handling complaints or disputes.
 
-The Archdiocesan Parish Payroll Service and Human Resources Office can assist parishes in meeting these obligations. See **[‘Archdiocesan Human Resources Office’ in chapter 9](https://parish-handbook.netlify.app/contents/9-support-for-parishes-and-priests.html#archdiocesan-human-resources-office)** for further details.
+The Archdiocesan Parish Payroll Service and Human Resources Office can assist parishes in meeting these obligations. See [‘Archdiocesan Human Resources Office’ in chapter 9](https://parish-handbook.netlify.app/contents/9-support-for-parishes-and-priests.html#archdiocesan-human-resources-office) for further details.
 
 ### Priestly vocation not an employment relationship
 
-Priests are not employees of the parish or of the Archdiocese. They exercise their vocation in relationship with the Archbishop ‘voluntarily … based on their shared Catholic faith and acceptance of the authority of \[the Catholic Church’s] institutions’.[(2)](#footnote-2) Refer to **[‘PAYG withholding tax’ in chapter 3](https://parish-handbook.netlify.app/contents/3-parish-operations.html#payg-withholding-tax#PAYG-withholding-tax)** for separate information on the application of the PAYG withholding tax requirements to priests’ personal stipends.
+Priests are not employees of the parish or of the Archdiocese. They exercise their vocation in relationship with the Archbishop ‘voluntarily … based on their shared Catholic faith and acceptance of the authority of \[the Catholic Church’s] institutions’.[(2)](#footnote-2) Refer to [‘PAYG withholding tax’ in chapter 3](https://parish-handbook.netlify.app/contents/3-parish-operations.html#payg-withholding-tax) for separate information on the application of the PAYG withholding tax requirements to priests’ personal stipends.
 
 ### Occupational health and safety
 
