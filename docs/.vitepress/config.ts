@@ -48,7 +48,7 @@ export default defineConfig({
         items: SidebarBuilder.get.filesAndOrder('./docs/introduction')
       },
       {
-        text: 'Contents',
+        text: 'Chapters',
         collapsed: false,
         items: SidebarBuilder.get.filesAndOrder('./docs/contents')
       },
