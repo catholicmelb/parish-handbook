@@ -16,7 +16,7 @@ The following is a general guide only. Parishes may require specific advice with
 
 ## Background
 
-The Building Regulations 2018 (Vic.) (‘the Regulations’) establish duties on building owners regarding the installation and maintenance of ESMs in buildings. The types of ESMs required will depend upon the age and type of the building.
+The [Building Regulations 2018 (Vic.)](https://www.legislation.vic.gov.au/in-force/statutory-rules/building-regulations-2018/019) (‘the Regulations’) establish duties on building owners regarding the installation and maintenance of ESMs in buildings. The types of ESMs required will depend upon the age and type of the building.
 
 It is the parish’s responsibility, as the beneficial owner of parish buildings, to ensure that required ESMs are installed, maintained and audited, and that maintenance and inspection records are available for review. Compliance with the Regulations promotes the safety of the users of parish buildings. Penalties apply to building owners who fail to meet their ESM obligations. 
 
