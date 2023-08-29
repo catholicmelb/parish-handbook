@@ -89,7 +89,7 @@ The Regulations create a number of mandatory obligations for building owners reg
 * Owners are also required to keep and maintain records of previous AESMRs for up to 10 years.
 * Owners must not remove an ESM from its approved location, except for inspection, testing or maintenance.
 
-Any contravention of the above actions may result in the imposition of a fine of up to *20 penalty units*(currently $3,700) per contravention.
+Any contravention of the above actions may result in the imposition of a fine of up to *20 penalty units* (currently $3,700) per contravention.
 
 A building owner must ensure that the following are accessible, functional and clear of obstructions so that egress from the building or place is maintained:
 
