@@ -24,7 +24,6 @@
 
 .handbook-footer img {
   box-sizing: border-box;
-  max-width: 200px;
   height: 80px;
   display: block;
   margin: 1rem 0;
