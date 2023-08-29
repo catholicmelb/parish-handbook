@@ -152,8 +152,6 @@ Subject to lease agreements being confirmed as ready for execution after the app
 
 In November 1984, the Australian Catholic Bishops Conference (ACBC) determined which leasing arrangements constitute extraordinary administration across the Catholic Church for diocesan and parish assets and therefore require special permissions. The **Lease, license and hiring of parish property policy** provides the full details, but in summary, the ACBC and the Archbishop require the following consultations and consents:
 
-**\[@@FIX FORMATTING OF FOLLOWING TABLE]**
-
 | Lease period                                                  | Parish priest responsibilities                                                                                               | Requirements before Archbishop can give consent                                                                                                                   |
 | ------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Leases for period of 3 years or less                          | Parish priest must consult PFC.                                                                                              | Not applicable.                                                                                                                                                   |
