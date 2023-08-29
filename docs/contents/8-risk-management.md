@@ -81,4 +81,4 @@ Parish priests should ensure parish staff and volunteers who come in contact wit
 
 Parishes should adopt a privacy policy that expresses in plain language the parish’s policies on its management of personal information.
 
-Please refer to the Archdiocese’s **Privacy Policy**, which applies to parishes.
+Please refer to the Archdiocese’s [Privacy Policy](https://camorgau.sharepoint.com/sites/PAH-HR/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FPAH%2DHR%2FShared%20Documents%2FHR%20Policies%2FPrivacy%20Policy%20%28Last%20updated%202018%29%2Epdf&parent=%2Fsites%2FPAH%2DHR%2FShared%20Documents%2FHR%20Policies&p=true&ga=1), which applies to parishes.
