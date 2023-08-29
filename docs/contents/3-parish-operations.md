@@ -552,7 +552,7 @@ Where the parish conducts activities directly (e.g. tennis or other organised sp
 
 ### Right to use agreement
 
-Where the facility is provided to a separately constituted club (whether incorporated or not), it is recommended the COM ensure that a **Memorandum of understanding—hosted club or facilities on parish land agreement** is created to manage the relationship between the parish and the club or other hosted entity.
+Where the facility is provided to a separately constituted club (whether incorporated or not), it is recommended the COM ensure that a **Memorandum of understanding—hosted club or facilities on parish land agreement (document link to come)** is created to manage the relationship between the parish and the club or other hosted entity.
 
 ## Outside-school-hours childcare on church property
 
@@ -560,7 +560,7 @@ Where the facility is provided to a separately constituted club (whether incorpo
 
 General principles have been prepared to assist parishes when granting licences over parish land to service providers for the provision of outside-school-hours childcare (OSHC) services.
 
-Refer to the **Outside school hours child care on Church property guidelines**.
+Refer to the **Outside school hours child care on Church property guidelines (document link to come)**.
 
 The OSHC service provider must at all times operate as an independent contractor, and must not hold itself out as being associated with the Church, the parish or the parish school. A parish should not operate an OSHC service in its own right.
 
