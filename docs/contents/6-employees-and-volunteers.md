@@ -67,10 +67,10 @@ The Archdiocese has approved a number of HR-related policies that also apply to 
 * Health and Safety (refer to the HR Office for details)
 * [Code of Conduct](https://camorgau.sharepoint.com/sites/PAH-HR/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FPAH%2DHR%2FShared%20Documents%2FHR%20Policies%2FPAH%5FCode%2Dof%2DConduct%5F23%5F08%2Epdf&parent=%2Fsites%2FPAH%2DHR%2FShared%20Documents%2FHR%20Policies&p=true&ga=1) (including Integrity in Service of the Church)
 * [Workplace Bullying](https://camorgau.sharepoint.com/sites/PAH-HR/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FPAH%2DHR%2FShared%20Documents%2FHR%20Policies%2FPAH%5FWorkplace%5FBullying%5FPolicy%5F23%5F08%2Epdf&parent=%2Fsites%2FPAH%2DHR%2FShared%20Documents%2FHR%20Policies&p=true&ga=1)
-* [Anti-Discrimination](https://camorgau.sharepoint.com/sites/PAH-HR/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FPAH%2DHR%2FShared%20Documents%2FPolicies%2FPAH%5FAnti%2DDiscrimination%5FPolicy%5F23%5F08%2Epdf&parent=%2Fsites%2FPAH%2DHR%2FShared%20Documents%2FPolicies&p=true&ga=1)
+* [Anti-Discrimination](https://camorgau.sharepoint.com/sites/PAH-HR/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FPAH%2DHR%2FShared%20Documents%2FHR%20Policies%2FPAH%5FAnti%2DDiscrimination%5FPolicy%5F23%5F08%2Epdf&parent=%2Fsites%2FPAH%2DHR%2FShared%20Documents%2FHR%20Policies&p=true&ga=1)
 * Complaints and Grievances (refer to the HR Office for details)
-* [National Police Record Check](https://camorgau.sharepoint.com/sites/PAH-HR/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FPAH%2DHR%2FShared%20Documents%2FPolicies%2FPAH%5FPolice%5FCheck%2DPolicy%5F23%5F08%2Epdf&parent=%2Fsites%2FPAH%2DHR%2FShared%20Documents%2FPolicies&p=true&ga=1)
-* [Privacy](https://camorgau.sharepoint.com/sites/PAH-HR/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FPAH%2DHR%2FShared%20Documents%2FPolicies%2FPrivacy%20Policy%20%28Last%20updated%202018%29%2Epdf&parent=%2Fsites%2FPAH%2DHR%2FShared%20Documents%2FPolicies&p=true&ga=1)
+* [National Police Record Check](https://camorgau.sharepoint.com/sites/PAH-HR/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FPAH%2DHR%2FShared%20Documents%2FHR%20Policies%2FPAH%5FPolice%5FCheck%2DPolicy%5F23%5F08%2Epdf&parent=%2Fsites%2FPAH%2DHR%2FShared%20Documents%2FHR%20Policies&p=true&ga=1)
+* [Privacy](https://camorgau.sharepoint.com/sites/PAH-HR/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FPAH%2DHR%2FShared%20Documents%2FHR%20Policies%2FPrivacy%20Policy%20%28Last%20updated%202018%29%2Epdf&parent=%2Fsites%2FPAH%2DHR%2FShared%20Documents%2FHR%20Policies&p=true&ga=1)
 * [Safeguarding Policy (and Resources)](https://melbournecatholic.org/safeguarding/safeguarding-framework-resources/safeguarding-children-and-young-people-policy)
 
 ## WorkCover
