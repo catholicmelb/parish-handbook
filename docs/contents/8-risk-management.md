@@ -37,7 +37,7 @@ The parish priest should make sure that actions, or the inaction, of the parish 
 * following proper employment workplace practices
 * ensuring copyright is not infringed.
 
-**Parish risk-management policies, procedures and checklists** have been prepared covering various areas, including property protection, safeguarding and fraud prevention.
+**Parish risk-management policies, procedures and checklists (link to come)** have been prepared covering various areas, including property protection, safeguarding and fraud prevention.
 
 ## Property protection
 
