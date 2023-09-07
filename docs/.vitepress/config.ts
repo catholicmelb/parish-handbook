@@ -9,7 +9,19 @@ export default defineConfig({
     [
       'script',
       { src: 'https://identity.netlify.com/v1/netlify-identity-widget.js' }
-    ]
+    ],
+    [
+      'script',
+      {
+        async: true,
+        src: 'https://www.googletagmanager.com/gtag/js?id=G-7ND32MWZ66',
+      },
+    ],
+    [
+      'script',
+      {},
+      "window.dataLayer = window.dataLayer || [];\nfunction gtag(){dataLayer.push(arguments);}\ngtag('js', new Date());\ngtag('config', 'G-7ND32MWZ66');",
+    ],
   ],
   themeConfig: {
     repo: 'catholicmelb/parish-handbook',
