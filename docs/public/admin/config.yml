@@ -51,6 +51,7 @@ collections:
         name: "hero"
         widget: "object"
         fields:
+          - { label: "Text", name: "text", widget: "string" }
           - { label: "Tagline", name: "tagline", widget: "string" }
           - label: "Actions"
             name: "actions"
