@@ -13,7 +13,7 @@ hero:
       text: Get Started
       link: /introduction/getting-started
   image:
-    src: /
+    src: /img/cam-logo.png
     alt: CAM Graphic
 features:
   - icon: ⚡️
