@@ -35,6 +35,10 @@
   }
 }
 
+.VPHero .image-bg {
+    @apply bg-none;
+}
+
 
 .VPHero .name,
 .VPHero .text {
