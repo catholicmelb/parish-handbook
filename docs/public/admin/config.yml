@@ -64,11 +64,9 @@ collections:
           - label: "Featured Image"
             name: "image"
             widget: "image"
-            choose_url: true
+            allow_multiple: false
+            choose_url: false
             default: "/"
-            media_library:
-              config:
-                multiple: true
       - label: "Features"
         name: "features"
         widget: "list"
