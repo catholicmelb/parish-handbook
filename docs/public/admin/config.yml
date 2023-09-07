@@ -53,6 +53,7 @@ collections:
         fields:
           - { label: "Heading", name: "text", widget: "string" }
           - { label: "Tagline", name: "tagline", widget: "string" }
+          - { label: "Image", name: "image", widget: "image" }
           - label: "Actions"
             name: "actions"
             widget: "list"
