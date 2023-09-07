@@ -61,9 +61,6 @@ collections:
               - { label: "Text", name: "text", widget: "string" }
               - { label: "Link", name: "link", widget: "string" }
               - { label: "Theme", name: "theme", widget: "string" }
-          - label: "Image"
-            name: "image"
-            widget: "image"
       - label: "Features"
         name: "features"
         widget: "list"
