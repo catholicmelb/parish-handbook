@@ -5,7 +5,7 @@ date: 2023-03-02T09:10:19.017Z
 order: "1"
 description: The Parish Administration Handbook
 hero:
-  text: The Parish Administration Handbook
+  text: The Parish Handbook
   tagline: ‘But everything should be done in a fitting and orderly way.’ (1
     Corinthians 14:40)
   actions:
