@@ -53,7 +53,10 @@ export default defineConfig({
       { text: 'Home', link: '/' },
       { text: 'Get Started', link: '/introduction/getting-started' }
     ],
-    outline: [2, 3],
+    outline: {
+      label: "In this Chapter",
+      level: [2, 3]
+    },
     sidebar: [
       {
         text: 'Introduction',
