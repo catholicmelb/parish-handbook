@@ -23,7 +23,7 @@ Caritas began in Australia in 1962 as the Catholic Church Relief Fund (CCRF), wh
 
 Today Caritas serves in 18 countries, working through 67 partnerships in communities to bring hope, support and compassion to the world’s most vulnerable people.
 
-For further information regarding Caritas, including details of the Archdiocese’s local Caritas director, please refer to the [Caritas Australia website](https://www.caritas.org.au/contact/).
+For further information regarding Caritas, including details of the Archdiocese’s local Caritas director, please refer to the [Caritas Australia website](https://www.caritas.org.au).
 
 ## Catholic Super
 
@@ -35,4 +35,4 @@ For further details regarding Catholic Super, including the advisory services th
 
 The St Vincent de Paul Society’s members and volunteers provide practical support, advocacy and friendship to the most vulnerable in our community. This is done through local conferences, most often with significant parish and parishioner support.
 
-For further information regarding SVDP’s activities in Victoria, and for contact details, please refer to the [St Vincent de Paul Society—Victoria website](https://www.vinnies.org.au/page/Contacts/VIC/).
+For further information regarding SVDP’s activities in Victoria, and for contact details, please refer to the [St Vincent de Paul Society—Victoria website](https://www.vinnies.org.au/vic).
