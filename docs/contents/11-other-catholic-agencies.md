@@ -35,4 +35,4 @@ For further details regarding Catholic Super, including the advisory services th
 
 The St Vincent de Paul Society’s members and volunteers provide practical support, advocacy and friendship to the most vulnerable in our community. This is done through local conferences, most often with significant parish and parishioner support.
 
-For further information regarding SVDP’s activities in Victoria, and for contact details, please refer to the [St Vincent de Paul Society—Victoria website](https://www.vinnies.org.au/page/Contacts/VIC/).
+For further information regarding SVDP’s activities in Victoria, and for contact details, please refer to the [St Vincent de Paul Society—Victoria website](https://www.vinnies.org.au/vic).
