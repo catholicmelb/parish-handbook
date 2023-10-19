@@ -80,6 +80,8 @@ The following steps are recommended for recording GST claims on presbytery expen
    Cr Presbytery Clearing Account (5030)
 2. Adjust BAS item 1B by making a manual GST adjustment in Xero as per the example below. This will increase the GST refund claim on the BAS.
 
+*If you’re not sure about making adjustments to your activity statement, please speak with your parish accountant or contact the Parish Support Officers at the Archdiocese.*
+
 ![](/media/pah-aw0301.png)
 
 3. When the parish’s GST refund is received from the ATO, PACS users allocate the refund to the GST-paid account (4301); Xero users allocate the refund to the GST-paid account (820).
