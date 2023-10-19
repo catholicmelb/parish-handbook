@@ -142,7 +142,7 @@ The Safeguarding Unit is responsible for:
 Safeguarding Unit\
 Phone: (03) 9926 5621\
 Email: [safeguardingunit@cam.org.au](safeguardingunit@cam.org.au)\
-Web: [melbournecatholic/safeguarding-unit](https://melbournecatholic.org/safeguarding/professional-standards-unit-psu/)
+Web: [melbournecatholic/safeguarding-unit](https://www.melbournecatholic.org/safeguarding/professional-standards-unit-psu/)
 
 Pathways Victoria\
 Phone: (03) 7064 3940 \
