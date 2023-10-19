@@ -16,7 +16,7 @@ The general principle is that the Archbishop is responsible for administering th
 
 It is the responsibility of the Archbishop to supervise carefully the administration of all goods that belong to parishes of the Archdiocese (c. 1276, §1).
 
-In attending to this responsibility, the Archbishop issues special instructions for administration of church goods and property (c. 1276, §2). These instructions (norms) take the form of the [Parish Finance Committee Statutes](https://camorgau.sharepoint.com/:f:/r/sites/PAH-Finance/Shared%20Documents/Parish%20Finance%20Committee%20Statutes?csf=1&web=1&e=Hc3OGM).
+In attending to this responsibility, the Archbishop issues special instructions for administration of church goods and property (c. 1276, §2). These instructions (norms) take the form of the [Parish Finance Committee Statutes](https://camorgau.sharepoint.com/sites/PAH-Finance/Shared%20Documents/Forms/AllItems.aspx?csf=1&web=1&e=Hc3OGM&cid=c14a3d17%2De148%2D4ce2%2Db03c%2D7d3448691bf5&FolderCTID=0x012000EED17233D3481442B4B8523EDA4D7D05&id=%2Fsites%2FPAH%2DFinance%2FShared%20Documents%2FParish%20Finance%20Committee%20Statutes%2FCAM%20Statutes%20Parish%20Finance%20Committees%20V1%2E2%2Epdf&viewid=785bea56%2Df090%2D4fe8%2Da7ca%2D1e7727a683bc&parent=%2Fsites%2FPAH%2DFinance%2FShared%20Documents%2FParish%20Finance%20Committee%20Statutes).
 
 The parish priest is the administrator of the assets of the parish (c. 532). He is to carry out this task of administration in accord with the norms of canons 1281–1288.
 
