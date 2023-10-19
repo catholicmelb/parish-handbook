@@ -23,7 +23,7 @@ Caritas began in Australia in 1962 as the Catholic Church Relief Fund (CCRF), wh
 
 Today Caritas serves in 18 countries, working through 67 partnerships in communities to bring hope, support and compassion to the world’s most vulnerable people.
 
-For further information regarding Caritas, including details of the Archdiocese’s local Caritas director, please refer to the [Caritas Australia website](https://www.caritas.org.au/contact/).
+For further information regarding Caritas, including details of the Archdiocese’s local Caritas director, please refer to the [Caritas Australia website](https://www.caritas.org.au).
 
 ## Catholic Super
 
