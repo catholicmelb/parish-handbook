@@ -26,7 +26,7 @@ features:
   - icon: 🙋🏻‍♂️
     title: Support and help
     details: If you have any questions or need help, please email
-      [handbook@cam.org.au](handbook@cam.org.au).
+      [handbook@cam.org.au](mailto:handbook@cam.org.au).
 ---
 
 <script setup>
