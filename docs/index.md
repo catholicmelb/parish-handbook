@@ -25,8 +25,8 @@ features:
       and will be version controlled.
   - icon: 🙋🏻‍♂️
     title: Support and help
-    details: If you have any questions or need help, please contact the Archdiocese
-      <a href="mailto:communications@cam.org.au">Communications Office</a>.
+    details: If you have any questions or need help, please contact the [Catholic
+      Archdiocese of Melbourne](mailto:handbook@cam.org.au).
 ---
 
 <script setup>
