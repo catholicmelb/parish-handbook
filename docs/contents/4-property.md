@@ -69,7 +69,7 @@ Prior to engaging in any real-estate transaction, the parish priest is required 
 
 The parish priest representing the parish (c. 532) must be the one to initiate the alienation of the property. Even if the parish priest and the Archbishop are working collaboratively to sell the property, the parish priest and not the Archbishop initiates the sale. Except in the case of negligence by a parish priest, where the Archbishop may out of necessity be required to correct an error or insist upon a different method of administration, the Archbishop cannot alienate a parochial asset against the will of the parish priest.
 
-Time should be allowed for review and consultation by the Archbishop and his consultative bodies, namely the Archdiocese Building and Property Commission, College of Consultors, Diocesan Finance Council and possibly Council of Priests.
+Time should be allowed for review and consultation by the Archbishop and his consultative bodies, namely the Archdiocesan Building and Property Commission, College of Consultors, Diocesan Finance Council and possibly Council of Priests.
 
 Refer to **Purchase of property—prior approval request protocol** **(document link to come)**.
 
