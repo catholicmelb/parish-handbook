@@ -96,7 +96,7 @@ All staff, volunteers, contractors and agents are required to adhere to the foll
 * Keep all files (other than your personal information) on a shared drive.
 * Use a password that has at mixture of alpha and numerical characters (often this is dictated by the system itself).
 * Do not use passwords that can easily be identified (e.g. your name or date of birth).
-* Do no leave your password written down where it can be easily accessed.
+* Do not leave your password written down where it can be easily accessed.
 * Change your password regularly and any time it is compromised or you suspect it may have been compromised.
 * Do not give your password to anyone. They should have and use their own login and passwords. You are responsible for access obtained and usage under your login in and password. The only person who has authorised access to your password is the system administrator.
 * Lock your computer if you are going to be away from your workstation for an extended period of time.
