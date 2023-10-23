@@ -122,6 +122,43 @@ Phone: (03) 9926 5612
 
 Contact email: [archbishop@cam.org.au](mailto:archbishop@cam.org.au)
 
+## Office of the Vicar General
+
+The Office of the Vicar General provides administrative support to the Vicar General of the Catholic Archdiocese of Melbourne, the Very Rev Joseph Caddy AM.
+
+The role of the Vicar General is to assist the Archbishop and bishops in the governance of the Archdiocese. One of the important areas of responsibility is to oversee parish renewal and transformation through *Take the Way of the Gospel.*
+
+Among the VG Office’s particular areas of focus are:
+
+* providing assistance, support and liaison for clergy, parish staff, parishioners and the general public
+* co-ordinating the Personnel Advisory Board (PAB)
+* providing administrative support for the Diocesan Pastoral Development Fund and College of Consultors
+* issuing faculties to clergy (on behalf of the Archbishop)
+* preparing letters of appointment of priests to parishes and co-ordinating oaths and professions of faith
+* making applications to the Australian Catholic Ministry Register (ACMR)
+* approving clergy leave
+* coordinating marriage celebrant registration
+* coordinating confirmation delegations
+* organising visa applications for clergy
+* preparing letters of good standing (celebrets) for priests
+* preparing the Vicar General’s monthly newsletter and other updates
+* clearing permissions for visiting clergy (including professional standards documentation)
+* collecting and collating sacramental statistics and parish Mass counts
+* preparing parish profiles (mapping, demographic data, future planning, boundaries)
+* arranging imprimaturs
+* accrediting lay ecclesial ministers.
+
+### Contacts
+
+Anthony Moate\
+Senior Operating Officer
+
+Monique Gristwood\
+Personal Assistant to the Vicar General
+
+Phone: 03 9926 5638\
+Contact email: [vicar.general@cam.org.au](mailto:vicar.general@cam.org.au)
+
 ## Safeguarding Unit
 
 The Safeguarding Unit is responsible for:
