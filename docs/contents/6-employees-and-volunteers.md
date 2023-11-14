@@ -23,6 +23,8 @@ Note that while priests and clergy are not employees, they are subject to the Au
 
 A rare exception to the above advice is where an honorarium is paid as a token honorary reward for voluntary services. In such cases, parishes may still be subject to employment law and WorkCover obligations. Recipients of honorariums resulting from voluntarily offering services in line with their profession may be required to disclose payments received as assessable income for tax purposes. Parishes are advised to seek appropriate advice before considering payment of honorariums.
 
+To access further HR resources click [here](https://camorgau.sharepoint.com/sites/PAH-HR/Shared%20Documents/Forms/AllItems.aspx).
+
 ## Archdiocesan Parish Payroll Service
 
 The Parish Payroll Service helps ensure parishes meet their employment obligations and maintain full compliance with legal requirements. A specialist payroll resource is available to oversee payroll and provide advice to parishes.
