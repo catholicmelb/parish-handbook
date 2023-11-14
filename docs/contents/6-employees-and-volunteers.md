@@ -34,6 +34,8 @@ The Parish Payroll Service will ensure that:
 * employee separation payments are based on correct employment history information and accurately calculated
 * any volunteers are documented as such and therefore have clarity that leave benefits do not accrue for their work, particularly in the case where this extends over a significant period of time.
 
+Further information regarding the Parish Payroll Service, along with payroll guides and tools, can be found [here](https://camorgau.sharepoint.com/:f:/r/sites/PAH-HR/Shared%20Documents/Parish%20Payroll%20Service?csf=1&web=1&e=BaYsve).
+
 ## Recruitment and selection
 
 The Archdiocesan HR Office provides recruitment and onboarding assistance to parishes for the employment of new workers. It is recommended that parishes seek advice from HR regarding a role’s requirements and applicable remuneration before recruitment commences.
@@ -60,6 +62,13 @@ An employment agreement must be completed for all parish workers and forwarded t
 
 The parish priest alone has authority to employ parish workers and must sign the offer of employment.
 
+Resources to assist with your recruitment and selection:
+
+* [Position description (template)](https://camorgau.sharepoint.com/:f:/r/sites/PAH-HR/Shared%20Documents/Recruitment%20%26%20Selection/1.%20Position%20Descriptions?csf=1&web=1&e=hOrUsg)
+* [Job advertisement (templates)](https://camorgau.sharepoint.com/:f:/r/sites/PAH-HR/Shared%20Documents/Recruitment%20%26%20Selection/2.%20Advertisements?csf=1&web=1&e=HWt9Mh)
+* [Interview guides (template)](https://camorgau.sharepoint.com/:f:/r/sites/PAH-HR/Shared%20Documents/Recruitment%20%26%20Selection/3.%20Interview%20Guides?csf=1&web=1&e=7428nV)
+* [Offer documentation](https://camorgau.sharepoint.com/:f:/r/sites/PAH-HR/Shared%20Documents/Recruitment%20%26%20Selection/4.%20Offer%20Documentation?csf=1&web=1&e=qy2gJ8)
+
 ## Mandatory compliance requirements
 
 The Archdiocese has approved a number of HR-related policies that also apply to employees and volunteers. Parishes are requested to ensure employees and volunteers are familiar and comply with the following policies:
@@ -72,6 +81,8 @@ The Archdiocese has approved a number of HR-related policies that also apply to 
 * [National Police Record Check](https://camorgau.sharepoint.com/sites/PAH-HR/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FPAH%2DHR%2FShared%20Documents%2FHR%20Policies%2FPAH%5FPolice%5FCheck%2DPolicy%5F23%5F08%2Epdf&parent=%2Fsites%2FPAH%2DHR%2FShared%20Documents%2FHR%20Policies&p=true&ga=1)
 * [Privacy](https://camorgau.sharepoint.com/sites/PAH-HR/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FPAH%2DHR%2FShared%20Documents%2FHR%20Policies%2FPrivacy%20Policy%20%28Last%20updated%202018%29%2Epdf&parent=%2Fsites%2FPAH%2DHR%2FShared%20Documents%2FHR%20Policies&p=true&ga=1)
 * [Safeguarding Policy (and Resources)](https://melbournecatholic.org/safeguarding/safeguarding-framework-resources/safeguarding-children-and-young-people-policy)
+
+Additional HR related policies can be found [here](https://camorgau.sharepoint.com/:f:/r/sites/PAH-HR/Shared%20Documents/HR%20Policies?csf=1&web=1&e=ekw3t6).
 
 ## WorkCover
 
