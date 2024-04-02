@@ -190,7 +190,7 @@ While the permission of the Archbishop is not required, the **Lease application 
 
 No formal lease process should commence until the Property and Infrastructure Office has reviewed the proposal. Execution of lease agreements for parish tenancies is completed by the RCTC.
 
-The Archdiocese has published policy guidance in **Application and process for when a parish is a tenant or licensee** **(document link to come)** to assist parish priests and PFC advisers to understand the processes that govern the leasing and licensing of parish property.
+The Archdiocese has published policy guidance in **[Application and process for when a parish is a tenant or licensee](https://camorgau.sharepoint.com/:b:/r/sites/PAH-Property/Shared%20Documents/PAH_Lease%20and%20Licence%20of%20Property%20form%20where%20Parish%20as%20Tenant.pdf?csf=1&web=1&e=MNaXme)** to assist parish priests and PFC advisers to understand the processes that govern the leasing and licensing of parish property.
 
 ## Naming parish buildings
 
@@ -206,9 +206,9 @@ The word *columbarium* is derived from the Latin word for ‘dove’ (*columba
 
 It is a structure composed of many niches to permit the interment of the ashes of those who have been cremated.
 
-Sample **General conditions for a memorial garden and columbarium** **(document link to come)** have been made available by the Archdiocese, including an agreement for internment right template.
+Sample **[General conditions for a memorial garden and columbarium](https://camorgau.sharepoint.com/:b:/r/sites/PAH-Property/Shared%20Documents/PAH_Policy%20Docs_Cremated%20Remains_2012.pdf?csf=1&web=1&e=uGfeEd)** have been made available by the Archdiocese, including an agreement for internment right template.
 
-The Archdiocese has also published policy guidance in **Guidelines relating to the conservation of ashes in the case of cremation (document link to come)**, to assist parish priests and PFC advisers to:
+The Archdiocese has also published policy guidance in **[Guidelines relating to the conservation of ashes in the case of cremation](https://camorgau.sharepoint.com/:b:/r/sites/PAH-Property/Shared%20Documents/PAH_Policy%20Docs_Cremated%20Remains_2012.pdf?csf=1&web=1&e=uGfeEd)**, to assist parish priests and PFC advisers to:
 
 * understand the procedures to follow when establishing and maintaining columbariums
 * respond to requests from parishioners to lay to rest a deceased’s ashes.
