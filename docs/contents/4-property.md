@@ -71,7 +71,7 @@ The parish priest representing the parish (c. 532) must be the one to initiate t
 
 Time should be allowed for review and consultation by the Archbishop and his consultative bodies, namely the Archdiocesan Building and Property Commission, College of Consultors, Diocesan Finance Council and possibly Council of Priests.
 
-Refer to **[Purchase of property—prior approval request protocol](https://camorgau.sharepoint.com/:b:/r/sites/PAH-Property/Shared%20Documents/PAH_Application%20form%20for%20Sale%20of%20Parish%20Property.pdf?csf=1&web=1&e=dBOOiR)**.
+Refer to **[Purchase of property—prior approval request protocol](https://camorgau.sharepoint.com/:b:/r/sites/PAH-Property/Shared%20Documents/PAH_Application%20form%20for%20Purchase%20of%20Property.pdf?csf=1&web=1&e=XazZJf)**.
 
 ### Property transaction execution
 
@@ -79,15 +79,15 @@ Only the Trustees of the Roman Catholic Trusts Corporation for the Diocese of Me
 
 ## Alienation of parish goods valued at over the ACBC-prescribed minimum value
 
-The permission of the Archbishop is required before parish stable patrimony (property and fixed assets) whose *value* (not necessarily the sale price) exceeds the minimum amount listed in **Amounts for alienation of temporal goods** **(document link to come)** may be validly alienated—that is, transferred to another’s ownership. The opinion of the PFC must be relayed to the Archbishop when seeking his permission to alienate the goods. 
+The permission of the Archbishop is required before parish stable patrimony (property and fixed assets) whose *value* (not necessarily the sale price) exceeds the minimum amount listed in **[Amounts for alienation of temporal goods](https://camorgau.sharepoint.com/:b:/r/sites/PAH-Property/Shared%20Documents/PAH_Sale%20of%20Parish%20Property.pdf?csf=1&web=1&e=lc8dBQ)** may be validly alienated—that is, transferred to another’s ownership. The opinion of the PFC must be relayed to the Archbishop when seeking his permission to alienate the goods. 
 
-Refer to the **Application to the alienation of Church property guidelines and application form (document link to come)**.
+Refer to the **[Application to the alienation of Church property guidelines and application form](https://camorgau.sharepoint.com/:b:/r/sites/PAH-Property/Shared%20Documents/PAH_Application%20form%20for%20Sale%20of%20Parish%20Property.pdf?csf=1&web=1&e=egHFeF)**.
 
 ## Closure of a church
 
 Where the alienation of property involves the closure of a building that was previously used for Catholic worship, the Archdiocese has published guidelines for additional steps that are required for its conversion to a secular and appropriate use. These include formal consultation with parishioners, especially those affected by the closure. Further consultation should occur with parish bodies (pastoral council and PFC) and any interested parties who have a legitimate interest in the site (such as a land or building donor). The regional bishop or episcopal vicar is then to be consulted for a broader perspective in the region affected by the closure.
 
-Please refer to the **Application to the alienation of Church property guidelines and application form (document link to come)**.
+Please refer to the [**Application to the alienation of Church property guidelines and application form**.](https://camorgau.sharepoint.com/:b:/r/sites/PAH-Property/Shared%20Documents/PAH_Process%20for%20the%20Closure%20of%20a%20Church.pdf?csf=1&web=1&e=Ldj3a9)
 
 ## Capital works and building expenditure over $100,000
 
@@ -142,7 +142,7 @@ The leasing of parish property, including real property, requires that a contrac
 
 Good stewardship and administration principles are the basis for making sure that properly documented agreements are put in place for non-parish activities. This will contribute to improving communication and relationships between the parish and tenants or licensees, and will also reduce the risk of problems arising (which would be a significant drain on parish resources and also be of significant reputational risk to the parish).
 
-The Archdiocese has published a **Lease, license and hiring of parish property policy (document link to come)** to assist parish priests and PFC advisers to understand the processes that govern the leasing and licensing of parish properties.
+The Archdiocese has published a **[Lease, license and hiring of parish property policy](https://camorgau.sharepoint.com/:b:/r/sites/PAH-Property/Shared%20Documents/PAH_Lease%20and%20Licence%20of%20Parish%20Property.pdf?csf=1&web=1&e=YAvrpb)** to assist parish priests and PFC advisers to understand the processes that govern the leasing and licensing of parish properties.
 
 ### Leasing agreement execution
 
@@ -150,7 +150,7 @@ Subject to lease agreements being confirmed as ready for execution after the app
 
 ### Lease agreements requiring the Archbishop's approval
 
-In November 1984, the Australian Catholic Bishops Conference (ACBC) determined which leasing arrangements constitute extraordinary administration across the Catholic Church for diocesan and parish assets and therefore require special permissions. The **Lease, license and hiring of parish property policy** **(document link to come)** provides the full details, but in summary, the ACBC and the Archbishop require the following consultations and consents:
+In November 1984, the Australian Catholic Bishops Conference (ACBC) determined which leasing arrangements constitute extraordinary administration across the Catholic Church for diocesan and parish assets and therefore require special permissions. The **[Lease, license and hiring of parish property policy](https://camorgau.sharepoint.com/:b:/r/sites/PAH-Property/Shared%20Documents/PAH_Lease%20and%20Licence%20of%20Parish%20Property.pdf?csf=1&web=1&e=YAvrpb)** provides the full details, but in summary, the ACBC and the Archbishop require the following consultations and consents:
 
 | Lease period                                                  | Parish priest responsibilities                                                                                               | Requirements before Archbishop can give consent                                                                                                                   |
 | ------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -168,7 +168,7 @@ Properties that are used partially for income-producing purposes may incur a pro
 
 Vacant land not being used for a current pastoral purpose may also incur land tax and municipal rates.
 
-For further advice on the taxable status of land and on reporting obligations, please contact the Property and Infrastructure Office. The Archdiocese has published policy guidance in its **Guidelines for property rates and taxes (document link to come)**.
+For further advice on the taxable status of land and on reporting obligations, please contact the Property and Infrastructure Office. The Archdiocese has published policy guidance in its **[Guidelines for property rates and taxes](https://camorgau.sharepoint.com/:b:/r/sites/PAH-Property/Shared%20Documents/PAH_Tax%20Guidance%20and%20Definitions.pdf?csf=1&web=1&e=NYBJku).**
 
 ## Renting or hiring parish property
 
@@ -176,9 +176,9 @@ A hire agreement differs from lease and licence agreements in that it covers the
 
 Whenever parish property is used or hired by a third party, a formal agreement setting out the terms and conditions of the hire or use of the property or facilities must be completed and signed by the third party and the parish priest.
 
-The **Facilities hire agreement** **(document link to come)** is to be used for all parish facility hire arrangements and provides information and protections for both parties .
+The **[Facilities hire agreement](https://camorgau.sharepoint.com/:b:/r/sites/PAH-Property/Shared%20Documents/PAH_Facility%20Hire%20Agreement.pdf?csf=1&web=1&e=DVgesg)** is to be used for all parish facility hire arrangements and provides information and protections for both parties .
 
-The accompanying **Parish facilities hire guidelines** **(document link to come)** are to be complied with in relation to each and every user of parish property, whether the use is by a one-off user or a long-term user under agreed terms. The guidelines are designed to assist parish priests and parish workers with the administrative requirements for hiring parish facilities and deal with matters such as fees, bonds, insurance cover, permissible uses, work health and safety compliance, and conditions for use of the facility.
+The accompanying **[Parish facilities hire guidelines](https://camorgau.sharepoint.com/:b:/r/sites/PAH-Property/Shared%20Documents/PAH_Hire%20of%20Parish%20Property.pdf?csf=1&web=1&e=xYxxQF)** are to be complied with in relation to each and every user of parish property, whether the use is by a one-off user or a long-term user under agreed terms. The guidelines are designed to assist parish priests and parish workers with the administrative requirements for hiring parish facilities and deal with matters such as fees, bonds, insurance cover, permissible uses, work health and safety compliance, and conditions for use of the facility.
 
 ## When a parish is a tenant
 
@@ -186,7 +186,7 @@ There are occasions when a parish may require the short-term use of a building a
 
 Prior to entering into any agreement with another organisation, the parish priest must consult with the PFC and maintain a record of their awareness of the expenditure to be incurred due to the lease proposal.
 
-While the permission of the Archbishop is not required, the **Lease application form (lessee)** **(document link to come)** should be completed and forwarded to the Executive Director Stewardship through the Property and Infrastructure Office.
+While the permission of the Archbishop is not required, the **[Lease application form (lessee)](https://camorgau.sharepoint.com/:b:/r/sites/PAH-Property/Shared%20Documents/PAH_Application%20form%20for%20lease%20of%20Parish%20Property.pdf?csf=1&web=1&e=EV0txb)** should be completed and forwarded to the Executive Director Stewardship through the Property and Infrastructure Office.
 
 No formal lease process should commence until the Property and Infrastructure Office has reviewed the proposal. Execution of lease agreements for parish tenancies is completed by the RCTC.
 
