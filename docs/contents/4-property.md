@@ -55,7 +55,7 @@ A parish has a responsibility to exercise good stewardship in the use of its lan
 
 ### Consultation
 
-The parish priest is to consult with PFC members and the regional bishop before submitting proposals for buying, developing or selling land to the ABFC in accordance with guidelines issued. Refer to **Alienation or purchase of property guidelines (document link to come)**. The parish priest must relay the PFC’s and the regional bishop’s opinions with the proposal to the Archbishop. 
+The parish priest is to consult with PFC members and the regional bishop before submitting proposals for buying, developing or selling land to the ABFC in accordance with guidelines issued. Refer to **[Alienation or purchase of property guidelines](https://camorgau.sharepoint.com/:b:/r/sites/PAH-Property/Shared%20Documents/PAH_Purchase%20of%20Property.pdf?csf=1&web=1&e=4s1xZP)**. The parish priest must relay the PFC’s and the regional bishop’s opinions with the proposal to the Archbishop. 
 
 ### Parish analysis of the proposal
 
@@ -71,7 +71,7 @@ The parish priest representing the parish (c. 532) must be the one to initiate t
 
 Time should be allowed for review and consultation by the Archbishop and his consultative bodies, namely the Archdiocesan Building and Property Commission, College of Consultors, Diocesan Finance Council and possibly Council of Priests.
 
-Refer to **Purchase of property—prior approval request protocol** **(document link to come)**.
+Refer to **[Purchase of property—prior approval request protocol](https://camorgau.sharepoint.com/:b:/r/sites/PAH-Property/Shared%20Documents/PAH_Application%20form%20for%20Sale%20of%20Parish%20Property.pdf?csf=1&web=1&e=dBOOiR)**.
 
 ### Property transaction execution
 
