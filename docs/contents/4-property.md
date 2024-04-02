@@ -176,7 +176,7 @@ A hire agreement differs from lease and licence agreements in that it covers the
 
 Whenever parish property is used or hired by a third party, a formal agreement setting out the terms and conditions of the hire or use of the property or facilities must be completed and signed by the third party and the parish priest.
 
-The **[Facilities hire agreement](https://camorgau.sharepoint.com/:b:/r/sites/PAH-Property/Shared%20Documents/PAH_Facility%20Hire%20Agreement.pdf?csf=1&web=1&e=DVgesg)** is to be used for all parish facility hire arrangements and provides information and protections for both parties .
+The **[Facilities hire agreement](https://camorgau.sharepoint.com/:b:/r/sites/PAH-Property/Shared%20Documents/PAH_Facility%20Hire%20Agreement.pdf?csf=1&web=1&e=DVgesg)** is to be used for all parish facility hire arrangements and provides information and protections for both parties.
 
 The accompanying **[Parish facilities hire guidelines](https://camorgau.sharepoint.com/:b:/r/sites/PAH-Property/Shared%20Documents/PAH_Hire%20of%20Parish%20Property.pdf?csf=1&web=1&e=xYxxQF)** are to be complied with in relation to each and every user of parish property, whether the use is by a one-off user or a long-term user under agreed terms. The guidelines are designed to assist parish priests and parish workers with the administrative requirements for hiring parish facilities and deal with matters such as fees, bonds, insurance cover, permissible uses, work health and safety compliance, and conditions for use of the facility.
 
