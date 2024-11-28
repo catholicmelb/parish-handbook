@@ -82,7 +82,7 @@ The Archdiocese has approved a number of HR-related policies that also apply to 
 * Complaints and Grievances (refer to the HR Office for details)
 * [National Police Record Check](https://camorgau.sharepoint.com/sites/PAH-HR/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FPAH%2DHR%2FShared%20Documents%2FHR%20Policies%2FPAH%5FPolice%5FCheck%2DPolicy%5F23%5F08%2Epdf&parent=%2Fsites%2FPAH%2DHR%2FShared%20Documents%2FHR%20Policies&p=true&ga=1)
 * [Privacy](https://camorgau.sharepoint.com/sites/PAH-HR/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FPAH%2DHR%2FShared%20Documents%2FHR%20Policies%2FPrivacy%20Policy%20%28Last%20updated%202018%29%2Epdf&parent=%2Fsites%2FPAH%2DHR%2FShared%20Documents%2FHR%20Policies&p=true&ga=1)
-* [Safeguarding Policy (and Resources)](https://melbournecatholic.org/safeguarding/safeguarding-framework-resources/safeguarding-children-and-young-people-policy)
+* [Safeguarding Policy (and Resources)](https://melbournecatholic.org/safeguarding/parish-safeguarding-resources/policies-procedures)
 
 Additional HR related policies can be found [here](https://camorgau.sharepoint.com/:f:/r/sites/PAH-HR/Shared%20Documents/HR%20Policies?csf=1&web=1&e=ekw3t6).
 
@@ -100,7 +100,7 @@ Volunteers provide an invaluable service and play an important role in our organ
 
 ### Volunteer arrangements
 
-A volunteer is someone who provides services without receiving payment or any benefit in return. They are under no legal obligation to perform any work, and both the parish and the volunteer are entitled to cease the arrangement at any time.
+A volunteer is any person engaged by, or part of, CAM or a parish agency or entity, who provides services without remuneration or reward, regardless of whether their role relates directly to children and/or young people. They are under no legal obligation to perform any work, and both the parish and the volunteer are entitled to cease the arrangement at any time.
 
 Church volunteers represent CAM and hold a position of trust in our communities. CAM acknowledges that children, young people, families and communities often hold Church volunteers in high regard, and therefore there is a need to ensure that all volunteers have been appropriately screened and trained in safeguarding, irrespective of whether their role involves direct, indirect or no contact with children and young people.
 
