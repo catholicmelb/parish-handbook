@@ -292,12 +292,12 @@ Parishes should maintain up-to-date credentials on the ATO portal and access to
 
 Priests must return a copy of the following documents to the Safeguarding Unit prior to the commencement of their appointment:
 
-* Valid Working with Children Check (WWCC) card (renewed every 5 years)
+* Valid employee Working with Children (WWC) check card (renewed every 5 years)
 * National Police Check certificate (renewed every 3 years)
 * Annual acknowledgement of the expectations and responsibilities outlined in the Safeguarding Children and Young People Code of Conduct.
 * Successful completion of the Catholic Archdiocese of Melbourne’s *[Safeguarding Essentials](https://safeguarding.melbournecatholic.org/s/login/?ec=302&startURL=%2Fs%2F)* online training module annually.
 
-The Victorian Working with Children Check (WWCC) protocol requires that the Safeguarding Unit has copies of all priests’ current WWCC cards on file. Priests need to update their WWCC profile online to ensure the Archdiocese is listed as one of the organisations for which each priest conducts work. This will ensure that the Safeguarding Unit receives a copy of each priest’s card directly from the Department of Justice.
+The Victorian Working with Children (WCC) Check protocol requires that the Safeguarding Unit has copies of all priests’ current WWC check cards on file. Priests need to update their WWC check profile online to ensure the Archdiocese is listed as one of the organisations for which each priest conducts work. This will ensure that the Safeguarding Unit receives a copy of each priest’s card directly from the Department of Justice.
 
 To list the Archdiocese, [log in to the Service Victoria website](https://service.vic.gov.au/find-services/work-and-volunteering/working-with-children-check/update-your-working-with-children-check-details).
 
@@ -306,11 +306,11 @@ Please add the address:
 Catholic Archdiocese of Melbourne\
 Safeguarding Unit\
 PO Box 146, East Melbourne VIC 8002\
-Phone: (03) 9926 5630
+Phone: (03) 9926 5621
 
-Priests moving to Victoria will need to apply for a Victorian WWCC card. Applications can be made through the [Service Victoria website](https://service.vic.gov.au/services/working-with-children)[](http://www.workingwithchildren.vic.gov.au/home/applications/apply+for+a+check/).
+Priests moving to Victoria will need to apply for a Victorian WWC check card. Applications can be made through the [Service Victoria website](https://service.vic.gov.au/services/working-with-children)[](http://www.workingwithchildren.vic.gov.au/home/applications/apply+for+a+check/).
 
-*Please note* that no public ministry can be conducted prior to the WWCC application being lodged.
+*Please note* that no public ministry can be conducted prior to the WWC check application being lodged.
 
 ### National Police Check certificate
 
@@ -513,8 +513,8 @@ This assists parishioners to become more aware of their responsibility to suppor
 
 The parish priest, as head of entity, in collaboration with the safeguarding committee, is responsible for: 
 
-* monitoring ongoing compliance with the CAM Safeguarding Children and Young People Framework, which encompasses the requirements of the Victorian Child Safe Standards
-* preparing a summary of the parish’s compliance with the requirements of the Safeguarding Children and Young People Framework on an annual basis (through a self-assessment or audit process) and presenting it to the Archdiocese’s Safeguarding Unit. 
+* monitoring ongoing compliance with the Archdiocesan Safeguarding Children and Young People Framework, which encompasses the requirements of the Victorian Child Safe Standards
+* preparing a summary of the parish’s compliance with the requirements of the Safeguarding Children and Young People Framework on an annual basis (through the Safeguarding Self-Assessment Tool) and presenting it to the Archdiocese’s Safeguarding Unit. 
 
 ## Parish registers
 
@@ -524,13 +524,13 @@ The faithful have a right to expect accurate and well-preserved sacramental reco
 
 The Archdiocese has prepared [Pastoral guidelines for the maintenance of parish registers](https://camorgau.sharepoint.com/sites/PAH-VG/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FPAH%2DVG%2FShared%20Documents%2FPAH%5Fpastoral%5Fguidelines%5Ffor%5Fmaintenance%5Fof%5Fparish%5Fregisters%5F23%5F08%2Epdf&parent=%2Fsites%2FPAH%2DVG%2FShared%20Documents&p=true&ga=1). 
 
-### Working with Children Check (WWCC) Register
+### Working with Children (WWC) check register
 
-All clergy, employees and volunteers over the age of 18 are required to maintain a current WWCC throughout their involvement in parishes, agencies and entities.
+All clergy, employees and volunteers over the age of 18 are required to maintain a current WWC check throughout their involvement in parishes, agencies and entities.
 
-Archdiocesan parishes, agencies and entities must maintain a register of all WWCCs and ensure that WWCCs for clergy, employees and volunteers are appropriate to their situation (e.g. volunteer or paid employment), current and linked to the parish, agency or entity (i.e. the person has registered their involvement with the parish).
+Archdiocesan parishes, agencies and entities must maintain a register of all WWC checks and ensure that WWC checks for clergy, employees and volunteers are appropriate to their situation (e.g. volunteer or paid employment), current and linked to the parish, agency or entity (i.e. the person has registered their involvement with the parish).
 
-Further information on the Safeguarding Unit WWCC register requirements can be found at [Safeguarding Unit WWCC register requirements](https://camorgau.sharepoint.com/sites/PAH-Safeguarding/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FPAH%2DSafeguarding%2FShared%20Documents%2FPAH%5FWorking%5Fwith%5FChildren%5FCheck%5Frequirements%5F23%5F08%2Epdf&parent=%2Fsites%2FPAH%2DSafeguarding%2FShared%20Documents&p=true&ga=1).
+Further information on the Safeguarding Unit WWC check register requirements can be found at [Safeguarding Unit WWC check register requirements](https://camorgau.sharepoint.com/sites/PAH-Safeguarding/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FPAH%2DSafeguarding%2FShared%20Documents%2FPAH%5FWorking%5Fwith%5FChildren%5FCheck%5Frequirements%5F23%5F08%2Epdf&parent=%2Fsites%2FPAH%2DSafeguarding%2FShared%20Documents&p=true&ga=1).
 
 ## Parish sporting clubs and hosted associations
 
