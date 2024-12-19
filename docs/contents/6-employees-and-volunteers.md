@@ -107,20 +107,35 @@ Church volunteers represent CAM and hold a position of trust in our communities.
 All volunteers are required to: 
 
 * complete pre-employment checks including:
-* National Police Check Certificate (renewed every three years)
-* acknowledgement of the expectations and responsibilities outlined in the Safeguarding Children and Young People Code of Conduct (renewed every three years)
 
-In addition to this, volunteers are required to successfully complete the Catholic Archdiocese of Melbourne’s *[Safeguarding Essentials](https://safeguarding.melbournecatholic.org/s/login/?ec=302&startURL=%2Fs%2F)* online training module every three years.
+  * Working with Children (WWC) check clearance (renewed every three years)
+  * acknowledgement of the expectations and responsibilities outlined in the Safeguarding Children and Young People Code of Conduct (renewed every three years)
+* successfully complete the Catholic Archdiocese of Melbourne’s *[Safeguarding Essentials](https://safeguarding.melbournecatholic.org/s/login/?ec=302&startURL=%2Fs%2F)* online training module every three years
+* undertake a National Police Check (Police Record Check) if required, based on their role. Further information regarding roles that require a Police Record Check can be found within the [National Police Check (Police Record Check) Information Sheet](https://camorgau.sharepoint.com/sites/PAH-Safeguarding/Shared%20Documents/Forms/AllItems.aspx?ga=1&id=%2Fsites%2FPAH%2DSafeguarding%2FShared%20Documents%2FSelf%20Assessment%20Tool%20%26%20Capability%20Areas%201%2D4%2FSAT%203%20Right%20people%2C%20right%20role%2C%20right%20knowledge%2FINFO%20SHEET%20National%20Police%20Check%20%28Police%20Record%20Check%29%20v2%2E0%2Epdf&parent=%2Fsites%2FPAH%2DSafeguarding%2FShared%20Documents%2FSelf%20Assessment%20Tool%20%26%20Capability%20Areas%201%2D4%2FSAT%203%20Right%20people%2C%20right%20role%2C%20right%20knowledge).
 
-The process of selecting volunteers is essentially the same as recruiting employees, in that there should be clarity in identifying the task to be performed, interviewing potential volunteers, conducting reference and police checks, and providing a letter of offer to perform work as a volunteer. A [sample engagement letter to volunteers](https://camorgau.sharepoint.com/:w:/s/PAH-HR/EbW8cVjMiTFCsutbG69ZBzQBzgq-5i0gj-PmTOKbS_b13A?e=aNGzVK) is provided.
+The process of selecting volunteers is essentially the same as recruiting employees, in that there should be clarity in identifying the task to be performed, interviewing potential volunteers, conducting reference and police checks, and providing a letter of offer to perform work as a volunteer. Please refer to the [Church Personnel Safeguarding Guidelines](https://camorgau.sharepoint.com/sites/PAH-Safeguarding/Shared%20Documents/Forms/AllItems.aspx?ga=1&id=%2Fsites%2FPAH%2DSafeguarding%2FShared%20Documents%2FSelf%20Assessment%20Tool%20%26%20Capability%20Areas%201%2D4%2FSAT%203%20Right%20people%2C%20right%20role%2C%20right%20knowledge%2FChurch%20Personnel%20Safeguarding%20Guidelines%20v2%2E0%2Epdf&parent=%2Fsites%2FPAH%2DSafeguarding%2FShared%20Documents%2FSelf%20Assessment%20Tool%20%26%20Capability%20Areas%201%2D4%2FSAT%203%20Right%20people%2C%20right%20role%2C%20right%20knowledge) for more information.
 
-Safeguarding standards relating to child safety and WWC requirements apply as much to volunteers as they do to clergy and employees.
+As the parish may be responsible for injuries that occur to volunteers in the course of their duties, it is prudent to keep a record of volunteer attendance for insurance purposes. The Archdiocese holds a separate master policy for voluntary workers’ insurance and public liability. 
 
-As the parish may be responsible for injuries that occur to volunteers in the course of their duties, it is prudent to keep a record of volunteer attendance for insurance purposes. The Archdiocese holds a separate master policy for voluntary workers’ insurance and public liability. 
+Induction and training should be provided to volunteers in relation to their respective roles, and they should be aware of and understand the parish’s policy on health and safety. 
 
-Induction and training should be provided to volunteers in relation to their respective roles, and they should be aware of and understand the parish’s policy on health and safety.
+While volunteers can be reimbursed for out-of-pocket expenses and given small gifts in appreciation of their services, providing benefits or payments may change their status to that of an employee. For this reason, the use of honorariums should be avoided. Providing adequate recognition and encouragement of the efforts of volunteers is important as it can both provide motivation and assure volunteers that their efforts are valued and appreciated.
 
-While volunteers can be reimbursed for out-of-pocket expenses and given small gifts in appreciation of their services, providing benefits or payments may change their status to that of an employee. For this reason, the use of honorariums should be avoided. Providing adequate recognition and encouragement of the efforts of volunteers is important as it can bothprovide motivation and assure volunteers that their efforts are valued and appreciated.
+### Volunteer position descriptions 
+
+Position descriptions outline the key duties and responsibilities of a role and provide an opportunity to communicate expectations about child safety. 
+
+Position descriptions provide clarity and direction, and help to ensure that a person is working to meet the objectives of their role and working within defined boundaries. 
+
+Position descriptions also form the basis for identifying appropriate and inappropriate behaviour and are useful in managing the behaviour and performance of employees and volunteers. 
+
+A range of volunteer position descriptions can be found [here](https://camorgau.sharepoint.com/sites/PAH-HR/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FPAH%2DHR%2FShared%20Documents%2FVolunteer%20Position%20Descriptions&viewid=785bea56%2Df090%2D4fe8%2Da7ca%2D1e7727a683bc). 
+
+**Please note**, when using these position description templates, that the *activity statement* is an attachment to the *volunteer overview*, and both documents must be provided to the volunteer. These two documents combined form the volunteer position description. 
+
+The *volunteer overview* provides standard information for all volunteer positions and addresses expectations in relation to attributes and skills, conditions of volunteering, confidentiality and privacy, and codes of conduct. 
+
+The *activity statement* is a template that describes the specific tasks and duties of a particular volunteer position and can be customised by each parish to suit its context.
 
 ## Record-keeping
 
