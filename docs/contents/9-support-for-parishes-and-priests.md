@@ -63,6 +63,10 @@ The Archdiocese’s Development and Philanthropy Office (DPO) was formed to enha
 
 For further information on the above programs and for any other fundraising enquiries, please contact the Philanthropy and Development Office on (03) 9926 5771 or via email at [archbishopsfund@cam.org.au](mailto:archbishopsfund@cam.org.au).
 
+### **The Archbishop’s Campaign**
+
+The Archbishop’s Campaign is an annual campaign that takes place in parishes over three weekends in August. The Archbishop’s Campaign raises money for the tax-deductible Archbishop’s Charitable Fund and the non-tax-deductible Religious Projects Fund. Monies raised for the Archbishop’s Charitable Fund are distributed to the Priest’s Retirement Foundation, Corpus Christi Building Fund, University of Divinity Building Fund, Melbourne Overseas Mission, John Pierce Centre and, through an annual grants program, other Catholic social and community agencies. Monies raised for the Religious Projects Fund support seminarian education and evangelisation initiatives of the Archdiocese. The Archbishop’s Campaign first ran in 2024 and incorporated what were previously separate Sunday special collections in order to streamline fundraising efforts in parishes. 
+
 ## Priests Retirement Foundation
 
 The Priests Retirement Foundation (the Foundation) was established in 1990 and contributes to the ongoing care of retired priests across the Archdiocese of Melbourne. This includes, but is not limited to, the provision of suitable accommodation, health care and medical out-of-pocket expenses.
