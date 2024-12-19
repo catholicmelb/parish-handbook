@@ -104,9 +104,9 @@ A volunteer is any person engaged by, or part of, CAM or a parish agency or enti
 
 Church volunteers represent CAM and hold a position of trust in our communities. CAM acknowledges that children, young people, families and communities often hold Church volunteers in high regard, and therefore there is a need to ensure that all volunteers have been appropriately screened and trained in safeguarding, irrespective of whether their role involves direct, indirect or no contact with children and young people.
 
-All volunteers are required to complete pre-employment checks including:
+All volunteers are required to: 
 
-* Working with Children Check (WWCC) card (renewed every five years)
+* complete pre-employment checks including:
 * National Police Check Certificate (renewed every three years)
 * acknowledgement of the expectations and responsibilities outlined in the Safeguarding Children and Young People Code of Conduct (renewed every three years)
 
