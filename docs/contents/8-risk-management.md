@@ -47,21 +47,23 @@ Property-maintenance advice is available from the Archdiocese’s Property and I
 
 ## <span id="#safeguarding-protections">Safeguarding protections</span>
 
-Parish priests must adopt the safeguarding framework put in place by the Archdiocese and must encourage the nomination of a Safeguarding Committee in their parish.
+Parish priests must adopt the Safeguarding Children and Young People Framework put in place by the Archdiocese and must encourage the nomination of a Safeguarding Committee in their parish.
 
-Parish ministries providing services to or offering activities involving the participation of children must adhere to the safeguarding directives.
+Parish ministries providing services to, or offering activities involving the participation of, children must adhere to the safeguarding directives.
 
-The parish’s  overarching responsibilities in relation to safeguarding are to:
+The parish’s overarching responsibilities in relation to safeguarding are to:
 
-* implement, maintain and/or review child safety processes and procedures to support the wellbeing and safety of children and young people, with input from relevant stakeholders (e.g. priest, parish administration, parents, children, young people, program leaders, pastoral associates)
+* implement, maintain and/or review child safety processes and procedures to support the wellbeing and safety of children and young people, with input from relevant stakeholders (e.g. priest, parish administration, parents/carers, children, young people, program leaders, pastoral associates)
 * engage in and/or review risk-management processes to promote the safe participation of children and young people in programs, activities and events
-* implement risk-management strategies for people of concern.
+* implement risk-management strategies for people of concern
+* promote and model a culture of child safety at all times
+* ensure compliance with the Safeguarding and Wellbeing of Children and Young People Policy and relevant procedures and practices within the parish to protect children and young people from child abuse and harm.
 
-Parish leaders, employees, volunteers and others in contact with children should be trained in the Archdiocese’s policies and procedures on how to promote a safe environment for children.
+Parish leaders, employees, volunteers and others in contact with children should be trained in the Archdiocese’s policies and procedures on how to promote a safe environment for children and young people.
 
 The parish priest must appoint a parish Safeguarding Committee, who will work with the parish administration team to ensure the Working with Children Check (WWCC) register for the parish is accurately maintained at all times.
 
-Further information on the Safeguarding Unit’s WWCC register requirements can be found at [Safeguarding Unit WWCC register requirements](https://melbournecatholic.org/uploads/documents/Working-with-Children-Check.pdf).
+Further information about the WWC check requirements can be found in the [Working with Children Check Protocol](https://camorgau.sharepoint.com/sites/PAH-Safeguarding/Shared%20Documents/Forms/AllItems.aspx?ga=1&id=%2Fsites%2FPAH%2DSafeguarding%2FShared%20Documents%2FSelf%20Assessment%20Tool%20%26%20Capability%20Areas%201%2D4%2FSAT%203%20Right%20people%2C%20right%20role%2C%20right%20knowledge%2FWorking%20with%20Children%20Check%20Protocol%20v2%2E0%2Epdf&parent=%2Fsites%2FPAH%2DSafeguarding%2FShared%20Documents%2FSelf%20Assessment%20Tool%20%26%20Capability%20Areas%201%2D4%2FSAT%203%20Right%20people%2C%20right%20role%2C%20right%20knowledge).
 
 ## Fraud prevention
 
