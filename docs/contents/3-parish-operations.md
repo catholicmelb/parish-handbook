@@ -284,9 +284,53 @@ This information must be provided to the ACNC within 28 days of the appointment 
 
 ### ATO/ABR—notification of change of parish priest or administrator.
 
-Upon a change of parish priest, the Parish Support Office will coordinate with the Vicar General’s Office to notify the ATO of the parish’s authorised contact person. 
+Upon a change of parish priest, the Parish Support Office will coordinate with the Vicar General’s Office to notify the ATO of the parish’s authorised contact person. This should be done within 28 days of being appointed parish priest.
 
 Parishes should maintain up-to-date credentials on the ATO portal and access to the ATO’s Authorisation Manager portal at [www.authorisationmanager.gov.au](http://www.authorisationmanager.gov.au/). Address, email and bank account details can be updated through the portal.
+
+For parishes that do not have access to the ATO portal, the record can be updated by completing the [Change of Registration Details form](<https://www.ato.gov.au/api/public/content/29fd1a6016a5485f97f03be4ea6c39f4>). 
+
+#### Completing Change of Registration Details form to change public officer details 
+
+* **Section A:** Complete parts 1, 2 (branch number if applicable), 3 and 4. In the unlikely event that a parish has a GST or PAYG branch, leave blank. 
+* **Section B:** Select *No*. 
+* **Section C:** Select *No*. 
+* **Section D:** Select *No* .
+* **Section C:** It is a good idea for the parish secretary to add him-or herself as a contact person for the parish. Select *Yes* if you want to be a contact person. 
+* **Section F:** Select *Yes*:
+
+  * **Item 16:** Select *Yes* and *Public Officer* and complete all the fields.
+  * **Item 17:** Select *No*. 
+  * **Item 18:** The parish may choose to add an additional associate in the role of officer bearer of a club/association. If that is the case, select *Yes*; otherwise, select *No*. 
+* **Section G:** Select *No*. 
+* **Section H:** The nominated public officer’s details are included here. The position held is *Public Officer*. The nominated public officer needs to sign this document. 
+
+#### Lodging Change of Registration Details form 
+
+The Change of Registration form needs to be lodged along with:
+
+* the [Nomination as Principal authority and Public Officer form](https://camorgau.sharepoint.com/:w:/s/ParishSupport/EWWJshkM81pIuiGgliMXfMIB4tkahw-00I9zN53Vj0tzdA?e=9GcJB4&xsdata=MDV8MDJ8THVjeS5EYXZpc29uQGNhbS5vcmcuYXV8N2NiMGE4MDg2ZDhjNDBjMTU4YjYwOGRkNDBlNzMxZDB8NDhlZTIwYzdjOGVhNDIzYzhiMjhmMTk4MDFlMzQxOTN8MHwwfDYzODczODA4Mzk0NjQ4NDg1NnxVbmtub3dufFRXRnBiR1pzYjNkOGV5SkZiWEIwZVUxaGNHa2lPblJ5ZFdVc0lsWWlPaUl3TGpBdU1EQXdNQ0lzSWxBaU9pSlhhVzR6TWlJc0lrRk9Jam9pVFdGcGJDSXNJbGRVSWpveWZRPT18MHx8fA%3d%3d&sdata=Q1IrQi9wblRkRk1menpFbkZpdEthdlA1OEN5RlNLbGpEVDYrZ3RGYUlkWT0%3d). This is completed by the parish priest. 
+* meeting minutes recording the nomination being accepted by the finance committee. A meeting minutes template can be found [here](https://camorgau.sharepoint.com/:w:/s/ParishSupport/EQYIi5la4TtAr4kZXHu_D_EBKGCOnl1oqj3wQ6wSge-QIA?e=Kc9TaA&xsdata=MDV8MDJ8THVjeS5EYXZpc29uQGNhbS5vcmcuYXV8N2NiMGE4MDg2ZDhjNDBjMTU4YjYwOGRkNDBlNzMxZDB8NDhlZTIwYzdjOGVhNDIzYzhiMjhmMTk4MDFlMzQxOTN8MHwwfDYzODczODA4Mzk0NjQ5NTE2MnxVbmtub3dufFRXRnBiR1pzYjNkOGV5SkZiWEIwZVUxaGNHa2lPblJ5ZFdVc0lsWWlPaUl3TGpBdU1EQXdNQ0lzSWxBaU9pSlhhVzR6TWlJc0lrRk9Jam9pVFdGcGJDSXNJbGRVSWpveWZRPT18MHx8fA%3d%3d&sdata=a2llSytmQnY0Wkc4N1RaR2VFMFpqb1FrdkY3NHc5bWdXZjB2MC9CZ3U5OD0%3d). This must be on parish letterhead.
+
+Certified copies of the minutes and nomination form need to be attached to the change of registration form.
+
+To certify the minutes and nomination form:
+
+* take photocopies of the original minutes and nomination form. The parish retains the original minutes and nomination form
+* have the minutes and nomination form certified by a parish priest who is certified to celebrate marriage. To avoid a conflict of interest, the documents must be certified by a priest from another parish
+* ensure that the approved certifier certifies that each copy of an original document is true and correct by: 
+
+  * physically sighting the original document and the copies of the front and back at the same time 
+  * signing and annotating the copy of the document with wording similar to ‘I have sighted the original document and certify this to be a true and correct copy of the original document sighted’
+  * providing the following details: full name, telephone number, qualification (‘minister of religion certified to celebrate marriage’), registration number if relevant (in this instance, it is not), date of certification. 
+
+To lodge the paperwork, make a copy of all the documents for your own records before sending the Change of Registration Details form—along with certified copies of the minutes and nomination form—to: 
+
+Australian Taxation Office \
+PO Box 3373 \
+Penrith NSW 2740 
+
+If you have any questions regarding this process, please direct enquiries to [parish.finance@cam.org.au](http://parish.finance@cam.org.au/), or to Stephen Steward at 0417 718 496, or Colin D’Rosario at 0429 052 374. 
 
 ### Requirements from the Safeguarding Unit
 
