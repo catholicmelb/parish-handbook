@@ -128,7 +128,7 @@ Contact email: [archbishop@cam.org.au](mailto:archbishop@cam.org.au)
 
 ## Office of the Vicar General
 
-The Office of the Vicar General provides administrative support to the Vicar General of the Catholic Archdiocese of Melbourne, the Very Rev Joseph Caddy AM.
+The Office of the Vicar General provides administrative support to the Vicar General of the Catholic Archdiocese of Melbourne, the Very Rev Tony Kerin JCL VG.
 
 The role of the Vicar General is to assist the Archbishop and bishops in the governance of the Archdiocese. One of the important areas of responsibility is to oversee parish renewal and transformation through *Take the Way of the Gospel.*
 
@@ -155,10 +155,10 @@ Among the VG Office’s particular areas of focus are:
 ### Contacts
 
 Anthony Moate\
-Senior Operating Officer
+Senior Operating Officer, Office of the Vicar General
 
 Monique Gristwood\
-Personal Assistant to the Vicar General
+Executive Assistant, Office of the Vicar General
 
 Phone: 03 9926 5638\
 Contact email: [vicar.general@cam.org.au](mailto:vicar.general@cam.org.au)
@@ -223,8 +223,8 @@ The Coordinator Ongoing Formation of Clergy works to develop and oversee all for
 Fr Thinh Nguyen\
 Coordinator of Clergy Life and Ministry
 
-Trish Roseman\
-Head of Office
+Susanah Tan\
+Executive Assistant
 
 Cardinal Knox Centre\
 383 Albert Street, East Melbourne VIC 3002\
