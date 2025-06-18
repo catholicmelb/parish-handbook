@@ -272,6 +272,10 @@ The Archdiocese and the TWG Advisory and Reference Group are collaborating on th
 
 ## Change-over of parish priests
 
+Before the proposed changeover date, the leaving parish priest must meet with the incoming parish priest to share information about the parish and inform the incoming parish priest of all that has happened in the tenure of the leaving parish priest, to ensure the incoming parish priest has the necessary knowledge and understanding of the parish.
+
+Before leaving the parish, the parish priest is required to attend to each item listed in the checklist [Changeover of Parish Priest Checklist](https://camorgau.sharepoint.com/sites/OfficeofEDS/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FOfficeofEDS%2FShared%20Documents%2FRisk%20%26%20Governance%2FPolicy%20Register%2FFinalised%20Documents%20%28Non%2DPolicies%29%2FChangeover%20of%20Parish%20Priest%20Checklist%2020250602%2Epdf&parent=%2Fsites%2FOfficeofEDS%2FShared%20Documents%2FRisk%20%26%20Governance%2FPolicy%20Register%2FFinalised%20Documents%20%28Non%2DPolicies%29&p=true&ga=1) to ensure a smooth changeover with the incoming parish priest.
+
 The following administrative arrangements have been advised by the Vicar General’s Office:
 
 ### ACNC—notification of change of parish priest or administrator
@@ -288,7 +292,7 @@ Upon a change of parish priest, the Parish Support Office will coordinate with t
 
 Parishes should maintain up-to-date credentials on the ATO portal and access to the ATO’s Authorisation Manager portal at [www.authorisationmanager.gov.au](http://www.authorisationmanager.gov.au/). Address, email and bank account details can be updated through the portal.
 
-For parishes that do not have access to the ATO portal, the record can be updated by completing the [Change of Registration Details form](<https://www.ato.gov.au/api/public/content/29fd1a6016a5485f97f03be4ea6c39f4>). 
+For parishes that do not have access to the ATO portal, the record can be updated by completing the [Change of Registration Details form](https://www.ato.gov.au/api/public/content/29fd1a6016a5485f97f03be4ea6c39f4). 
 
 #### Completing Change of Registration Details form to change public officer details 
 
