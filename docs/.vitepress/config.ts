@@ -19,6 +19,14 @@ export default defineConfig({
     ],
     [
       'script',
+      {
+        defer: '',
+        'data-domain': 'handbook.melbournecatholic.org',
+        src: 'https://analytics.leightonhughes.co.nz/js/script.js',
+      },
+    ],
+    [
+      'script',
       {},
       "window.dataLayer = window.dataLayer || [];\nfunction gtag(){dataLayer.push(arguments);}\ngtag('js', new Date());\ngtag('config', 'G-7ND32MWZ66');",
     ],
