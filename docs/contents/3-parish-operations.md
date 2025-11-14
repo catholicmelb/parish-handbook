@@ -286,7 +286,7 @@ This can be done by a parish employee (under the authority of the parish priest)
 
 This information must be provided to the ACNC within 28 days of the appointment if the parish’s income exceeds $250,000 per annum, or otherwise within 60 days of the appointment.
 
-### ATO/ABR—notification of change of parish priest or administrator.
+### ATO/ABR—notification of change of parish priest or administrator
 
 Upon a change of parish priest, the Parish Support Office will coordinate with the Vicar General’s Office to notify the ATO of the parish’s authorised contact person. This should be done within 28 days of being appointed parish priest.
 
@@ -340,12 +340,12 @@ If you have any questions regarding this process, please direct enquiries to [p
 
 Priests must return a copy of the following documents to the Safeguarding Unit prior to the commencement of their appointment:
 
-* Valid employee Working with Children (WWC) check card (renewed every 5 years)
+* Valid employee Working with Children (WWC) check (renewed every 5 years)
 * National Police Check certificate (renewed every 3 years)
-* Annual acknowledgement of the expectations and responsibilities outlined in the Safeguarding Children and Young People Code of Conduct.
+* Annual written acknowledgement of the expectations and responsibilities outlined in the Safeguarding Children and Young People Code of Conduct.
 * Successful completion of the Catholic Archdiocese of Melbourne’s *[Safeguarding Essentials](https://safeguarding.melbournecatholic.org/s/login/?ec=302&startURL=%2Fs%2F)* online training module annually.
 
-The Victorian Working with Children (WCC) Check protocol requires that the Safeguarding Unit has copies of all priests’ current WWC check cards on file. Priests need to update their WWC check profile online to ensure the Archdiocese is listed as one of the organisations for which each priest conducts work. This will ensure that the Safeguarding Unit receives a copy of each priest’s card directly from the Department of Justice.
+The Victorian Working with Children (WWC) Check protocol requires that the Safeguarding Unit has copies of all priests’ current WWC checks on file. Priests need to update their WWC check profile online to ensure the Archdiocese is listed as one of the organisations for which each priest conducts work. This will ensure that the Safeguarding Unit receives a copy of each priest’s card directly from the Department of Justice.
 
 To list the Archdiocese, [log in to the Service Victoria website](https://service.vic.gov.au/find-services/work-and-volunteering/working-with-children-check/update-your-working-with-children-check-details).
 
@@ -356,11 +356,11 @@ Safeguarding Unit\
 PO Box 146, East Melbourne VIC 8002\
 Phone: (03) 9926 5621
 
-Priests moving to Victoria will need to apply for a Victorian WWC check card. Applications can be made through the [Service Victoria website](https://service.vic.gov.au/services/working-with-children)[](http://www.workingwithchildren.vic.gov.au/home/applications/apply+for+a+check/).
+Priests moving to Victoria will need to apply for a Victorian WWC check. Applications can be made through the [Service Victoria website](https://service.vic.gov.au/services/working-with-children)[](http://www.workingwithchildren.vic.gov.au/home/applications/apply+for+a+check/).
 
 *Please note* that no public ministry can be conducted prior to the WWC check application being lodged.
 
-### National Police Check certificate
+#### National Police Check certificate
 
 In addition, it is the policy of the Archdiocese of Melbourne that all clergy obtain a National Police Check certificate on initial and every subsequent appointment and reappointment. Fast and easy applications can be made online through the [Australia Post website](https://auspost.com.au/police-checks?&ecid=p11147695884). Once the certificate has been obtained, please forward a copy to the Safeguarding Unit, who will confirm receipt with the parish priest.
 
@@ -368,7 +368,7 @@ Contact details for the Safeguarding Unit:
 
 Email: [safeguardingunit@cam.org.au](mailto:safeguardingunit@cam.org.au)\
 PO Box 146, East Melbourne VIC 8002\
-Phone: (03) 9926 5630
+Phone: (03) 9926 5621
 
 ### Inventory
 
@@ -578,7 +578,7 @@ All clergy, employees and volunteers over the age of 18 are required to maintain
 
 Archdiocesan parishes, agencies and entities must maintain a register of all WWC checks and ensure that WWC checks for clergy, employees and volunteers are appropriate to their situation (e.g. volunteer or paid employment), current and linked to the parish, agency or entity (i.e. the person has registered their involvement with the parish).
 
-Further information on the Safeguarding Unit WWC check register requirements can be found at [Safeguarding Unit WWC check register requirements](https://camorgau.sharepoint.com/sites/PAH-Safeguarding/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FPAH%2DSafeguarding%2FShared%20Documents%2FPAH%5FWorking%5Fwith%5FChildren%5FCheck%5Frequirements%5F23%5F08%2Epdf&parent=%2Fsites%2FPAH%2DSafeguarding%2FShared%20Documents&p=true&ga=1).
+Further information on the Safeguarding Unit WWC check register requirements can be found in the [Working with Children Check Protocol](https://camorgau.sharepoint.com/sites/PAH-Safeguarding/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FPAH%2DSafeguarding%2FShared%20Documents%2FSelf%20Assessment%20Tool%20%26%20Capability%20Areas%201%2D4%2FSAT%203%20Right%20people%2C%20right%20role%2C%20right%20knowledge%2FWorking%20with%20Children%20Check%20Protocol%20v2%2E0%2Epdf&parent=%2Fsites%2FPAH%2DSafeguarding%2FShared%20Documents%2FSelf%20Assessment%20Tool%20%26%20Capability%20Areas%201%2D4%2FSAT%203%20Right%20people%2C%20right%20role%2C%20right%20knowledge).
 
 ## Parish sporting clubs and hosted associations
 
