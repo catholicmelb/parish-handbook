@@ -283,7 +283,7 @@ The Archdiocese acknowledges that safeguarding children, young people and adults
 
 In fulfilling this responsibility, the *[Safeguarding Children and Young People Framework](https://melbournecatholic.org/safeguarding/safeguarding-framework-resources)* has been developed to guide the implementation of child-safety policies, procedures and practices within parishes, agencies and entities with the aim of promoting the safety of children and young people.
 
-Clergy, employees and volunteers are required to abide by the requirements of the Archdiocese’s Safeguarding and Wellbeing Policy for Children and Young People.
+Clergy, employees and volunteers are required to abide by the requirements of the Archdiocese’s Safeguarding and Wellbeing of Children and Young People (SWCYP) Policy.
 
 Refer to **[‘Safeguarding protections’ in chapter 8](https://parish-handbook.netlify.app/contents/8-risk-management.html#safeguarding-protections)** for further details of parish obligations.
 
