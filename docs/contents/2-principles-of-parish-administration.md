@@ -256,7 +256,7 @@ Refer to **[chapter 5, ‘Essential safety measures’](https://parish-handbook.
 
 Safeguarding is everyone’s responsibility. The safety and wellbeing of all persons are considered our highest priority in the Archdiocese of Melbourne. 
 
-The Archdiocese acknowledges that safeguarding children and vulnerable people requires proactive approaches across policies, procedures and practices within parishes, agencies and entities, consistent with the requirements of the:
+The Archdiocese acknowledges that safeguarding children, young people and adults at risk requires proactive approaches across policies, procedures and practices within parishes, agencies and entities, consistent with the requirements of the:
 
 * *Commission for Children and Young People Act 2012* *(Vic)*
 * *Child Wellbeing and Safety Act 2005* *(Vic)*
