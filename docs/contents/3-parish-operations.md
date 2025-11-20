@@ -572,13 +572,13 @@ The faithful have a right to expect accurate and well-preserved sacramental reco
 
 The Archdiocese has prepared [Pastoral guidelines for the maintenance of parish registers](https://camorgau.sharepoint.com/sites/PAH-VG/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FPAH%2DVG%2FShared%20Documents%2FPAH%5Fpastoral%5Fguidelines%5Ffor%5Fmaintenance%5Fof%5Fparish%5Fregisters%5F23%5F08%2Epdf&parent=%2Fsites%2FPAH%2DVG%2FShared%20Documents&p=true&ga=1). 
 
-### Working with Children (WWC) check register
+### Working with Children (WWC) Check register
 
-All clergy, employees and volunteers over the age of 18 are required to maintain a current WWC check throughout their involvement in parishes, agencies and entities.
+All clergy, employees and volunteers over the age of 18 are required to maintain a current WWC Check throughout their involvement in parishes, agencies and entities.
 
-Archdiocesan parishes, agencies and entities must maintain a register of all WWC checks and ensure that WWC checks for clergy, employees and volunteers are appropriate to their situation (e.g. volunteer or paid employment), current and linked to the parish, agency or entity (i.e. the person has registered their involvement with the parish).
+Archdiocesan parishes, agencies and entities must maintain a register of all WWC Checks and ensure that WWC Checks for clergy, employees and volunteers are appropriate to their situation (e.g. volunteer or paid employment), current and linked to the parish, agency or entity (i.e. the person has registered their involvement with the parish).
 
-Further information on the Safeguarding Unit WWC check register requirements can be found in the [Working with Children Check Protocol](https://camorgau.sharepoint.com/sites/PAH-Safeguarding/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FPAH%2DSafeguarding%2FShared%20Documents%2FSelf%20Assessment%20Tool%20%26%20Capability%20Areas%201%2D4%2FSAT%203%20Right%20people%2C%20right%20role%2C%20right%20knowledge%2FWorking%20with%20Children%20Check%20Protocol%20v2%2E0%2Epdf&parent=%2Fsites%2FPAH%2DSafeguarding%2FShared%20Documents%2FSelf%20Assessment%20Tool%20%26%20Capability%20Areas%201%2D4%2FSAT%203%20Right%20people%2C%20right%20role%2C%20right%20knowledge).
+Further information on the Safeguarding Unit WWC Check register requirements can be found in the [Working with Children Check Protocol](https://camorgau.sharepoint.com/sites/PAH-Safeguarding/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FPAH%2DSafeguarding%2FShared%20Documents%2FSelf%20Assessment%20Tool%20%26%20Capability%20Areas%201%2D4%2FSAT%203%20Right%20people%2C%20right%20role%2C%20right%20knowledge%2FWorking%20with%20Children%20Check%20Protocol%20v2%2E0%2Epdf&parent=%2Fsites%2FPAH%2DSafeguarding%2FShared%20Documents%2FSelf%20Assessment%20Tool%20%26%20Capability%20Areas%201%2D4%2FSAT%203%20Right%20people%2C%20right%20role%2C%20right%20knowledge).
 
 ## Parish sporting clubs and hosted associations
 
