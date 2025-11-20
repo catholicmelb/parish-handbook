@@ -248,9 +248,46 @@ Priests are not employees of the parish or of the Archdiocese. They exercise the
 
 ### Occupational health and safety
 
-Victoria’s *Building Regulations 2018* require building owners to maintain ‘essential safety measures’ so that they operate satisfactorily. There are different obligations under the Regulations, which depend on when the building was built or when building work occurred on the building.
+Occupational Health and Safety (OHS) is essential for creating a safe, supportive and productive workplace. It helps protect employees from physical and psychological harm, ensures compliance with legal responsibilities and promotes overall wellbeing. Effective OHS practices reduce the risk of accidents, injuries and workplace stress, while fostering a culture of care, accountability and respect. Prioritising OHS not only safeguards staff and volunteers but also supports the smooth and sustainable operation of the parish.
 
-Refer to **[chapter 5, ‘Essential safety measures’](https://parish-handbook.netlify.app/contents/5-essential-safety-measures.html#essential-safety-measures)** for further details.
+According to the *OHS Act 2004 (Vic)*,it is the responsibility of the employer (parish priest), as far as is reasonably practicable, to: 
+
+* provide and maintain a safe working environment
+* ensure safe use of plant, equipment and substances
+* maintain facilities for employee welfare (physical and psychological)
+* provide necessary instruction, training and supervision
+* consult with employees on health and safety matters.
+
+#### **Employee wellbeing** 
+
+Employee wellbeing is central to a safe and supportive parish environment. By proactively managing risks, engaging with staff and supporting recovery, the parish ensures the physical, psychological and emotional health of all employees and volunteers. 
+
+These guidelines provide clear responsibilities for employers and outline best practices to maintain a safe, healthy and inclusive workplace.
+
+#### Employer responsibilities
+
+The employer should:
+
+* *monitor workplace conditions*prevent harm from psychosocial hazards through regular assessment and monitoring
+* *manage psychological health risks*\
+  identify and address factors such as workload, bullying, lack of support or unclear roles
+* *consult employees*engage with staff on matters affecting their health, safety and wellbeing
+* *support recovery and return to work*assist employees recovering from physical or psychological illness or injury to safely return to work.
+
+#### Good parish practice
+
+Good parish practice ensures that the workplace is safe, supportive and well prepared to protect the wellbeing of all staff and volunteers. By implementing clear safety measures, managing risks and providing appropriate training and resources, the parish fosters a culture of care and accountability while maintaining compliance with occupational health and safety standards.
+
+To maintain a safe and supportive workplace, the parish should ensure:
+
+* safe entry, exit, lighting, amenities and ergonomic arrangements are in place
+* emergency management plans and first aid arrangements are in place
+* incidents and near misses are reported and investigated
+* hazards are identified and risks assessed 
+* personal protective equipment (PPE) is used where required
+* induction and ongoing training is provided for staff and volunteers. 
+
+Refer to the [Parish health and safety resources](https://camorgau.sharepoint.com/:f:/s/PAH-HR/EhAo6U2ebmFGo3ZSDZ0hoHMBP5KWn8GH8d_g36vnEeFmkg?e=8s9dpk) for further details, including an occupational health andsafety policy template and other valuable information.
 
 ### Safeguarding children and young people
 
