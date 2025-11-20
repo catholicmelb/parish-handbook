@@ -168,7 +168,7 @@ Contact email: [vicar.general@cam.org.au](mailto:vicar.general@cam.org.au)
 The Safeguarding Unit is responsible for:
 
 * assisting parishes, agencies and entities to implement the Safeguarding and Wellbeing of Children and Young People Policy
-* providing support, advice and training to Archdiocesan parishes, agencies and entities to strengthen their efforts in relation to child safety
+* providing support, advice and training to Archdiocesan parishes, agencies and entities to strengthen their efforts in relation to the safety of children and adults at risk
 * assisting Archdiocesan parishes, agencies and entities to comply with the Safeguarding and Wellbeing of Children and Young People Policy and relevant standards.
 * receiving complaints of current and historical abuse or child safety–related misconduct. The Safeguarding Unit liaises with Pathways Victoria to ensure that the appropriate statutory authorities are informed of reports, allegations and suspicions of abuse in line with the Archdiocese's legal requirements and duty of care.
 
@@ -176,7 +176,7 @@ The Safeguarding Unit is responsible for:
 
   Complaints, allegations and suspicions of abuse can be reported directly to Pathways Victoria or to the Safeguarding Unit. For further information on how to report, please refer to the [Reporting abuse and safety-related misconduct web page](https://melbournecatholic.org/safeguarding/reporting-abuse-and-safety-related-misconduct) on the Melbourne Catholic website. 
 * guiding improvements in relation to our approach to child safety across the Archdiocese (e.g. Safeguarding and Wellbeing of Children and Young People Policy, Code of Conduct, compliance, risk-management, training) to meet legislative requirements at the state and federal level, and best-practice expectations proposed by Australian Catholic Safeguarding Limited
-* supporting parishes with the ongoing implementation of hte Safeguarding Self-Assessment Tool.
+* supporting parishes with the ongoing implementation of the Safeguarding Self-Assessment Tool.
 
 ### Contacts
 
