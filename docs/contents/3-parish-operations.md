@@ -278,7 +278,7 @@ When a parish priest or administrator commences a new parish appointment, it is 
 
 This can be done by a parish employee (under the authority of the parish priest) by logging into the parish’s unique portal on the [ACNC website](http://www.acnc.gov.au/). The information required by the ACNC will include the priest or administrator’s full name, date of birth, residential address, position held and the date on which the appointment commences.
 
-This information must be provided to the ACNC within 28 days of the appointment if the parish’s income exceeds $250,000 per annum, or otherwise within 60 days of the appointment.
+This information must be provided to the ACNC within 28 days of the appointment if the parish’s income exceeds $500,000 per annum, or otherwise within 60 days of the appointment.
 
 ### ATO/ABR—notification of change of parish priest or administrator
 
