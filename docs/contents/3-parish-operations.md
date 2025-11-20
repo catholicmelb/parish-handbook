@@ -340,7 +340,7 @@ If you have any questions regarding this process, please direct enquiries to [p
 
 Priests must return a copy of the following documents to the Safeguarding Unit prior to the commencement of their appointment:
 
-* Valid employee Working with Children (WWC) check (renewed every 5 years)
+* Valid employee Working with Children (WWC) Check (renewed every 5 years)
 * National Police Check certificate (renewed every 3 years)
 * Annual written acknowledgement of the expectations and responsibilities outlined in the Safeguarding Children and Young People Code of Conduct.
 * Successful completion of the Catholic Archdiocese of Melbourne’s *[Safeguarding Essentials](https://safeguarding.melbournecatholic.org/s/login/?ec=302&startURL=%2Fs%2F)* online training module annually.
