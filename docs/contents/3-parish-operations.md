@@ -340,12 +340,12 @@ If you have any questions regarding this process, please direct enquiries to [p
 
 Priests must return a copy of the following documents to the Safeguarding Unit prior to the commencement of their appointment:
 
-* Valid employee Working with Children (WWC) check (renewed every 5 years)
+* Valid employee Working with Children (WWC) Check (renewed every 5 years)
 * National Police Check certificate (renewed every 3 years)
 * Annual written acknowledgement of the expectations and responsibilities outlined in the Safeguarding Children and Young People Code of Conduct.
 * Successful completion of the Catholic Archdiocese of Melbourne’s *[Safeguarding Essentials](https://safeguarding.melbournecatholic.org/s/login/?ec=302&startURL=%2Fs%2F)* online training module annually.
 
-The Victorian Working with Children (WWC) Check protocol requires that the Safeguarding Unit has copies of all priests’ current WWC checks on file. Priests need to update their WWC check profile online to ensure the Archdiocese is listed as one of the organisations for which each priest conducts work. This will ensure that the Safeguarding Unit receives a copy of each priest’s card directly from the Department of Justice.
+The Victorian Working with Children (WWC) Check protocol requires that the Safeguarding Unit has copies of all priests’ current WWC Checks on file. Priests need to update their WWC Check profile online to ensure the Archdiocese is listed as one of the organisations for which each priest conducts work. This will ensure that the Safeguarding Unit receives a copy of each priest’s card directly from the Department of Justice.
 
 To list the Archdiocese, [log in to the Service Victoria website](https://service.vic.gov.au/find-services/work-and-volunteering/working-with-children-check/update-your-working-with-children-check-details).
 
@@ -356,9 +356,9 @@ Safeguarding Unit\
 PO Box 146, East Melbourne VIC 8002\
 Phone: (03) 9926 5621
 
-Priests moving to Victoria will need to apply for a Victorian WWC check. Applications can be made through the [Service Victoria website](https://service.vic.gov.au/services/working-with-children)[](http://www.workingwithchildren.vic.gov.au/home/applications/apply+for+a+check/).
+Priests moving to Victoria will need to apply for a Victorian WWC Check. Applications can be made through the [Service Victoria website](https://service.vic.gov.au/services/working-with-children)[](http://www.workingwithchildren.vic.gov.au/home/applications/apply+for+a+check/).
 
-*Please note* that no public ministry can be conducted prior to the WWC check application being lodged.
+*Please note* that no public ministry can be conducted prior to the WWC Check application being lodged.
 
 #### National Police Check certificate
 
