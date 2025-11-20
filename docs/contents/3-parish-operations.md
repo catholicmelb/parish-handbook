@@ -67,12 +67,6 @@ The following steps are recommended for recording GST claims on presbytery expen
 
 1. The GST recoverable from presbytery-related expenditure should be recorded in the parish’s balance sheet via a journal entry recognising the amount receivable from the Australian Taxation Office (ATO) and the corresponding amount payable back to the Presbytery Account. The journal entry in this scenario is:
 
-   *For PACS users*
-
-   Dr GST Paid (4301)
-
-   Cr Presbytery Clearing Account (5030)
-
    *For Xero users*
 
    Dr GST Paid (820)
