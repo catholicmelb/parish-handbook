@@ -108,7 +108,7 @@ All volunteers are required to:
 
 * complete pre-employment checks including:
 
-  * Working with Children (WWC) check clearance (renewed every three years)
+  * Working with Children (WWC) Check clearance (renewed every three years)
   * acknowledgement of the expectations and responsibilities outlined in the Safeguarding Children and Young People Code of Conduct (renewed every three years)
 * successfully complete the Catholic Archdiocese of Melbourne’s *[Safeguarding Essentials](https://safeguarding.melbournecatholic.org/s/login/?ec=302&startURL=%2Fs%2F)* online training module every three years
 * undertake a National Police Check (Police Record Check) if required, based on their role. Further information regarding roles that require a Police Record Check can be found within the [National Police Check (Police Record Check) Information Sheet](https://camorgau.sharepoint.com/sites/PAH-Safeguarding/Shared%20Documents/Forms/AllItems.aspx?ga=1&id=%2Fsites%2FPAH%2DSafeguarding%2FShared%20Documents%2FSelf%20Assessment%20Tool%20%26%20Capability%20Areas%201%2D4%2FSAT%203%20Right%20people%2C%20right%20role%2C%20right%20knowledge%2FINFO%20SHEET%20National%20Police%20Check%20%28Police%20Record%20Check%29%20v2%2E0%2Epdf&parent=%2Fsites%2FPAH%2DSafeguarding%2FShared%20Documents%2FSelf%20Assessment%20Tool%20%26%20Capability%20Areas%201%2D4%2FSAT%203%20Right%20people%2C%20right%20role%2C%20right%20knowledge).
