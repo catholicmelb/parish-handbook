@@ -54,7 +54,7 @@ In general, parishes should follow standard recruitment practices when employing
 
 The successful candidate will be required to complete pre-employment checks, including:
 
-* Working with Children Check (WWCC) card (renewed every five years)
+* Working with Children (WWC) check (renewed every five years)
 * National Police Check certificate (renewed every three years)
 * annual acknowledgement of the expectations and responsibilities outlined in the Safeguarding Children and Young People Code of Conduct.
 
@@ -82,7 +82,7 @@ The Archdiocese has approved a number of HR-related policies that also apply to 
 * Complaints and Grievances (refer to the HR Office for details)
 * [National Police Record Check](https://camorgau.sharepoint.com/:b:/s/HumanResources-CAMDocuments/EZi29AiQfHxPumk3oOjJCjcB0ZIsb7_wO4pnhTeBYeMBBg?e=S40yll&xsdata=MDV8MDJ8THVjeS5EYXZpc29uQGNhbS5vcmcuYXV8NDNmNDhlZWVlNzQ0NGFmNzZlNmMwOGRkYWUyOTYxZjV8NDhlZTIwYzdjOGVhNDIzYzhiMjhmMTk4MDFlMzQxOTN8MHwwfDYzODg1ODIxNDk0NjU2OTc4NXxVbmtub3dufFRXRnBiR1pzYjNkOGV5SkZiWEIwZVUxaGNHa2lPblJ5ZFdVc0lsWWlPaUl3TGpBdU1EQXdNQ0lzSWxBaU9pSlhhVzR6TWlJc0lrRk9Jam9pVFdGcGJDSXNJbGRVSWpveWZRPT18MHx8fA%3d%3d&sdata=UFdDTXloVE9WSnFjZlZvRlAzYmI1dFNia0pCdFBsQTBqUnpFT1I0OHFhUT0%3d)
 * [Privacy](https://camorgau.sharepoint.com/:b:/s/HumanResources-CAMDocuments/EZ0Fr0iFT7hMi68RyObhQucBsD6q_7-AzPnIvnGGs-kEGQ?e=c76e0H&xsdata=MDV8MDJ8THVjeS5EYXZpc29uQGNhbS5vcmcuYXV8NDNmNDhlZWVlNzQ0NGFmNzZlNmMwOGRkYWUyOTYxZjV8NDhlZTIwYzdjOGVhNDIzYzhiMjhmMTk4MDFlMzQxOTN8MHwwfDYzODg1ODIxNDk0NjU3OTAyOHxVbmtub3dufFRXRnBiR1pzYjNkOGV5SkZiWEIwZVUxaGNHa2lPblJ5ZFdVc0lsWWlPaUl3TGpBdU1EQXdNQ0lzSWxBaU9pSlhhVzR6TWlJc0lrRk9Jam9pVFdGcGJDSXNJbGRVSWpveWZRPT18MHx8fA%3d%3d&sdata=eGNyaDJ5dDdWL2pNSWdKbi9jQVcwQUJpQW1GanJmMEJOa2tNdlJVTXgrVT0%3d)
-* [Safeguarding Policy (and Resources)](https://melbournecatholic.org/safeguarding/parish-safeguarding-resources/policies-procedures)
+* [Safeguarding Policy and Procedures](https://melbournecatholic.org/safeguarding/parish-safeguarding-resources/policies-procedures).
 
 Additional HR related policies can be found [here](https://camorgau.sharepoint.com/:f:/r/sites/PAH-HR/Shared%20Documents/HR%20Policies?csf=1&web=1&e=ekw3t6).
 
