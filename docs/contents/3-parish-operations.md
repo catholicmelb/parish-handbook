@@ -308,7 +308,7 @@ For parishes that do not have access to the ATO portal, the record can be update
 The Change of Registration form needs to be lodged along with:
 
 * the [Nomination as Principal authority and Public Officer form](https://camorgau.sharepoint.com/:w:/s/ParishSupport/EWWJshkM81pIuiGgliMXfMIB4tkahw-00I9zN53Vj0tzdA?e=9GcJB4&xsdata=MDV8MDJ8THVjeS5EYXZpc29uQGNhbS5vcmcuYXV8N2NiMGE4MDg2ZDhjNDBjMTU4YjYwOGRkNDBlNzMxZDB8NDhlZTIwYzdjOGVhNDIzYzhiMjhmMTk4MDFlMzQxOTN8MHwwfDYzODczODA4Mzk0NjQ4NDg1NnxVbmtub3dufFRXRnBiR1pzYjNkOGV5SkZiWEIwZVUxaGNHa2lPblJ5ZFdVc0lsWWlPaUl3TGpBdU1EQXdNQ0lzSWxBaU9pSlhhVzR6TWlJc0lrRk9Jam9pVFdGcGJDSXNJbGRVSWpveWZRPT18MHx8fA%3d%3d&sdata=Q1IrQi9wblRkRk1menpFbkZpdEthdlA1OEN5RlNLbGpEVDYrZ3RGYUlkWT0%3d). This is completed by the parish priest. 
-* meeting minutes recording the nomination being accepted by the finance committee. A meeting minutes template can be found [here](https://camorgau.sharepoint.com/:w:/s/ParishSupport/EQYIi5la4TtAr4kZXHu_D_EBKGCOnl1oqj3wQ6wSge-QIA?e=Kc9TaA&xsdata=MDV8MDJ8THVjeS5EYXZpc29uQGNhbS5vcmcuYXV8N2NiMGE4MDg2ZDhjNDBjMTU4YjYwOGRkNDBlNzMxZDB8NDhlZTIwYzdjOGVhNDIzYzhiMjhmMTk4MDFlMzQxOTN8MHwwfDYzODczODA4Mzk0NjQ5NTE2MnxVbmtub3dufFRXRnBiR1pzYjNkOGV5SkZiWEIwZVUxaGNHa2lPblJ5ZFdVc0lsWWlPaUl3TGpBdU1EQXdNQ0lzSWxBaU9pSlhhVzR6TWlJc0lrRk9Jam9pVFdGcGJDSXNJbGRVSWpveWZRPT18MHx8fA%3d%3d&sdata=a2llSytmQnY0Wkc4N1RaR2VFMFpqb1FrdkY3NHc5bWdXZjB2MC9CZ3U5OD0%3d). This must be on parish letterhead.
+* meeting minutes recording the nomination being accepted by the finance committee. A meeting minutes template can be found [here](https://camorgau.sharepoint.com/:w:/s/ParishSupport/EffffyR-Ju9Arz2zM--n204B0FltBOeePB4T3CxOo4NSQw?e=xZfTYX&wdLOR=cFC2E07D4-572B-154A-87BE-08F59990C507). This must be on parish letterhead.
 
 Certified copies of the minutes and nomination form need to be attached to the change of registration form.
 
@@ -329,6 +329,54 @@ PO Box 3373 \
 Penrith NSW 2740 
 
 If you have any questions regarding this process, please direct enquiries to [parish.finance@cam.org.au](http://parish.finance@cam.org.au/), or to Stephen Steward at 0417 718 496, or Colin D’Rosario at 0429 052 374. 
+
+## Updating the ATO and ABR when there is a change of parish name
+
+As part of an amalgamation process, the parish name will be changed, and this change must be registered with the Australian Taxation Office (ATO) and Australian Business Register (ABR).
+
+The parish priest needs to be registered with the ATO and ABR as the public officer, as he will need to sign the Change of Registration Details form.
+
+If the parish priest is not registered as the public officer, he will need to do so by completing a separate Change of Registration Details form. (See ‘[ATO/ABR—notification of change of parish priest or administrator](https://handbook.melbournecatholic.org/contents/3-parish-operations.html#ato-abr%E2%80%94notification-of-change-of-parish-priest-or-administrator)’ in chapter3.)
+
+Alternatively, if the parish has engaged an external tax accountant, the accountant can complete the Change of Registration Details form to notify the ATO and ABR of the change of parish name. 
+
+For parishes that do not have access to the ATO portal, the record can be updated by completing the ATO’s [Change of Registration Details form](https://www.ato.gov.au/api/public/content/29fd1a6016a5485f97f03be4ea6c39f4).
+
+### Completing the Change of Registration Details form to change a parish name
+
+* **Section A:** Complete parts 1, 2, 3 and 4. (In most cases, part 2 can be left blank as it is unlikely that a parish will have a GST or PAYG branch.)
+* **Section B:** Select *Yes* and add new parish name.
+* **Section C:** Select *No*.
+* **Section D:** Select the appropriate response.
+* **Section C:** It might be a good idea to update the contact person for the parish. Select *Yes* if you want to update the contact person.
+* **Section F:** Select *No*.
+* **Section G:** Select *No*.
+* **Section H:** The nominated public officer’s details are included here. The position held is *Public Officer*.The nominated public officer needs to sign this document.
+
+### Lodging change of registration details form[​](https://handbook.melbournecatholic.org/contents/3-parish-operations.html#lodging-change-of-registration-details-form)
+
+Once completed, the Change of Registration Details form needs to be sent to the ATO along with finance committee minutes recording that the committee has accepted the name change. A meeting minutes template can be found [here](https://camorgau.sharepoint.com/:w:/s/ParishSupport/ERPyZwpHIqBPnUrov_nXLfkBFE-2SFn6Yw-Qa1nvPPPlxw?e=mHNQaa&xsdata=MDV8MDJ8THVjeS5EYXZpc29uQGNhbS5vcmcuYXV8NTU4MzA1NGUzYjFiNDk3ZDRiM2YwOGRlMmIwZmZlNGF8NDhlZTIwYzdjOGVhNDIzYzhiMjhmMTk4MDFlMzQxOTN8MHwwfDYzODk5NTU0NDg1Mjk5MjAzM3xVbmtub3dufFRXRnBiR1pzYjNkOGV5SkZiWEIwZVUxaGNHa2lPblJ5ZFdVc0lsWWlPaUl3TGpBdU1EQXdNQ0lzSWxBaU9pSlhhVzR6TWlJc0lrRk9Jam9pVFdGcGJDSXNJbGRVSWpveWZRPT18MHx8fA%3d%3d&sdata=RnJLc0l0N2lXU0xRWkk3Wm00bFQvWGcvNXoycEFESWtYYWR0TzYvRnFEWT0%3d). The minutes must be on parish letterhead.
+
+A certified copy of the minutes needs to be attached to the Change of Registration Details form.
+
+To certify the minutes:
+
+* take photocopies of the original minutes. The parish retains the original minutes 
+* have the minutes certified by a parish priest who is certified to celebrate marriage. To avoid a conflict of interest, the documents must be certified by a priest from another parish
+* ensure that the approved certifier certifies that each copy of an original document is true and correct by:
+* physically sighting the original document and the copies of the front and back at the same time
+
+  * physically sighting the original document and the copies of the front and back at the same time
+  * signing and annotating the copy of the document with wording similar to ‘I have sighted the original document and certify this to be a true and correct copy of the original document sighted’
+  * providing the following details: full name, telephone number, qualification (‘minister of religion certified to celebrate marriage’), registration number if relevant (in this instance, it is not), date of certification.
+
+To lodge the paperwork, make a copy of all the documents for your own records before sending the Change of Registration Details form—along with certified copies of the minutes and nomination form—to:
+
+Australian Taxation Office \
+PO Box 3373 \
+Penrith NSW 2740
+
+If you have any questions regarding this process, please direct enquiries to [parish.finance@cam.org.au](http://parish.finance@cam.org.au/), or to Stephen Steward at 0417 718 496 or Colin D’Rosario at 0429 052 374.
 
 ### Requirements from the Safeguarding Unit
 
@@ -572,7 +620,7 @@ All clergy, employees and volunteers over the age of 18 are required to maintain
 
 Archdiocesan parishes, agencies and entities must maintain a register of all WWC Checks and ensure that WWC Checks for clergy, employees and volunteers are appropriate to their situation (e.g. volunteer or paid employment), current and linked to the parish, agency or entity (i.e. the person has registered their involvement with the parish).
 
-Further information on the Safeguarding Unit WWC Check register requirements can be found in the [Working with Children Check Protocol](https://camorgau.sharepoint.com/sites/PAH-Safeguarding/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FPAH%2DSafeguarding%2FShared%20Documents%2FSelf%20Assessment%20Tool%20%26%20Capability%20Areas%201%2D4%2FSAT%203%20Right%20people%2C%20right%20role%2C%20right%20knowledge%2FWorking%20with%20Children%20Check%20Protocol%20v2%2E0%2Epdf&parent=%2Fsites%2FPAH%2DSafeguarding%2FShared%20Documents%2FSelf%20Assessment%20Tool%20%26%20Capability%20Areas%201%2D4%2FSAT%203%20Right%20people%2C%20right%20role%2C%20right%20knowledge).
+Further information on the Safeguarding Unit WWC Check register requirements can be found in the [Working with Children check protocol](https://camorgau.sharepoint.com/sites/PAH-Safeguarding/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FPAH%2DSafeguarding%2FShared%20Documents%2FSelf%20Assessment%20Tool%20%26%20Capability%20Areas%201%2D4%2FSAT%203%20Right%20people%2C%20right%20role%2C%20right%20knowledge%2FWorking%20with%20Children%20Check%20Protocol%20v2%2E0%2Epdf&parent=%2Fsites%2FPAH%2DSafeguarding%2FShared%20Documents%2FSelf%20Assessment%20Tool%20%26%20Capability%20Areas%201%2D4%2FSAT%203%20Right%20people%2C%20right%20role%2C%20right%20knowledge).
 
 ## Parish sporting clubs and hosted associations
 
