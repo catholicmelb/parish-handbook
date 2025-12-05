@@ -268,7 +268,7 @@ The Archdiocese and the TWG Advisory and Reference Group are collaborating on th
 
 Before the proposed changeover date, the leaving parish priest must meet with the incoming parish priest to share information about the parish and inform the incoming parish priest of all that has happened in the tenure of the leaving parish priest, to ensure the incoming parish priest has the necessary knowledge and understanding of the parish.
 
-Before leaving the parish, the parish priest is required to attend to each item listed in the [Changeover of Parish Priest Checklist](https://camorgau.sharepoint.com/:b:/s/HumanResources-CAMDocuments/Efnlimmc0_pAvsBsFkb_SuYBz2dM48nR-g48xDGlYRqK0A?e=WuqCz8&xsdata=MDV8MDJ8THVjeS5EYXZpc29uQGNhbS5vcmcuYXV8MWYzMDUzYzg4ZjEzNDBmYjY1YWQwOGRkZGFiYmVkNDF8NDhlZTIwYzdjOGVhNDIzYzhiMjhmMTk4MDFlMzQxOTN8MHwwfDYzODkwNzIyMzA0MzU2NDIzN3xVbmtub3dufFRXRnBiR1pzYjNkOGV5SkZiWEIwZVUxaGNHa2lPblJ5ZFdVc0lsWWlPaUl3TGpBdU1EQXdNQ0lzSWxBaU9pSlhhVzR6TWlJc0lrRk9Jam9pVFdGcGJDSXNJbGRVSWpveWZRPT18MHx8fA%3d%3d&sdata=NFhaeE9rZGN1UkVFN3l2cjRKWkdtWDIxazhBQW5Tek9Ud0g0SG52UHZhWT0%3d) to ensure a smooth changeover with the incoming parish priest.
+Before leaving the parish, the parish priest is required to attend to each item listed in the [Changeover of Parish Priest Checklist](https://camorgau.sharepoint.com/:w:/s/PublishedDocuments/EbSeLgvCFlJNonYDWM2vrqoBI7E9xCruZ7j4qKGqhusvSQ?e=R9S8Mn&wdLOR=c5DFAA5ED-8805-5A44-8C2F-5EFF71FE9087) to ensure a smooth changeover with the incoming parish priest.
 
 The following administrative arrangements have been advised by the Vicar General’s Office:
 
