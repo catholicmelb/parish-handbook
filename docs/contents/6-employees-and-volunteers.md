@@ -69,7 +69,7 @@ Resources to assist with your recruitment and selection:
 * [Position description (template)](https://camorgau.sharepoint.com/:f:/r/sites/PAH-HR/Shared%20Documents/Recruitment%20%26%20Selection/1.%20Position%20Descriptions?csf=1&web=1&e=hOrUsg)
 * [Job advertisement (templates)](https://camorgau.sharepoint.com/:f:/r/sites/PAH-HR/Shared%20Documents/Recruitment%20%26%20Selection/2.%20Advertisements?csf=1&web=1&e=HWt9Mh)
 * [Interview guides (template)](https://camorgau.sharepoint.com/:f:/r/sites/PAH-HR/Shared%20Documents/Recruitment%20%26%20Selection/3.%20Interview%20Guides?csf=1&web=1&e=7428nV)
-* [Offer documentation](https://camorgau.sharepoint.com/:f:/r/sites/PAH-HR/Shared%20Documents/Recruitment%20%26%20Selection/4.%20Offer%20Documentation?csf=1&web=1&e=qy2gJ8)
+* [Offer documentation](https://camorgau.sharepoint.com/sites/PAH-HR/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FPAH%2DHR%2FShared%20Documents%2FRecruitment%20%26%20Selection%2F4%2E%20Offer%20Documentation%20%2D%20Contracts%20%26%20Additional%20Forms&p=true&ga=1)
 
 ## Mandatory compliance requirements
 
