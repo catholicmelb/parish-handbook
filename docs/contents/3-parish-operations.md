@@ -351,7 +351,7 @@ For parishes that do not have access to the ATO portal, the record can be update
 * **Section C:** It might be a good idea to update the contact person for the parish. Select *Yes* if you want to update the contact person.
 * **Section F:** Select *No*.
 * **Section G:** Select *No*.
-* **Section H:** The nominated public officer’s details are included here. The position held is *Public Officer*.The nominated public officer needs to sign this document.
+* **Section H:** The nominated public officer’s details are included here. The position held is *Public Officer*. The nominated public officer needs to sign this document.
 
 ### Lodging change of registration details form[​](https://handbook.melbournecatholic.org/contents/3-parish-operations.html#lodging-change-of-registration-details-form)
 
@@ -364,7 +364,6 @@ To certify the minutes:
 * take photocopies of the original minutes. The parish retains the original minutes 
 * have the minutes certified by a parish priest who is certified to celebrate marriage. To avoid a conflict of interest, the documents must be certified by a priest from another parish
 * ensure that the approved certifier certifies that each copy of an original document is true and correct by:
-* physically sighting the original document and the copies of the front and back at the same time
 
   * physically sighting the original document and the copies of the front and back at the same time
   * signing and annotating the copy of the document with wording similar to ‘I have sighted the original document and certify this to be a true and correct copy of the original document sighted’
