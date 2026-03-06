@@ -149,8 +149,7 @@ Among the VG Office’s particular areas of focus are:
 * clearing permissions for visiting clergy (including professional standards documentation)
 * collecting and collating sacramental statistics and parish Mass counts
 * preparing parish profiles (mapping, demographic data, future planning, boundaries)
-* arranging imprimaturs
-* accrediting lay ecclesial ministers.
+* arranging imprimaturs.
 
 ### Contacts
 
@@ -220,11 +219,11 @@ The Coordinator Ongoing Formation of Clergy works to develop and oversee all for
 
 ### Contacts
 
-Fr Thinh Nguyen\
+Fr Anthony Girolami\
 Coordinator of Clergy Life and Ministry
 
-Susanah Tan\
-Executive Assistant
+Valerie Bissessur\
+Personal Assistant
 
 Cardinal Knox Centre\
 383 Albert Street, East Melbourne VIC 3002\
