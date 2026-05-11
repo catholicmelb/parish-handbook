@@ -206,9 +206,7 @@ The word *columbarium* is derived from the Latin word for ‘dove’ (*columba
 
 It is a structure composed of many niches to permit the interment of the ashes of those who have been cremated.
 
-Sample **[General conditions for a memorial garden and columbarium](https://camorgau.sharepoint.com/:b:/r/sites/PAH-Property/Shared%20Documents/PAH_Policy%20Docs_Cremated%20Remains_2012.pdf?csf=1&web=1&e=uGfeEd)** have been made available by the Archdiocese, including an agreement for internment right template.
-
-The Archdiocese has also published policy guidance in **[Guidelines relating to the conservation of ashes in the case of cremation](https://camorgau.sharepoint.com/:b:/r/sites/PAH-Property/Shared%20Documents/PAH_Policy%20Docs_Cremated%20Remains_2012.pdf?csf=1&web=1&e=uGfeEd)**, to assist parish priests and PFC advisers to:
+**[Policy advice](https://camorgau.sharepoint.com/:b:/r/sites/PAH-Property/Shared%20Documents/PAH_Policy%20Docs_Cremated%20Remains_2012.pdf?csf=1&web=1&e=uGfeEd)** has been made available by the Archdiocese (including a consent form for internment template) to assist parish priests and PFC advisers to:
 
 * understand the procedures to follow when establishing and maintaining columbariums
 * respond to requests from parishioners to lay to rest a deceased’s ashes.
