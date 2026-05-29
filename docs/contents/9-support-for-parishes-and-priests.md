@@ -138,7 +138,7 @@ Among the VG Office’s particular areas of focus are:
 
 * providing assistance, support and liaison for clergy, parish staff, parishioners and the general public
 * co-ordinating the Personnel Advisory Board (PAB)
-* providing administrative support for the Diocesan Pastoral Development Fund and College of Consultors
+* providing administrative support for the College of Consultors
 * issuing faculties to clergy (on behalf of the Archbishop)
 * preparing letters of appointment of priests to parishes and co-ordinating oaths and professions of faith
 * making applications to the Australian Catholic Ministry Register (ACMR)
@@ -146,12 +146,14 @@ Among the VG Office’s particular areas of focus are:
 * coordinating marriage celebrant registration
 * coordinating confirmation delegations
 * organising visa applications for clergy
-* preparing letters of good standing (celebrets) for priests
+* preparing letters of good standing and celebrets for priests
 * preparing the Vicar General’s monthly newsletter and other updates
 * clearing permissions for visiting clergy (including professional standards documentation)
 * collecting and collating sacramental statistics and parish Mass counts
 * preparing parish profiles (mapping, demographic data, future planning, boundaries)
-* arranging imprimaturs.
+* arranging imprimaturs
+* coordinating marriage documentation for the Archdiocese
+* coordinating Archdiocese information for the *Official Directory of the Catholic Church in Australia*.
 
 ### Contacts
 
@@ -161,8 +163,16 @@ Senior Operating Officer, Office of the Vicar General
 Monique Gristwood\
 Executive Assistant, Office of the Vicar General
 
+Valerie Bissessur\
+Personal Assistant
+
 Phone: 03 9926 5638\
 Contact email: [vicar.general@cam.org.au](mailto:vicar.general@cam.org.au)
+
+Sheree Gee\
+Administrative Officer—Marriages, Office of the Vicar General\
+Phone: 03 9926 2455\
+Contact email: [marriages@cam.org.au](mailto:marriages@cam.org.au)
 
 ## Safeguarding Unit
 
@@ -223,9 +233,6 @@ The Coordinator Ongoing Formation of Clergy works to develop and oversee all for
 
 Fr Anthony Girolami\
 Coordinator of Clergy Life and Ministry
-
-Valerie Bissessur\
-Personal Assistant
 
 Cardinal Knox Centre\
 383 Albert Street, East Melbourne VIC 3002\
