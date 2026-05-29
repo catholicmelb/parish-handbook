@@ -506,7 +506,7 @@ The PMDF Levy is currently set at 15% and is raised as follows on:
 
 The PMDF is administered by the DPDC.
 
-Applications for relief from the PMDF Levy may be made to the DPDC. Consideration will be given to reducing or waiving the levy where proceeds from property sales or long-term leases will be used exclusively for the purchase of new property or construction of new buildings on existing land.
+Parishes may make application to the DPDC for a waiver or reduction of the levy in the event that the proceeds of the sale of parish property are to be used to purchase land or for construction of a new parish church or presbytery.
 
 ## <span id="insurance">Insurance</span>
 
