@@ -171,6 +171,25 @@ If the parish does not have a dedicated parish privacy officer, the section *Ho
 
 A Privacy Policy is not a document to set and forget. If a parish changes the way it collects, stores or discloses personal information, the policy should be amended promptly and republished. Where the change is material—more than a minor clarification—parishioners should be notified, either by email or through the parish bulletin, that the policy has been updated.
 
+### Consent to use images for promotional purposes
+
+Parishes frequently take photographs and videos of parishioners and attendees at events, and subsequently publish this material in parish communications (often online platforms) such as newsletters, bulletins, websites and social media.
+
+To ensure good privacy practices, parishes should obtain consent from parishioners and attendees before capturing and publishing any images or recordings of them.
+
+To assist with this, [a media consent form](https://camorgau.sharepoint.com/:w:/s/Legal/IQCs6yXH3WtZR7QGi9x0y3MIAdsLrc4cs9lG0GCVSkZjRbI?e=tejTgh&wdLOR=c601D3FA2-2517-2747-B996-542846DFB335) has been developed for use by parishes within the Archdiocese.
+
+Once signed, the form provides the parish with ongoing consent to photograph and record the parishioners and attendees, and to publish those images and recordings in parish communications for the purposes of promoting the parish and the Archdiocese.
+
+The form should be completed by all existing parishioners, as well as any new parishioners or attendees attending a parish event for the first time. Completed forms must be securely stored.
+
+Individuals completing the form are required to provide:
+
+* their full name at the top of the form
+* their email address at the bottom, so that a copy of the signed form can be sent to them. This ensures that both the parish and the individual retain a record of the consent provided.
+
+Parishes should insert their parish logo in the space provided at the top of the document.
+
 ### Need further help?
 
-For help with implementing a Privacy Policy, or with any general privacy concern, please contact the Archdiocese’s Legal team at *general.counsel@cam.org.au*.
+For help with implementing a Privacy Policy, or with any general privacy concern, please contact the Archdiocese’s Legal team at [general.counsel@cam.org.au](mailto:general.counsel@cam.org.au).
