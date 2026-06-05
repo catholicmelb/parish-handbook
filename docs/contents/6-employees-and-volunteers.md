@@ -58,7 +58,7 @@ The successful candidate will be required to complete pre-employment checks, inc
 * National Police Check certificate (renewed every three years)
 * annual acknowledgement of the expectations and responsibilities outlined in the Safeguarding Children and Young People Code of Conduct.
 
-In addition to this, successful candidates are required to successfully complete the Catholic Archdiocese of Melbourne’s *[Safeguarding Essentials](https://safeguarding.melbournecatholic.org/s/login/?ec=302&startURL=%2Fs%2F)* online training module annually.
+In addition to this, successful candidates are required to successfully complete the Catholic Archdiocese of Melbourne’s *[Safeguarding Essentials](https://melbournecatholic.org/safeguarding/safeguarding-training-and-upcoming-events/safeguarding-training-modules/)* online training module annually.
 
 An employment agreement must be completed for all parish workers and forwarded to them for signing. The HR Office should be consulted for completion of this requirement.
 
@@ -110,7 +110,7 @@ All volunteers are required to:
 
   * Working with Children (WWC) Check clearance (renewed every three years)
   * acknowledgement of the expectations and responsibilities outlined in the Safeguarding Children and Young People Code of Conduct (renewed every three years)
-* successfully complete the Catholic Archdiocese of Melbourne’s *[Safeguarding Essentials](https://safeguarding.melbournecatholic.org/s/login/?ec=302&startURL=%2Fs%2F)* online training module every three years
+* successfully complete the Catholic Archdiocese of Melbourne’s *[Safeguarding Essentials](https://melbournecatholic.org/safeguarding/safeguarding-training-and-upcoming-events/safeguarding-training-modules/)* online training module every three years
 * undertake a National Police Check (Police Record Check) if required, based on their role. Further information regarding roles that require a Police Record Check can be found within the [National Police Check (Police Record Check) Information Sheet](https://camorgau.sharepoint.com/sites/PAH-Safeguarding/Shared%20Documents/Forms/AllItems.aspx?ga=1&id=%2Fsites%2FPAH%2DSafeguarding%2FShared%20Documents%2FSelf%20Assessment%20Tool%20%26%20Capability%20Areas%201%2D4%2FSAT%203%20Right%20people%2C%20right%20role%2C%20right%20knowledge%2FINFO%20SHEET%20National%20Police%20Check%20%28Police%20Record%20Check%29%20v2%2E0%2Epdf&parent=%2Fsites%2FPAH%2DSafeguarding%2FShared%20Documents%2FSelf%20Assessment%20Tool%20%26%20Capability%20Areas%201%2D4%2FSAT%203%20Right%20people%2C%20right%20role%2C%20right%20knowledge).
 
 The process of selecting volunteers is essentially the same as recruiting employees, in that there should be clarity in identifying the task to be performed, interviewing potential volunteers, conducting reference and police checks, and providing a letter of offer to perform work as a volunteer. Please refer to the [Church Personnel Safeguarding Guidelines](https://camorgau.sharepoint.com/sites/PAH-Safeguarding/Shared%20Documents/Forms/AllItems.aspx?ga=1&id=%2Fsites%2FPAH%2DSafeguarding%2FShared%20Documents%2FSelf%20Assessment%20Tool%20%26%20Capability%20Areas%201%2D4%2FSAT%203%20Right%20people%2C%20right%20role%2C%20right%20knowledge%2FChurch%20Personnel%20Safeguarding%20Guidelines%20v2%2E0%2Epdf&parent=%2Fsites%2FPAH%2DSafeguarding%2FShared%20Documents%2FSelf%20Assessment%20Tool%20%26%20Capability%20Areas%201%2D4%2FSAT%203%20Right%20people%2C%20right%20role%2C%20right%20knowledge) for more information.
