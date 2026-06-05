@@ -384,7 +384,7 @@ Priests must return a copy of the following documents to the Safeguarding Unit p
 * Valid employee Working with Children (WWC) Check (renewed every 5 years)
 * National Police Check certificate (renewed every 3 years)
 * Annual written acknowledgement of the expectations and responsibilities outlined in the Safeguarding Children and Young People Code of Conduct.
-* Successful completion of the Catholic Archdiocese of Melbourne’s *[Safeguarding Essentials](https://safeguarding.melbournecatholic.org/s/login/?ec=302&startURL=%2Fs%2F)* online training module annually.
+* Successful completion of the Catholic Archdiocese of Melbourne’s *[Safeguarding Essentials](https://melbournecatholic.org/safeguarding/safeguarding-training-and-upcoming-events/safeguarding-training-modules/)* online training module annually.
 
 The Victorian Working with Children (WWC) Check protocol requires that the Safeguarding Unit has copies of all priests’ current WWC Checks on file. Priests need to update their WWC Check profile online to ensure the Archdiocese is listed as one of the organisations for which each priest conducts work. This will ensure that the Safeguarding Unit receives a copy of each priest’s card directly from the Department of Justice.
 
