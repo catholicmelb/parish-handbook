@@ -603,7 +603,7 @@ This assists parishioners to become more aware of their responsibility to suppor
 The parish priest, as head of entity, in collaboration with the safeguarding committee, is responsible for: 
 
 * monitoring ongoing compliance with the Archdiocesan Safeguarding Children and Young People Framework, which encompasses the requirements of the Victorian Child Safe Standards
-* preparing a summary of the parish’s compliance with the requirements of the Safeguarding Children and Young People Framework on an annual basis (through the Safeguarding Self-Assessment Tool) and presenting it to the Archdiocese’s Safeguarding Unit. 
+* preparing a summary of the parish’s compliance with the requirements of the Safeguarding Children and Young People Framework on an annual basis (through the [Safeguarding Self-Assessment Tool](https://camorgau.sharepoint.com/sites/PAH-Safeguarding/SitePages/Self-Assessment-Tool.aspx?web=1&xsdata=MDV8MDJ8R2VvcmdpZS5CcmF5QGNhbS5vcmcuYXV8MGUyMzNmMDllMmQ1NDBmMWZiZmUwOGRlYjlmMDA2YjR8NDhlZTIwYzdjOGVhNDIzYzhiMjhmMTk4MDFlMzQxOTN8MHwwfDYzOTE1MjYzNzczMzk1MDQ1N3xVbmtub3dufFRXRnBiR1pzYjNkOGV5SkZiWEIwZVUxaGNHa2lPblJ5ZFdVc0lsWWlPaUl3TGpBdU1EQXdNQ0lzSWxBaU9pSlhhVzR6TWlJc0lrRk9Jam9pVFdGcGJDSXNJbGRVSWpveWZRPT18MHx8fA%3d%3d&sdata=TXNvYzJVbE5jeUpGOUFBd2ZxWGkxZ004blFSaUx3NzJnd285cFBWeDVoMD0%3d&clickParams=eyAiWC1BcHBOYW1lIiA6ICJNaWNyb3NvZnQgV29yZCIsICJYLUFwcFZlcnNpb24iIDogIjE2LjEwOS41MTAuMCIsICJPUyIgOiAiTWFjT1MiIH0=&OR=Word)) and presenting it to the Archdiocese’s Safeguarding Unit. 
 
 ## Parish registers
 
