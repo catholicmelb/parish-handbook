@@ -39,40 +39,41 @@ Contact the support team via email at [service.desk@cam.org.au](mailto:service.d
 
 Instructions for lodging support requests can be found at [Asta-CAM ICT Support](https://camorgau.sharepoint.com/sites/PAH-IT/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FPAH%2DIT%2FShared%20Documents%2FAsta%2DCAM%20ICT%20Support%2Epdf&parent=%2Fsites%2FPAH%2DIT%2FShared%20Documents).
 
-## What is the ‘IT system’?
+## IT Systems User Policy
 
-The IT system includes internet and email, hard drives, networks, electronic devices and other electronic communication systems and internet-enabled applications.
+The Archdiocese has published its *IT Systems User Policy*, which outlines the expectations and responsibilities for all users of the Archdiocese’s IT systems.
 
-## Use of the IT system
+This policy applies broadly across the Archdiocese and its parishes, including employees, contractors, volunteers and authorised users.
 
-The IT system must primarily be used for conducting the normal business of the parish. However, occasional and reasonable personal use of the IT system is acceptable, as long as it does not interfere with work in any way or purport to be an action of the parish.
+## What are the ‘IT systems’?
 
-The use of the IT system must comply with the following overarching requirements:
+The IT systems include computers, laptops, tablets, mobile phones, networks and servers (including cloud-based), storage, emails and messaging, video conferencing tools, internet access, software, hardware and data owned or operated by the Archdiocese. They also include any system accessed using an Archdiocese email address, even if not managed by the Archdiocese’s IT department.
 
-* Authorised users are granted access to parish resources, sensitive data and external networks on the basis that their use of the IT system will be responsible, ethical and lawful at all times.
-* Authorised users are required to observe the Archdiocese’s policy and comply with Australian or other local laws that may apply in accessing, distributing, creating, communicating and/or receiving material via the IT system.
+## Use of the IT systems
 
-When accessing the Archdiocese’s IT system, the following are strictly prohibited:
+The IT systems must primarily be used for legitimate work-related duties and the normal business of the Archdiocese and parish. Limited, reasonable personal use is permitted, provided it is infrequent, does not interfere with work, does not cost the parish or Archdiocese money, and does not compromise confidential or sensitive data.
 
-* use of the IT system to conduct business other than official parish business
-* use intended to humiliate, intimidate, abuse, offend or vilify another person
-* accessing or transmitting any offensive material or pornography
-* uploading, downloading or storing commercial software, games, music videos or other intellectual property in violation of its copyright
-* any form of gambling, other than those sanctioned by the Archdiocese, such as a football tipping competition
-* any use of the IT system that may cause embarrassment or loss of reputation to the parish or the Archdiocese
-* any use of email or the internet to generate or forward material that is inconsistent with the teachings of the Church or would otherwise discredit or in any way harm the Church
-* use of the IT system to gain access to any service or data for the purpose of causing damage or harm
-* storing or transferring any information in breach of the Data Security Policy.
+Users must comply with all applicable laws, this policy and other Archdiocesan policies at all times.
+
+The following are strictly prohibited when using the IT systems:
+
+* illegal, fraudulent or unethical activities
+* accessing, creating, viewing, storing or distributing illegal, obscene, offensive, defamatory, threatening, discriminatory (including racist or gender-biased), harassing, pornographic, sexually related or otherwise inappropriate content, messages, material or images, including through communications
+* engaging in unauthorised access to systems, files or data
+* creating, downloading or sharing malware, viruses or other harmful code
+* attempting to circumvent security measures or gain unauthorised administrative access
+* sending spam, unsolicited communications or phishing messages
+* pursuing a user’s own commercial or personal business ventures or personal or private gain, including any political campaigning
+* posting on personal social media accounts, or social media accounts that are not owned or operated by the Archdiocese or parishes
+* anything that breaches Australian state or federal laws or regulations, or the Archdiocese’s policies
+* copying, disclosing or removing Archdiocesan data or information without proper authorisation
+* violating intellectual property laws, copyright laws, privacy laws or Archdiocesan confidentiality obligations.
 
 ## Monitoring IT use
 
-The parish and the Archdiocese have the right to monitor the use of its IT systems by any user for legitimate business reasons, including compliance with Archdiocesan IT policy, compliance with any applicable laws and industry regulations, and where there is reasonable suspicion of activities that may violate Archdiocesan policy.
+Users should not expect privacy when using the IT systems. The Archdiocese and its IT administrators may monitor, access, record and inspect use of the IT systems at any time, without notice or consent, to ensure compliance with this policy, protect data and meet legal obligations. However, necessary approvals as set out in the policy must first be obtained prior to any monitoring or access of IT systems.
 
-If reasonably requested to do so, individuals must provide any details to verify compliance with the requirements outlined in this chapter.
-
-All IT systems, including email and internet accounts maintained on a parish’s computing systems, are the sole property of the parish through the Archdiocese.
-
-Where appropriate, violation of the requirements outlined here may result in disciplinary action, including termination of employment and/or legal action.
+The full *IT Systems User Policy* further discusses the above and additional matters relating to using the Archdiocese’s IT systems. The policy is available on *[The Vine ](https://camorgau.sharepoint.com/)*and by clicking [here](https://camorgau.sharepoint.com/sites/NEWS-Allusers/SitePages/2026-06-11%20-%20IT%20Systems%20User%20Policy.aspx?xsdata=MDV8MDJ8THVjeS5EYXZpc29uQGNhbS5vcmcuYXV8YWVkNDk2M2M5MmY0NDljMzJiYWYwOGRlZGFmZjJiZTR8NDhlZTIwYzdjOGVhNDIzYzhiMjhmMTk4MDFlMzQxOTN8MHwwfDYzOTE4ODk4NjY4MDIwMTk0MHxVbmtub3dufFRXRnBiR1pzYjNkOGV5SkZiWEIwZVUxaGNHa2lPblJ5ZFdVc0lsWWlPaUl3TGpBdU1EQXdNQ0lzSWxBaU9pSlhhVzR6TWlJc0lrRk9Jam9pVFdGcGJDSXNJbGRVSWpveWZRPT18MHx8fA%3d%3d&sdata=emdYUk15WklrR1FEa0YrMTE4cUMxYUFFd1MrbmhlWHJoWjhVT1NUOHA3az0%3d "https\://camorgau.sharepoint.com/sites/NEWS-Allusers/SitePages/2026-06-11%20-%20IT%20Systems%20User%20Policy.aspx?xsdata=MDV8MDJ8THVjeS5EYXZpc29uQGNhbS5vcmcuYXV8YWVkNDk2M2M5MmY0NDljMzJiYWYwOGRlZGFmZjJiZTR8NDhlZTIwYzdjOGVhNDIzYzhiMjhmMTk4MDFlMzQxOTN8MHwwfDY")*.*
 
 ## Data security
 
