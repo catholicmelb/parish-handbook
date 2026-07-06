@@ -41,7 +41,7 @@ Instructions for lodging support requests can be found at [Asta-CAM ICT Support]
 
 ## IT Systems User Policy
 
-The Archdiocese has published its *IT Systems User Policy*, which outlines the expectations and responsibilities for all users of the Archdiocese’s IT systems.
+The Archdiocese has published its *[IT Systems User Policy](https://camorgau.sharepoint.com/sites/NEWS-Allusers/SitePages/2026-06-11%20-%20IT%20Systems%20User%20Policy.aspx?xsdata=MDV8MDJ8THVjeS5EYXZpc29uQGNhbS5vcmcuYXV8YWVkNDk2M2M5MmY0NDljMzJiYWYwOGRlZGFmZjJiZTR8NDhlZTIwYzdjOGVhNDIzYzhiMjhmMTk4MDFlMzQxOTN8MHwwfDYzOTE4ODk4NjY4MDIwMTk0MHxVbmtub3dufFRXRnBiR1pzYjNkOGV5SkZiWEIwZVUxaGNHa2lPblJ5ZFdVc0lsWWlPaUl3TGpBdU1EQXdNQ0lzSWxBaU9pSlhhVzR6TWlJc0lrRk9Jam9pVFdGcGJDSXNJbGRVSWpveWZRPT18MHx8fA%3d%3d&sdata=emdYUk15WklrR1FEa0YrMTE4cUMxYUFFd1MrbmhlWHJoWjhVT1NUOHA3az0%3d)*, which outlines the expectations and responsibilities for all users of the Archdiocese’s IT systems.
 
 This policy applies broadly across the Archdiocese and its parishes, including employees, contractors, volunteers and authorised users.
 
