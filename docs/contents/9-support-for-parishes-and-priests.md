@@ -122,7 +122,7 @@ Chancellor of the Archdiocese\
 Chief of Staff to the Archbishop\
 Phone: (03) 9926 5614
 
-Ms Amy Wilson\
+Mrs Pauline Ryan\
 Executive Officer to the Archbishop\
 Phone: (03) 9926 5612
 
