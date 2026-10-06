@@ -49,7 +49,7 @@ Property-maintenance advice is available from the Archdiocese’s Property and I
 
 Parish priests must adopt the Safeguarding Children and Young People Framework put in place by the Archdiocese and must encourage the nomination of a Safeguarding Committee in their parish.
 
-Parish ministries providing services to, or offering activities involving the participation of, children must adhere to the safeguarding directives.
+Parish ministries providing services to, or offering activities involving the participation of, children and young people must adhere to the safeguarding directives.
 
 The parish’s overarching responsibilities in relation to safeguarding are to:
 
