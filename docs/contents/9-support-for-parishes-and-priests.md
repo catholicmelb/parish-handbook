@@ -137,10 +137,10 @@ The role of the Vicar General is to assist the Archbishop and bishops in the gov
 Among the VG Office’s particular areas of focus are:
 
 * providing assistance, support and liaison for clergy, parish staff, parishioners and the general public
-* co-ordinating the Personnel Advisory Board (PAB)
+* coordinating the Personnel Advisory Board (PAB)
 * providing administrative support for the College of Consultors
 * issuing faculties to clergy (on behalf of the Archbishop)
-* preparing letters of appointment of priests to parishes and co-ordinating oaths and professions of faith
+* preparing letters of appointment of priests to parishes and coordinating oaths and professions of faith
 * making applications to the Australian Catholic Ministry Register (ACMR)
 * approving clergy leave
 * coordinating marriage celebrant registration
@@ -157,14 +157,14 @@ Among the VG Office’s particular areas of focus are:
 
 ### Contacts
 
-Anthony Moate\
-Senior Operating Officer, Office of the Vicar General
+Sr Kath Tierney RSM AO\
+Acting Senior Operating Officer, Office of the Vicar General
 
 Monique Gristwood\
 Executive Assistant, Office of the Vicar General
 
 Valerie Bissessur\
-Personal Assistant
+Personal Assistant, Office of the Vicar General
 
 Phone: 03 9926 5638\
 Contact email: [vicar.general@cam.org.au](mailto:vicar.general@cam.org.au)
