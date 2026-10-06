@@ -295,25 +295,26 @@ Safeguarding is everyone’s responsibility. The safety and wellbeing of all per
 
 The Archdiocese acknowledges that safeguarding children, young people and adults at risk requires proactive approaches across policies, procedures and practices within parishes, agencies and entities, consistent with the requirements of the:
 
-* *Commission for Children and Young People Act 2012* *(Vic)*
 * *Child Wellbeing and Safety Act 2005* *(Vic)*
 
   * Child Safe Standards
   * Reportable Conduct Scheme
+* *Social Services Regulation Amendment (Child Safety, Complaints and Worker Regulation) Act 2025* *(Vic)*
 * *Children, Youth and Families Act 2005* *(Vic)*
 
   * Mandatory reporting
 * *Crimes Act 1958* *(Vic)*
-* Sexual offences
-* Grooming offence
-* Failure to disclose offence
-* Failure to respond offence
 
-  * *Privacy Act 1988* *(Cth)*
-* Privacy principles and obligations
+  * Sexual offences
+  * Grooming offence
+  * Failure to disclose offence
+  * Failure to respond offence
+* *Privacy Act 1988* *(Cth)*
 
-  * *Worker Screening Act 2020* *(Vic)*
-* Working with Children Checks and related offences
+  * Privacy principles and obligations
+* *Worker Screening Act 2020* *(Vic)*
+
+  * Working with Children Checks and related offences
 * National Principles for Child Safe Organisations (Australian Human Rights Commission)
 * National Catholic Safeguarding Standards (Australian Catholic Safeguarding Limited)
 * The Archdiocese’s Safeguarding and Wellbeing Policy for Children and Young People and the Safeguarding Children and Young People Code of Conduct
