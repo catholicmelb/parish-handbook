@@ -40,7 +40,7 @@ In summary, under the *Code of Canon Law*, the parish priest’s responsibiliti
 * attend carefully to the wishes of the founder or donor of money or goods to the parish (c. 1284, §2, 3–4°°).
 * at the proper time, make repayments of principal and interest payments on loans (c. 1284, §2, 5°)
 * invest profitably any surplus monies (c. 1284, §2, 6°)
-* keep accurate records of income and expenditure (cn. 1284, §2, 7°)
+* keep accurate records of income and expenditure (c. 1284, §2, 7°)
 * draw up an account of their administration at the end of each year (c. 1284, §2, 8°)
 * submit each year to the Archbishop an account of their administration (c. 1287, §1)
 * securely preserve and archive all records relating to parish assets (c. 1284, §2, 9°). This includes preparing and signing a clear inventory of parish goods (whether immovable property or movable objects, whether precious, of some cultural value or other goods) (c. 1283, 2° and 3°)
