@@ -1,0 +1,9 @@
+services:
+  docs:
+    command: pnpm docs:dev --host 127.0.0.1 --port 5173 --strictPort
+    port: 5173
+    health: /index.html
+    portals:
+      - url: /
+        title: Parish Handbook
+        description: VitePress dev server (pnpm docs:dev) with hot reload
